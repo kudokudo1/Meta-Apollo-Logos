@@ -1,0 +1,340 @@
+# Meta Apollo Logos // Poioumenon
+
+**What do we do after the sun dies? Here's our answer.**
+
+**Status:** living / recursive / unfinished  
+**Recorded:** 2026-10-01
+
+---
+
+## Why this document exists
+
+This document records the recursive loop that produced its own name.
+
+We were trying to decide what should live inside the new Meta Apollo Logos repository.
+
+The first obvious material was **How-I-Think** and the **Post-Apollo history**. They were not really separate ideas anymore. They were different parts of the same underlying thing: the origin, the reasoning, the evidence, the history, and the accumulated explanation behind the Post-Apollo work.
+
+Then the question became bigger.
+
+What do we call the thing underneath all of that?
+
+The answer was already there.
+
+**Meta Apollo Logos.**
+
+Not "ontology."
+
+Not "philosophy repository."
+
+Not another technical category.
+
+The name is the name.
+
+The rest of the repository is what the name contains.
+
+This document is the first place where we record the making of that decision.
+
+---
+
+## What we were actually trying to name
+
+The thing we needed to describe was not simply documentation.
+
+It was not simply history.
+
+It was not simply a philosophy.
+
+It was not simply "how I think."
+
+It was the body of evidence showing **why Post-Apollo exists**, while also being the record of **how Post-Apollo was actually made**.
+
+Those two things are connected.
+
+The project was not made first and explained afterward.
+
+The explanation changed while the thing was being made.
+
+The thing changed while the explanation was being made.
+
+The documentation became evidence.
+
+The evidence became a new object to think about.
+
+That object changed the next thing we made.
+
+That is the loop.
+
+**Think → make → observe → document → understand → make again.**
+
+So the documentation is not outside the process.
+
+It is one of the processes.
+
+---
+
+## The camera
+
+One of the central ideas that clarified this was the camera.
+
+Reality is the thing.
+
+A person's representation of reality is their camera.
+
+The camera is not reality.
+
+But the camera is not meaningless either. It is how the person encounters, records, interprets, and acts on the world.
+
+Every person has a different camera.
+
+The differences come from the person's body, memories, relationships, history, knowledge, attention, experiences, and everything else that makes that person that person.
+
+That is part of what we mean by the person's soul.
+
+But the differences between cameras do not mean that every camera is pointed at a different universe.
+
+We are different observers encountering a shared world.
+
+Same thing.
+
+Different thing.
+
+Different person.
+
+Different time.
+
+Different place.
+
+Different camera.
+
+The camera can be wrong.
+
+The camera can be damaged.
+
+The camera can be distorted.
+
+The camera can discover something the person did not understand before.
+
+And the camera itself can become something the person looks at.
+
+That is where the recursion begins.
+
+**The observer looks at the world.**
+
+**The observer notices their representation of the world.**
+
+**The observer examines the representation.**
+
+**The observer learns something about the observer.**
+
+**The observer changes the camera.**
+
+**The changed camera produces a new representation.**
+
+Then we look again.
+
+---
+
+## Why common sense entered the name
+
+The phrase **Common Sense** became the human anchor for the method.
+
+Not "common sense" as an appeal to whatever the majority happens to believe.
+
+Not "common sense" as proof that something must be true because it feels obvious.
+
+It means the human sanity check:
+
+**Look at the whole thing.**
+
+**Does this actually make sense?**
+
+**Does the explanation still fit the evidence?**
+
+**Did we accidentally confuse the camera with the world?**
+
+**Did the thing we built actually do what we thought it did?**
+
+That matters because the process cannot be handed entirely to a tool.
+
+AI can remove implementation friction.
+
+A person could learn the GitHub command, type it into the terminal, click through the website, read the documentation, write the code, organize the files, and do all the mechanical work themselves.
+
+They may simply not want to.
+
+That is not the same as being unable to do it.
+
+The useful abstraction is:
+
+**Do not spend human attention on work that does not require human authorship.**
+
+Let the tool handle the mechanical part.
+
+Keep the human judgment.
+
+That is why the human filter matters.
+
+---
+
+## Why Poioumenon won
+
+We considered three surviving forms:
+
+**Poiēthen Koinō Nō**
+
+**Koinō Nō Pepoiēmenon**
+
+**Koinō Nō Poioumenon**
+
+The first felt like a completed maker's mark:
+
+**Made with common sense.**
+
+The second felt like the artifact as evidence:
+
+**Fashioned with common sense.**
+
+The third preserved the thing that mattered most:
+
+**Being made with common sense.**
+
+That was the one.
+
+Because we do not know when the work is finished.
+
+An artist can stop working on a piece without believing that every possible improvement has disappeared.
+
+A scientist can publish a model without believing that reality has stopped.
+
+A person can reach a stage of life without reaching a final version of themselves.
+
+We can stop a version.
+
+We cannot know that we have reached the end of the making.
+
+So:
+
+**Koinō Nō Poioumenon**
+
+is not a declaration that we got everything right.
+
+It is a declaration about the way we are making the thing.
+
+**We are making it with common sense.**
+
+And if the evidence changes, we make it differently.
+
+---
+
+## Why the double slash matters
+
+The human-facing name is:
+
+**Meta Apollo Logos // Poioumenon**
+
+The double slash is intentional.
+
+It separates the thing from the mode in which the thing is being made.
+
+**Meta Apollo Logos** is the body.
+
+**Poioumenon** is the becoming.
+
+The machine has a small objection: a slash is a path separator in a filesystem, so the filename cannot literally contain the double slash.
+
+That is fine.
+
+We are bound by the laws of reality where we have to be.
+
+The official human-facing title can still be:
+
+**Meta Apollo Logos // Poioumenon**
+
+The machine-facing filename is:
+
+Meta-Apollo-Logos-Poioumenon.md
+
+The distinction itself is useful.
+
+The machine gets the identifier.
+
+The human gets the meaning.
+
+---
+
+## Why this is proof of concept
+
+This is the part that matters most.
+
+Meta Apollo Logos is not only proposing a method.
+
+It is being made using the method it proposes.
+
+We are documenting the naming process while naming the document.
+
+We are changing the repository structure while recording why the structure changed.
+
+We are using tools to remove mechanical difficulty while keeping the human decisions in the loop.
+
+We are looking at the result, deciding whether it actually represents what we mean, and changing it again when it does not.
+
+The repository is therefore not merely an explanation of the method.
+
+**The repository is an instance of the method.**
+
+The making is evidence.
+
+The evidence changes the making.
+
+The changed making becomes new evidence.
+
+That is the recursive loop.
+
+---
+
+## It does not end here
+
+This is not the final definition.
+
+That would contradict the point.
+
+This document is a snapshot of the understanding reached during this pass.
+
+Later material may change the definition.
+
+A later version may discover that something here was incomplete.
+
+Something may be renamed.
+
+Something may be removed.
+
+Something may be added that makes an old distinction unnecessary.
+
+That is not failure.
+
+That is the process.
+
+The loop does not need a final answer in order to be useful.
+
+It needs a way to remember what happened.
+
+That is why the history matters.
+
+That is why the documentation matters.
+
+That is why Meta Apollo Logos keeps its own record of becoming.
+
+---
+
+## The name
+
+**META APOLLO LOGOS // POIOUMENON**
+
+*Being made with common sense.*
+
+**What do we do after the sun dies?**
+
+**Here's our answer.**
+
+And then we keep looking.
