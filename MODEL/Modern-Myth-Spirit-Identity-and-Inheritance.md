@@ -39,8 +39,6 @@ That distinction connects directly to:
 
 # 1. Stories are not "just kids' shows"
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 "Kids' show" describes an audience category.
 
@@ -100,8 +98,6 @@ This is one reason fictional characters can function like modern myth.
 
 # 2. The source does not have to be prestigious
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 The meaning does not become more real because it arrived through a philosopher instead of a cartoon.
 
@@ -142,8 +138,6 @@ This is already the Meta Apollo transmission loop.
 ---
 
 # 3. Spider-Man: the frightening carrier becomes heroic through relationship
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 A spider is not an obvious heroic symbol.
@@ -188,8 +182,6 @@ The symbol has been recoded by relationship.
 
 # 4. "With great power..." is not merely a quote
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Spider-Man teaches a portable relation:
 
@@ -214,8 +206,6 @@ The relationship remains available.
 ---
 
 # 5. Biblical / Christian recognition and the difference between structure and genealogy
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 A recurring biblical pattern is:
@@ -283,8 +273,6 @@ The recurrence can be observed before its genealogy is settled.
 
 # 6. "I see the spirit"
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 In this working model, seeing the spirit of a story does not require believing that a literal supernatural object is hidden inside the text.
 
@@ -320,8 +308,6 @@ That is one operational meaning of:
 
 # 7. Peterson, Disney, archetype, and recurring structure
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Jordan Peterson's lectures on *The Lion King*, *Pinocchio*, *Snow White*, fairy tales, biblical narratives, and Jungian archetypes are relevant because they explicitly perform a similar operation:
 
@@ -356,8 +342,6 @@ The pattern and the explanation of the pattern should not be given the same conf
 ---
 
 # 8. The inverse problem: same carrier, different spirit
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Archetypal comparison usually asks:
@@ -396,8 +380,6 @@ A tiny causal change can alter the meaning of everything downstream.
 
 # 9. Modern superheroes as American popular mythology
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 "Modern myth" is not merely a casual description.
 
@@ -435,8 +417,6 @@ A change to them can therefore touch more than entertainment preference.
 
 # 10. Superman: surface continuity versus relational continuity
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Superman is not merely:
 
@@ -469,8 +449,6 @@ It is:
 ---
 
 # 11. Why comic readers fight about continuity
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Long-running comics create a persistent graph.
@@ -526,8 +504,6 @@ It is loss of continuity trust.
 
 # 12. Good retcon versus destructive retcon
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Comic readers often accept or celebrate retcons that:
 
@@ -554,8 +530,6 @@ A continuity change can be constructive if it preserves the identity-bearing rel
 ---
 
 # 13. Race, gender, and the wrong argument
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 A demographic change does not automatically determine whether a character's spirit survives.
@@ -605,8 +579,6 @@ The correct question is:
 
 # 14. Disney, Marvel, Star Wars, and stewardship
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Disney's acquisition of Marvel and Lucasfilm placed an extraordinary amount of American popular mythology under one corporate steward.
 
@@ -637,8 +609,6 @@ The question is whether the transmitted relationships remain legible.
 ---
 
 # 15. The machine does not need one villain
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Commercial pressure does not require one author sitting in a room saying:
@@ -680,8 +650,6 @@ This is an important causal distinction.
 ---
 
 # 16. Dragon Ball as a generational counterexample
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Early *Dragon Ball* allows time to remain real.
@@ -730,8 +698,6 @@ The next generation appears.
 
 # 17. Gohan: power before maturity
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Gohan begins *Dragon Ball Z* as a very young child with enormous latent power.
 
@@ -772,8 +738,6 @@ He is what comes after Goku.
 ---
 
 # 18. Cell as succession
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 The Cell Games stage a succession story.
@@ -820,8 +784,6 @@ It is:
 
 # 19. The Gohan handoff was real
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Toriyama later said that he intended to move Gohan into the leading role after Cell.
 
@@ -850,8 +812,6 @@ The larger commercial system still matters, but the causal claim must remain cor
 ---
 
 # 20. Gohan's deepest conflict may be with the serial itself
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Goku is an almost perfect perpetual shōnen engine:
@@ -911,8 +871,6 @@ That is a machine-level tension, not a simple claim about author greed.
 
 # 21. The problem is not "Gohan became a scholar"
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Becoming a scholar fits Gohan.
 
@@ -960,8 +918,6 @@ It is resetting it.
 
 # 22. The old Dragon Ball story kept trying to pass the torch
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Cell:
 
@@ -1002,8 +958,6 @@ and:
 
 # 23. Goku and the American superhero problem
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 The original Goku changes dramatically while remaining recognizably Goku.
 
@@ -1039,8 +993,6 @@ but not enough permanent change to make the commercially reusable icon cease bei
 
 # 24. Good transformation versus bad stagnation
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 This gives a useful Meta Apollo distinction.
 
@@ -1075,8 +1027,6 @@ This is almost the inverse of carrier-independent spirit.
 ---
 
 # 25. Inheritance is one of the central relations
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 The deeper Dragon Ball complaint is not:
@@ -1124,8 +1074,6 @@ The light should move.
 
 # 26. Stories as carriers of inherited moral technology
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 A culture does not need to transmit every lesson as a philosophical treatise.
 
@@ -1168,8 +1116,6 @@ They are examples of stories functioning as relational storage.
 
 # 27. Why changing the smallest thing can change everything
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 A story is not a bag of independent attributes.
 
@@ -1211,8 +1157,6 @@ Not all story facts are equal.
 
 # 28. Continuity is trust
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Continuity is not merely trivia accuracy.
 
@@ -1247,8 +1191,6 @@ If prior relationships can disappear arbitrarily, the user stops trusting the sy
 ---
 
 # 29. Author, machine, and responsibility
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 A story can be produced by one named creator while being embedded inside a much larger machine.
@@ -1291,8 +1233,6 @@ The correct camera can preserve both.
 ---
 
 # 30. Meta Apollo synthesis
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 This thread strengthens several existing Meta Apollo claims.
@@ -1386,8 +1326,6 @@ The successor needs to receive the light and transform it without severing what 
 
 # 31. A possible compact rule
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 > **Do not confuse preserving the carrier with preserving the spirit.**
 >
@@ -1410,8 +1348,6 @@ And for generational stories:
 ---
 
 # 32. Evidence boundaries
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Keep these distinctions explicit.
@@ -1450,8 +1386,6 @@ The structure can be real while the genealogy remains uncertain.
 ---
 
 # 33. Working conclusion
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 The deepest point is not that cartoons are secretly philosophy textbooks.
