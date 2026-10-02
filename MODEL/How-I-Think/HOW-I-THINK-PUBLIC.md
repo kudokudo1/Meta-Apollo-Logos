@@ -1,6 +1,10 @@
+✦︎✦︎✦︎ Meta Apollo Logos //
+
 # Nous tou Anthrōpou // Poiētou
 
 ![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
+> **STATE //** working \~\~ **VIEW //** public cognitive map
 
 > **Mind of the Human // Maker**
 
