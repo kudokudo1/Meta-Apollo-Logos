@@ -13,12 +13,12 @@
 
 > **The workshop.**
 
-## ★⋆˙ CORE // WHAT THIS ROOM IS
+### ★⋆˙ CORE // WHAT THIS ROOM IS
 
 
 DEV contains experiments and development material used to test the design language before it is promoted into reusable BUILD artifacts.
 
-## ⚒ CONTENTS // CURRENT
+### ⚒ CONTENTS // CURRENT
 
 
 | TEST | PURPOSE | STATE |
