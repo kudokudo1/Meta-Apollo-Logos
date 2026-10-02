@@ -1,5 +1,7 @@
 # 15 — Complete Personal Operating Model / Human Reference / Learning System
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Broad synthesis.  
 **Purpose:** Shove as much useful current information as possible into one durable file so a future AI, collaborator, or future version of me can start closer to the real map.  
 **Date:** 2026-09-27.  
