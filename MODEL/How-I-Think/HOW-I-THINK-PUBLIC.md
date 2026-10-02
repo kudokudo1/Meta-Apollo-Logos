@@ -1,5 +1,7 @@
 # Nous tou Anthrōpou // Poiētou
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 > **Mind of the Human // Maker**
 
 > **A public map of the recurring operations I use to understand, learn, communicate, remember, and act.**
