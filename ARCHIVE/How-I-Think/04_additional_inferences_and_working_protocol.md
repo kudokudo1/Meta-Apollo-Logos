@@ -1,5 +1,7 @@
 # Additional Inferences, Risks, Open Questions, and AI Working Protocol
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Purpose:** Capture useful deductions that were not fully explicit in the main conversation, plus places where the current model should remain testable rather than becoming a flattering mythology.
 
 This is intentionally the file where caveats, stopping rules, and open hypotheses live so they do not need to interrupt every normal conversation.
