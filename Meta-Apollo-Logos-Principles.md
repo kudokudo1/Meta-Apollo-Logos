@@ -1,413 +1,318 @@
 # META APOLLO LOGOS // PRINCIPLES
 
-> **The governing principles of Meta Apollo Logos.**
+> **Human · Power · Tactile · Nostalgia · Modular · Serious**
 
-This document is the canonical principles reference for Meta Apollo Logos.
+These are the governing design principles of Meta Apollo Logos.
 
-It does not replace the longer philosophy, history, evidence, or making-of documents.
+They are meant to be usable.
 
-It compresses the relationships that those documents are trying to preserve.
+You should be able to look at a piece of software, a document, a repository, an interface, a tool, or a system and ask whether it follows them without first understanding the entire philosophy behind Meta Apollo Logos.
 
----
+The philosophy still matters.
 
-# 1. The Camera Is Not the World
-
-Every person encounters reality through a camera shaped by:
-
-- body
-- history
-- memory
-- knowledge
-- attention
-- relationships
-- experience
-- circumstance
-
-Different cameras do not imply different realities.
-
-A camera can reveal something.
-
-A camera can distort something.
-
-A camera can be wrong.
-
-A camera can be improved.
-
-> **Do not mistake the camera for the world.**
-
-The representation must remain answerable to reality.
+These principles are how it reaches the work.
 
 ---
 
-# 2. Look at the Whole Thing
+# HUMAN
 
-Meta Apollo Logos does not treat local coherence as enough.
+> **The system is for a person. Design like it.**
 
-A claim, design, interpretation, or system should be checked against the wider relationships that make it what it is.
+A person should be able to approach the thing, understand what it is, figure out what they can do with it, and recover when something goes wrong.
 
-Ask:
+Do not make the human adapt to unnecessary machine-shaped friction.
 
-- Does it make sense?
-- Does it still fit the evidence?
-- What changed?
-- What remained?
-- What relation is carrying the meaning?
-- What did this decision affect elsewhere?
+Do not hide important relationships just because the implementation is complicated.
 
-A contradiction should not automatically destroy the entire model.
+Do not spend human attention on mechanical work that a tool can carry safely.
 
-A beautiful model should not survive merely because it is beautiful.
+The tool provides capability.
 
-> **Reality outranks the explanation.**
+The person provides direction.
 
----
+### In practice
 
-# 3. Think, Make, Observe, Document, Understand, Make Again
+- Make important state visible.
+- Use language a person can understand.
+- Give the user a clear next move.
+- Preserve context instead of forcing people to reconstruct it repeatedly.
+- Make errors explainable and recovery possible.
+- Automate mechanical work without automating away judgment.
+- Let different people use different routes when the same route is not necessary.
+- Treat accessibility, readability, and approachability as part of the design.
 
-The work is not designed completely in thought and implemented afterward.
+### Underneath it
 
-Making is part of thinking.
+The camera is not the world.
 
-Observation is part of making.
+Different people arrive with different histories, knowledge, expectations, constraints, and ways of seeing the same thing.
 
-Documentation is part of observation.
+A good system does not require identical cameras.
 
-The loop is:
-
-```
-THINK
-→ MAKE
-→ OBSERVE
-→ DOCUMENT
-→ UNDERSTAND
-→ MAKE AGAIN
-```
-
-The result becomes evidence about the reasoning that produced it.
-
-The evidence becomes material for the next version.
-
-> **The documentation is part of the project.**
+It gives people enough structure to orient themselves in a shared reality.
 
 ---
 
-# 4. The Human Keeps Judgment
+# POWER
 
-Tools can extend capability without replacing responsibility.
+> **Give people real capability, then make that capability understandable and controllable.**
 
-The tool may:
+Power is not decoration.
 
-- calculate
-- generate
-- search
-- carry
-- automate
-- transform
-- implement
+A button that looks powerful but cannot actually do anything is not power.
 
-The person still decides:
+A system that can do a great deal but hides what it is doing is also badly designed.
 
-- what is worth making
-- what problem matters
-- what is wrong
-- what should change
-- what should remain
-- what should be carried forward
+Meta Apollo systems should extend what a person can actually accomplish.
 
-> **The tool provides capability. The person provides direction.**
+As capability increases, responsibility increases with it.
 
-Use the useful tool.
+### In practice
 
-Do the work by hand when that is better.
+- Expose useful capability instead of hiding it behind arbitrary limitations.
+- Prefer direct action over unnecessary ceremony.
+- Show what an action will affect.
+- Give dangerous actions appropriate friction.
+- Make powerful operations reversible when possible.
+- Preserve logs, history, provenance, or other recovery paths when consequences matter.
+- Let automation carry repetitive work while keeping consequential decisions visible.
+- Do not confuse complexity with capability.
 
-Do not spend human attention on mechanical work merely because it can be done manually.
+### Underneath it
 
-Do not outsource human judgment merely because a machine can produce an answer.
+Tools extend human reach.
 
----
+More reach means more consequence.
 
-# 5. Power Creates Responsibility
+The tool may execute the action.
 
-Capability changes obligation.
-
-The more power a person, tool, institution, or system can exercise, the more seriously its effects must be considered.
-
-Power is not only the ability to dominate.
-
-It can be:
-
-- reach
-- leverage
-- automation
-- scale
-- influence
-- knowledge
-- control
-- amplification
-
-A powerful system should make responsibility more visible, not less.
-
-> **Greater capability increases the importance of judgment.**
+Responsibility does not disappear into the tool.
 
 ---
 
-# 6. The Carrier Can Change
+# TACTILE
 
-An idea does not have to remain in one form to remain recognizable.
+> **A system should feel like something you can touch, move through, and operate.**
 
-It may move through:
+Interaction should have weight.
 
-- people
-- words
-- software
-- stories
-- images
-- tools
-- institutions
-- cultures
-- places
+Controls should communicate what they are, what state they are in, and what happened when they were used.
 
-The carrier changes.
+Information should not feel like an endless wall that can only be read from top to bottom.
 
-The representation changes.
+Even when the medium is digital, the interface can still provide landmarks, surfaces, controls, movement, and feedback.
 
-The thing being carried may change with them.
+### In practice
 
-The question is not:
+- Give controls clear active, inactive, selected, disabled, and dangerous states.
+- Make actions produce visible feedback.
+- Use spatial organization to create landmarks.
+- Break large bodies of information into things the reader can enter, leave, expand, collapse, follow, and return to.
+- Prefer manipulable structure over passive information dumps.
+- Make navigation feel intentional.
+- Keep related controls physically and conceptually near each other.
+- Avoid interfaces where everything has the same visual weight.
 
-> Did every surface feature remain identical?
+### Underneath it
 
-The question is:
+A representation is a carrier.
 
-> **What relationship continued through the transformation?**
+The form changes how a person can encounter what it carries.
+
+Presentation is therefore part of function, not something added after the function is complete.
 
 ---
 
-# 7. Transformation Is Not Betrayal
+# NOSTALGIA
+
+> **Carry forward what older forms did well. Do not preserve their limitations by accident.**
+
+Nostalgia is not imitation for its own sake.
+
+Meta Apollo can borrow the familiarity, personality, legibility, physical metaphors, and cultural memory of older tools without pretending that old technology was perfect.
+
+A receiver dial, field manual, terminal, television panel, paper folder, cartridge, VCR display, or control board can carry useful interaction ideas because people already understand something about how those objects behave.
+
+Use that inheritance.
+
+Transform it when the new medium can do better.
+
+### In practice
+
+- Borrow recognizable interaction patterns when they improve understanding.
+- Preserve personality instead of sanding everything into generic modern UI.
+- Use old forms as starting points, not cages.
+- Keep the parts that still communicate well.
+- Replace limitations that existed only because of older hardware or software.
+- Let historical references carry meaning without requiring the user to know the reference.
+- Prefer lived-in character over artificial retro decoration.
+
+### Underneath it
+
+The carrier can change while something recognizable continues through it.
 
 Preservation does not require freezing.
 
-A thing can remain itself while changing.
+Transformation does not automatically mean betrayal.
 
-A thing can also keep its surface while losing the relationships that once made it itself.
-
-Therefore:
-
-> **Do not confuse preserving the carrier with preserving the spirit.**
-
-and:
-
-> **Do not confuse changing the carrier with destroying the spirit.**
-
-Track the relationships.
-
-Preserve what is load-bearing.
-
-Allow the rest to evolve.
+What matters is what survived the change and whether the new form still carries the relationship that made the old one useful.
 
 ---
 
-# 8. Being Made
+# MODULAR
 
-Meta Apollo Logos is not a finished doctrine.
+> **Things should connect without becoming inseparable.**
 
-It is not a final answer.
+A system should be able to grow, change, fail, or be replaced in parts.
 
-It is a thing being made.
+Boundaries should be visible enough that a person can understand what owns what, what depends on what, and what can change without dragging the entire system with it.
 
-A version can be complete enough to use without becoming final.
+Modules are not isolation.
 
-A document can end while the making continues.
+They are relationships with defined edges.
 
-A model can be useful while remaining correctable.
+### In practice
 
-> **Not finished. Being made.**
+- Give components clear responsibilities.
+- Separate concerns that change for different reasons.
+- Define interfaces between parts.
+- Avoid unnecessary shared state.
+- Make dependencies visible.
+- Allow one component to be replaced without rebuilding unrelated components.
+- Preserve provenance and ownership at important boundaries.
+- Build extension points where future growth is already plausible.
+- Do not split things merely to make the architecture look modular.
 
-This is the meaning carried by **Poioumenon**.
+### Underneath it
 
-The work should remain open to evidence, correction, reinterpretation, and better tools.
+Same thing / different thing matters here.
 
----
+Two parts can belong to one system without being the same component.
 
-# 9. Preserve the Thread
+A useful boundary preserves the relationship while keeping the difference real.
 
-Change should not erase the path that produced the current state.
+The goal is not maximum separation.
 
-History carries:
-
-- causality
-- responsibility
-- correction
-- provenance
-- failed attempts
-- inherited decisions
-- reasons something exists
-
-The current form should be understandable without requiring the entire archive.
-
-But the archive should remain available when reconstruction matters.
-
-> **A clean interface does not require historical amnesia.**
+The goal is the right separation.
 
 ---
 
-# 10. Receive, Understand, Change, Carry Forward
+# SERIOUS
 
-Meta Apollo Logos treats inheritance as active rather than passive.
+> **It can be playful on the surface because the structure underneath is real.**
 
-What is received does not need to be copied unchanged.
+Serious does not mean sterile.
 
-The movement is:
+It does not mean humorless.
 
-```
-RECEIVED
-→ UNDERSTOOD
-→ CHANGED
-→ CARRIED
-→ PASSED FORWARD
-→ RECEIVED AGAIN
-```
+It does not mean everything must look corporate, academic, or grim.
 
-Every carrier participates in the transmission.
+It means the thing should withstand being used.
 
-The next person is not merely a container.
+The code should work.
 
-They become part of what the thing becomes.
+The evidence should exist.
 
----
+The controls should correspond to real state.
 
-# 11. Spirit Is What Continues
+The documentation should help.
 
-The current Meta Apollo model uses **spirit** for the recognizable meaning-identity that can continue through changing carriers and representations.
+The architecture should survive contact with reality.
 
-Spirit is not identical to:
+A joke can be on the button.
 
-- the file
-- the costume
-- the sentence
-- the institution
-- the code
-- the person carrying it at one moment
+The button still has to work.
 
-Those can change.
+### In practice
 
-What matters is whether enough of the organizing relationship remains recognizable to continue.
+- Test claims against reality.
+- Keep evidence and provenance when they matter.
+- Distinguish known, inferred, experimental, and unresolved states.
+- Do not hide failure behind presentation.
+- Make unfinished work usable enough to evaluate.
+- Correct the model when the thing does not fit.
+- Let visual personality coexist with technical rigor.
+- Do not add complexity merely to look sophisticated.
+- Do not simplify something until the important relationships disappear.
 
-> **The carrier changes. The spirit continues.**
+### Underneath it
 
-This is an observable model of transmission first.
+Think.
 
-Stronger metaphysical interpretations remain separate questions.
+Make.
 
----
+Observe.
 
-# 12. Same Thing / Different Thing
+Document.
 
-Two things can be the same under one predicate and different under another.
+Understand.
 
-Meta Apollo Logos resists both errors:
+Make again.
 
-- flattening meaningful differences
-- inventing differences where the relevant relation is actually the same
+The work is allowed to change because reality is allowed to disagree with the current version.
 
-Ask:
-
-- same in what way?
-- different in what way?
-- at what time?
-- under which relation?
-- from which camera?
-
-> **Preserve identity without erasing difference. Preserve difference without losing identity.**
+A clean presentation is not a substitute for a load-bearing system.
 
 ---
 
-# 13. Different Buildings, Same Civilization
+# USING THE PRINCIPLES
 
-A living system should not require every expression to look identical.
+These principles are not six independent style settings.
 
-Shared identity can survive through:
+They constrain one another.
 
-- different repositories
-- different interfaces
-- different documents
-- different tools
-- different authors
-- different media
+A system with **Power** but no **Human** can become hostile.
 
-What should remain coherent is the grammar, the relationships, and the responsibility carried through them.
+A system with **Tactile** but no **Serious** becomes a toy facade.
 
-This is the basis for the Meta Apollo repository design language.
+A system with **Nostalgia** but no **Power** becomes costume.
 
-> **Standardize the grammar. Do not freeze the expression.**
+A system with **Modular** but no **Human** becomes architecture for architecture's sake.
 
----
+A system with **Serious** but no **Tactile** or **Nostalgia** can become technically correct and miserable to use.
 
-# 14. The Search Continues
+The target is the relationship between them.
 
-Meta Apollo Logos begins from a question, not a declaration of completion.
+When making a decision, ask:
 
-> **What do we do after the sun dies?**
+> **Is it Human?**  
+> Can a person understand and use it?
 
-The project is the search for an answer.
+> **Is it Powerful?**  
+> Does it give real capability?
 
-Any current answer remains subject to reality.
+> **Is it Tactile?**  
+> Can the person feel the structure, state, and result of interaction?
 
-Any representation remains a camera.
+> **Does it use Nostalgia well?**  
+> Is it carrying forward something useful rather than merely copying an old surface?
 
-Any tool remains a tool.
+> **Is it Modular?**  
+> Are the boundaries and relationships clear enough to change safely?
 
-Any version remains a carrier.
-
-The work may stop.
-
-The search does not have to stop with it.
+> **Is it Serious?**  
+> Does the thing underneath the presentation actually hold up?
 
 ---
 
-# Compact Form
+# THE RULE
 
-```
-REALITY
-→ CAMERA
-→ REPRESENTATION
-→ MAKING
-→ OBSERVATION
-→ DOCUMENTATION
-→ UNDERSTANDING
-→ TRANSFORMATION
-→ RESPONSIBILITY
-→ TRANSMISSION
-→ CONTINUATION
-```
+> **Do not bolt these principles onto the end.**
 
-And the inherited movement:
+They apply while the thing is being made.
 
-```
-received
-→ understood
-→ changed
-→ carried
-→ passed forward
-→ received again
-```
+A prototype can be rough.
+
+An unfinished system can be incomplete.
+
+Neither has to be generic, unreadable, hostile, or without character.
+
+Each version should already be becoming the thing it intends to be.
 
 ---
 
-# Relationship to Post-Apollo
+# CANONICAL REFERENCE
 
-The established Post-Apollo principles remain:
+If another Meta Apollo document, repository, template, or implementation needs the governing principles, it should point here rather than create another principles list.
 
-> **Power · Human · Tactile · Nostalgic · Modular · Serious**
-
-Those are design principles for Post-Apollo.
-
-This document is the broader Meta Apollo Logos principles reference.
-
-The two should inform one another without being collapsed into the same list.
-
----
-
-# Canonical Rule
-
-If another document, template, repository, or implementation needs to refer to the principles of Meta Apollo Logos, it should point here rather than inventing a second principles list.
+**HUMAN · POWER · TACTILE · NOSTALGIA · MODULAR · SERIOUS**
