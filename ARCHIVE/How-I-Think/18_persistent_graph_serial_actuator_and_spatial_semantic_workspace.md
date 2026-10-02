@@ -1,5 +1,7 @@
 # 18 — Persistent Graph, Serial Actuator, and the Spatial-Semantic Workspace
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Major model evolution.  
 **Purpose:** Capture the shift from “I think in graphs” to a more precise architecture: persistent graph state, graph-scheduled attention, serial action, cheap return pointers, embodied traversal, and physical/digital environments used as semantic workspaces.  
 **Date:** 2026-09-28.  
