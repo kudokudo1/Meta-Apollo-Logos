@@ -638,11 +638,57 @@ Use conventional node-shape meanings where they are already useful:
 
 Do not use `{ }` merely to group a subsystem; grouping and ownership boundaries should be expressed separately.
 
-## System / Runtime Color
+## Color Semantics
 
-**Omnitrix green — `#00F782`** is the canonical system/runtime color.
+Post-Apollo color carries both **role** and **attention/state**. Color is not only taxonomy.
 
-Use it for infrastructure and live system machinery such as:
+Canonical palette:
+
+```text
+Magenta       #C74EC7   highest importance / primary focus
+Orange        #ED981A   activity / control / ownership
+Yellow        #F2BE4E   menu / navigation / available choice
+Omnitrix      #00F782   system / runtime machinery
+Cyan          #55CFCA   module / normal structure
+Blue          #5B5FD4   scope / context
+Red           #D16041   warning / failure / destructive state
+Off-white     #DCF3FA   neutral / default information
+Purple        #1B0623   background / chassis
+```
+
+### Attention hierarchy
+
+A base semantic color may be elevated by state.
+
+```text
+normal role
+   ↓
+orange = active / operating / controlling
+   ↓
+magenta = central focus / highest-priority attention
+```
+
+Examples:
+
+```text
+MODULE // GIT      cyan normally
+MODULE // GIT      orange while actively doing work
+MODULE // GIT      magenta when it is the central thing being examined
+```
+
+Yellow remains distinct from orange:
+
+```text
+yellow   available / navigable / menu choice
+orange   active / operating / controlling
+magenta  primary focus / highest importance
+```
+
+This preserves the existing Post-Apollo interaction hierarchy instead of making color a rigid permanent identity.
+
+### System / Runtime
+
+**Omnitrix green — `#00F782`** is the canonical base color for infrastructure and live system machinery such as:
 
 - audio and PipeWire
 - shaders
@@ -652,7 +698,18 @@ Use it for infrastructure and live system machinery such as:
 - compositor integration
 - device and I/O paths
 
-Green does not mean generic success. VERIFIED remains a semantic state with its own symbol language.
+Omnitrix green does not mean generic success. VERIFIED remains a semantic state with its own symbol language.
+
+### Boundary base colors
+
+```text
+SYSTEM //   Omnitrix green
+MODULE //   Cyan
+OWNER //    Orange
+SCOPE //    Blue
+```
+
+These are base colors, not permanent overrides. Activity and focus may elevate a boundary to orange or magenta when the diagram needs to communicate state or importance.
 
 ---
 
