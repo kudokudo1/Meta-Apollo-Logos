@@ -915,6 +915,10 @@ Symbols, labels, shapes, and Ghost Strings should still carry enough meaning tha
 
 > **Color is part of the language, but never the only carrier of meaning.**
 
+Post-Apollo prefers **controlled color**, not colorless minimalism.
+
+Use color when it adds structure, state, hierarchy, orientation, or character. Pull it back only when competing colors make the information harder to read.
+
 Do not remove color merely to make a diagram more conventional.
 
 If a particular diagram becomes visually overloaded, simplify that diagram first: reduce emphasis, split the view, or remove unnecessary state decoration before abandoning semantic color.
