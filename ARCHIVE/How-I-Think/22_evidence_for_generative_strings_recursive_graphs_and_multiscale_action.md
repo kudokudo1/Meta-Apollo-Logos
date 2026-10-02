@@ -1,5 +1,7 @@
 # 22 — Evidence for Generative Strings, Recursive Graphs, and Multiscale Action
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Companion to:** 19_generative_strings_recursive_graphs_and_multiscale_action.md  
 **Status:** Evidence / explanation ledger.  
 **Purpose:** Record the observations that support the model of graph expansion, generative serialization, lazy regrowth, nested graphs, and rapid scale switching; preserve alternative explanations and failure tests.  
