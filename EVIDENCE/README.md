@@ -1,5 +1,7 @@
 # ⊹ ࣪ℼ˖ MAP // EVIDENCE
 
+STATE // active
+
 // [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // **[⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/)** \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
 ---
@@ -12,11 +14,21 @@ EVIDENCE contains material used to support, test, or demonstrate claims made els
 
 ## ⊹ ࣪ℼ˖ CONTENTS // CURRENT
 
-- [How-I-Think Evidence](./How-I-Think/)
+| EVIDENCE SET | SUPPORTS |
+|---|---|
+| [How-I-Think Evidence](./How-I-Think/) | claims in the public cognitive model |
+| [Repository Design Package Stress Tests](./Repository-Design-Package-Stress-Tests.md) | whether the seven-room/design grammar survives real repositories |
 
-This evidence remains linked to the cognitive model while living in the repository-wide evidence room.
+## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // DEV ↔ EVIDENCE
+
+```text
+[DEV / test machinery] ~~ produces » [EVIDENCE / observed result]
+```
+
+> **DEV contains the machinery used to test. EVIDENCE contains what the testing showed.**
 
 ## 🧭 MAP // WHERE TO GO NEXT
 
 - Need the public cognitive model these files support? Go to **MODEL / How-I-Think**.
+- Need the repository grammar being tested? Go to **MODEL / Repository Design Language**.
 - Need earlier cognitive-model development? Go to **ARCHIVE / How-I-Think**.
