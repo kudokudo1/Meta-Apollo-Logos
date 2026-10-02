@@ -629,12 +629,17 @@ Examples:
 [Input] ~~»> [Primary Pipeline] ~~» [Output]
 ```
 
-Use conventional node-shape meanings where they are already useful:
+Use a small, stable node-shape vocabulary:
 
 ```text
-[ ]   component / thing / state
-{ }   decision / condition / branch
+[THING]          component / object / service / ordinary system thing
+{QUESTION?}      decision / condition / branch
+((EVENT))        event / trigger
+[(DATA)]         stored data / persistent state
+[[SURFACE]]      UI / visible interface
 ```
+
+**THING is intentionally broad.** Do not split objects, services, components, or similar implementation categories unless the distinction materially helps the reader.
 
 Do not use `{ }` merely to group a subsystem; grouping and ownership boundaries should be expressed separately.
 
