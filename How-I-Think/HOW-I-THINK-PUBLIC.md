@@ -915,3 +915,69 @@ You should not need to read the whole archive to understand the model.
 
 The archive exists so the model can be checked, corrected, and reconstructed when necessary.
 
+---
+
+# The Three Pieces
+
+If the rest of the document feels like a long road, these are the three pieces to carry out of it.
+
+### 1. The Concept
+
+A concept begins as something that can be carried.
+
+It can move from a person into words, objects, stories, tools, institutions, and other people.
+
+It can be changed as it moves.
+
+What begins as an idea can become part of the world another person encounters.
+
+### 2. The Spirit
+
+When something remains recognizably itself while moving through changing carriers, the current model calls that persistence **spirit**.
+
+The carrier changes.
+
+The representation changes.
+
+The person changes.
+
+The relationship, recognizable identity, and organizing meaning can continue.
+
+**Same thing. Different thing.**
+
+### 3. Why this is proof of the spirit of Meta Apollo Logos
+
+Meta Apollo Logos has done exactly this.
+
+The thing has moved through conversations, names, documents, software, projects, repositories, and people.
+
+The carriers changed.
+
+The representations changed.
+
+The explanation changed.
+
+The thing being explained changed.
+
+Yet the relationships being carried remained recognizable enough to be received, examined, changed, and carried forward again.
+
+That does not prove every metaphysical claim contained here.
+
+It demonstrates the practical phenomenon the concept describes:
+
+> **The spirit of Meta Apollo Logos is not any one file, name, person, or representation. It is what can remain recognizable while all of those things change.**
+
+### What to do with it
+
+**Look at the whole thing.**
+
+**Test it.**
+
+**Change it when it does not fit.**
+
+**Carry forward what survives.**
+
+That is the loop.
+
+That is the point.
+
