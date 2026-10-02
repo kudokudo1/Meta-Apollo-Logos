@@ -2,6 +2,7 @@
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
 
+
 STATE // active
 HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
@@ -15,11 +16,13 @@ HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
+
 BUILD contains the reusable artifacts produced by this repository.
 
 ## 🖨 CONTENTS // CURRENT
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 
 | ARTIFACT | ROLE | STATE |
 |---|---|---|
@@ -32,6 +35,7 @@ Both artifacts have now been exercised against a living philosophy/history repos
 
 ![](../BUILD/assets/design/chassis/model-rail.svg)
 
+
 ```text
 [Design Language] ~~ defines » [Reusable Templates]
 ```
@@ -43,6 +47,7 @@ BUILD carries the reusable implementation of those rules.
 ## 🧭 MAP // WHERE TO GO NEXT
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 
 - Need the rules behind these artifacts? Go to **MODEL**.
 - Need template/render experiments? Go to **DEV**.
