@@ -34,6 +34,30 @@ Observed:
 
 ## ★⋆˙ CORE // RESULT
 
+```mermaid
+flowchart LR
+    M["Meta Apollo Logos"] --> S["Seven Semantic Rooms"]
+    T["Taskbars // Post-Apollo"] --> S
+    S --> A["Same Grammar"]
+    M --> P["Physical Content Reorganized"]
+    T --> R["Runtime Paths Preserved"]
+    P --> A
+    R --> A
+
+    classDef model fill:#1B0623,stroke:#55CFCA,color:#DCF3FA,stroke-width:2px;
+    classDef system fill:#1B0623,stroke:#00F782,color:#DCF3FA,stroke-width:2px;
+    classDef focus fill:#1B0623,stroke:#C74EC7,color:#DCF3FA,stroke-width:3px;
+    classDef agency fill:#1B0623,stroke:#ED981A,color:#DCF3FA,stroke-width:3px;
+    classDef neutral fill:#1B0623,stroke:#DCF3FA,color:#DCF3FA,stroke-width:2px;
+
+    class M model;
+    class T system;
+    class S focus;
+    class P agency;
+    class R agency;
+    class A neutral;
+```
+
 ```text
 same semantic rooms
         ~~
