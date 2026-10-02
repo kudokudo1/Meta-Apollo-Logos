@@ -2,6 +2,7 @@
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
 
+
 STATE // active
 HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 VIEW // repository orientation
@@ -15,6 +16,7 @@ VIEW // repository orientation
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
+
 
 ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is being edited, and where the major bodies of work live.
 
@@ -39,6 +41,7 @@ ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is b
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
 
+
 - [Editing Queue](./EDITING-QUEUE.md)
 - repository-wide navigation
 - current structural orientation
@@ -47,6 +50,7 @@ ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is b
 ## 🧭 MAP // WHERE TO GO NEXT
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 
 - Need the philosophy, cognitive model, principles, or design language? Go to **MODEL**.
 - Need the reusable repository artifacts? Go to **BUILD**.
