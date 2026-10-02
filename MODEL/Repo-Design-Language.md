@@ -5,8 +5,7 @@
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
-STATE // active
-HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+> **STATE //** active \~\~ **HEALTH //** ࣪˖ദ്ദി๋࣭⭑ VERIFIED \~\~ **VIEW //** repository design grammar
 
 
 > This design language derives from the canonical **[META APOLLO LOGOS // PRINCIPLES](./Meta-Apollo-Logos-Principles.md)**. It does not define a second principles system.
