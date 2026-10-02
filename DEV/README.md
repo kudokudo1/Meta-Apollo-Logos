@@ -18,6 +18,7 @@ DEV contains experiments and development material used to test the design langua
 |---|---|---|
 | [GitHub Header Render Test](./tests/GITHUB-HEADER-TEST.md) | verify heading/header behavior | ࣪˖ദ്ദി๋࣭⭑ VERIFIED |
 | [Symbol Render Test](./tests/SYMBOL-RENDER-TEST.md) | verify canonical symbol rendering | ࣪˖ദ്ദി๋࣭⭑ VERIFIED |
+| [Color Chassis Test](./tests/COLOR-CHASSIS-TEST.md) | verify semantic rails and density | ⊹⚡ ๋࣭⭑ PROVISIONAL |
 
 ## ⌯✦ PROCESS // PROMOTION FLOW
 
