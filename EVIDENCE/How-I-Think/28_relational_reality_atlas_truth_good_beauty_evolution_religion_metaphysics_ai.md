@@ -1,5 +1,7 @@
 # 28 — Relational Reality Atlas: Truth, Good, Beauty, Evolution, Religion, Metaphysics, and AI
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Working-model expansion / synthesis.  
 **Date:** 2026-10-01.  
 **Purpose:** Capture the new structure that emerged after extending the existing cognitive model across science, evolution, history, religion, metaphysics, culture, sensory experience, character embodiment, AI, and Meta Apollo.  
