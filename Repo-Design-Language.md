@@ -12,126 +12,360 @@ It is part of the architecture.
 
 ---
 
-# 1. The Seven Canonical Modes
+# 1. The Seven Canonical Rooms
 
-These labels describe **what kind of material the reader is looking at**.
+Every Meta Apollo repository uses the same seven top-level rooms:
 
-They are not mandatory folders. They are a shared semantic grammar.
-
-| Mode | Reader question | Typical contents |
+| Room | Reader question | Typical contents |
 | --- | --- | --- |
-| **MAP** | What is this? | Purpose, orientation, quick start, major pieces, navigation |
-| **MODEL** | How does it work? | Architecture, concepts, contracts, diagrams, data flow |
-| **BUILD** | What becomes the thing? | Source code, modules, assets, shipped config, packaging, vendored code |
-| **DEV** | How do I work on the thing? | Tests, scripts, developer tools, fixtures, mocks, debug helpers, release tooling |
-| **OPERATE** | How do I use or run it? | Installation, commands, workflows, controls, maintenance |
-| **EVIDENCE** | Why should I believe or trust this? | Tests, benchmarks, screenshots, references, experiments, proof stories |
-| **ARCHIVE** | How did we get here? | Old designs, superseded implementations, long discussions, history |
+| **ATLAS** | What is this whole repository? | Purpose, status, roadmap, repo-wide navigation, major pieces |
+| **MODEL** | How does it work? | Architecture, concepts, contracts, diagrams, specifications, design decisions |
+| **BUILD** | What becomes the thing? | Source code, modules, assets, shipped config, vendored code, packaging |
+| **DEV** | How do I work on the thing? | Tests, scripts, developer tools, fixtures, mocks, debug and release tooling |
+| **OPERATE** | How do I use or run it? | Installation, examples, workflows, configuration, runbooks, troubleshooting |
+| **EVIDENCE** | What shows that it works or supports the claim? | Test results, benchmark results, reports, experiments, screenshots, demonstrations |
+| **ARCHIVE** | How did we get here? | Legacy work, superseded designs, history, provenance |
 
 Canonical order:
 
 ```
-MAP
-↓
+ATLAS
 MODEL
-↓
 BUILD
-↓
 DEV
-↓
 OPERATE
-↓
 EVIDENCE
-↓
 ARCHIVE
 ```
 
-A repository may omit modes that do not apply.
+All seven rooms exist in every Meta Apollo repository, even when one is mostly empty.
 
-The labels should keep the same meaning everywhere.
-
----
-
-# 2. Depth Is a Separate Axis
-
-Do not confuse **content type** with **depth**.
-
-A BUILD document can have a surface explanation and a deep implementation reference.
-
-An EVIDENCE document can have a short conclusion and a full source trail.
-
-Use the three-level depth model when useful:
-
-```
-SURFACE
-→ DETAIL
-→ DEEP SOURCE
-```
-
-or, when provenance matters:
-
-```
-MAP
-→ EVIDENCE
-→ ARCHAEOLOGY
-```
-
-The first axis answers:
-
-> **What kind of thing is this?**
-
-The second answers:
-
-> **How deep do I need to go?**
+Consistency is intentional.
 
 ---
 
-# 3. Visual Principles
+# 2. Every Room Gets a Map
 
-## Legibility first
+GitHub automatically renders a folder's `README.md` when the folder is opened.
 
-If a visual treatment makes the page harder to scan, it failed.
+Meta Apollo uses that behavior deliberately.
 
-## Structure should be visible
+Every canonical room contains:
 
-A reader should be able to tell:
+```
+README.md
+```
 
-- where they are
-- what layer they are in
-- what kind of content this is
-- where to go next
+and the visible heading inside follows:
 
-## Aesthetics are functional
+```
+# MAP // ATLAS
+# MAP // MODEL
+# MAP // BUILD
+# MAP // DEV
+# MAP // OPERATE
+# MAP // EVIDENCE
+# MAP // ARCHIVE
+```
 
-Visual design should improve:
+**ATLAS** is the map of the whole territory.
 
-- navigation
-- recognition
-- memory
-- confidence
-- approachability
+A room's **README** is the map taped to the wall when you enter that room.
 
-## Compression without flattening
-
-Shorter is not automatically better.
-
-> **Compress the representation, not the relation.**
-
-## Same civilization, different buildings
-
-Repositories do not need identical layouts.
-
-They should share:
-
-- vocabulary
-- visual grammar
-- navigation logic
-- diagram language
-- semantic labels
+The filename remains `README.md` because GitHub gives it useful native behavior.
 
 ---
 
-# 4. Meta Apollo Visual Identity
+# 3. Shared Room-Map Chassis
+
+Every room map uses the same basic shape:
+
+```
+# MAP // <ROOM>
+
+WHAT THIS ROOM IS
+
+WHAT BELONGS HERE
+
+CURRENT CONTENTS
+
+WHERE TO GO NEXT
+```
+
+The wording can adapt to the room, but the navigation grammar stays recognizable.
+
+---
+
+# 4. Standard Repository Skeleton
+
+```text
+repo/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── SECURITY.md
+├── CHANGELOG.md
+├── .gitignore
+├── .github/
+│
+├── ATLAS/
+│   └── README.md
+│
+├── MODEL/
+│   └── README.md
+│
+├── BUILD/
+│   ├── README.md
+│   ├── src/
+│   ├── assets/
+│   ├── config/
+│   ├── vendor/
+│   └── packaging/
+│
+├── DEV/
+│   ├── README.md
+│   ├── tests/
+│   ├── scripts/
+│   ├── tools/
+│   └── debug/
+│
+├── OPERATE/
+│   ├── README.md
+│   ├── install/
+│   ├── examples/
+│   └── troubleshooting/
+│
+├── EVIDENCE/
+│   ├── README.md
+│   ├── test-results/
+│   ├── benchmark-results/
+│   ├── reports/
+│   ├── experiments/
+│   └── screenshots/
+│
+└── ARCHIVE/
+    ├── README.md
+    ├── legacy/
+    ├── superseded/
+    └── history/
+```
+
+The standard subfolders are starting points, not requirements for every project.
+
+The seven canonical rooms are the fixed part.
+
+---
+
+# 5. Root Exceptions
+
+Do not fight GitHub or build tooling merely to make the filesystem visually pure.
+
+Files that GitHub or common tooling expects at the repository root should remain there when appropriate.
+
+Common examples:
+
+- `README.md`
+- `LICENSE`
+- `CONTRIBUTING.md`
+- `SECURITY.md`
+- `CHANGELOG.md`
+- `.gitignore`
+- `.github/`
+- language/package manifests that tooling expects at root
+
+Use GitHub's conventions for behavior.
+
+Use Meta Apollo's conventions for meaning and presentation.
+
+---
+
+# 6. BUILD
+
+> **BUILD = the thing.**
+
+BUILD contains what becomes the product or directly defines the product.
+
+Typical contents:
+
+- `src/`
+- modules
+- components
+- services
+- models
+- `assets/`
+- shipped/default `config/`
+- `vendor/`
+- packaging
+- build/distribution definitions
+
+A common source shape is:
+
+```text
+BUILD/
+└── src/
+    ├── modules/
+    ├── components/
+    ├── services/
+    ├── models/
+    └── ...
+```
+
+Do not move something into DEV merely because a developer touches it.
+
+If it ships as part of the product or directly defines the product, it belongs in BUILD.
+
+---
+
+# 7. DEV
+
+> **DEV = the workshop.**
+
+DEV contains the machinery contributors use to create, inspect, verify, debug, generate, and release the product.
+
+Typical contents:
+
+- `tests/`
+- `scripts/`
+- `tools/`
+- fixtures
+- mocks
+- test helpers
+- debug/probe utilities
+- release tooling
+
+The test code lives here because it is developer machinery.
+
+The results produced by those tests do not.
+
+---
+
+# 8. OPERATE
+
+> **OPERATE = use the thing.**
+
+Typical contents:
+
+- installation
+- quick start
+- examples
+- user-facing configuration
+- common workflows
+- runbooks
+- diagnostics
+- troubleshooting
+- recovery
+
+Examples normally belong here because they usually answer:
+
+> **How do I use this?**
+
+---
+
+# 9. EVIDENCE
+
+> **EVIDENCE = show what happened.**
+
+Typical contents:
+
+- test results
+- benchmark results
+- coverage reports
+- experiment records
+- screenshots
+- demonstrations
+- comparison reports
+- supporting references
+
+The distinction is:
+
+> **DEV/tests = the machinery used to test.**  
+> **EVIDENCE = what the testing showed.**
+
+Evidence should support claims without taking over the main interface.
+
+---
+
+# 10. MODEL
+
+MODEL explains the structure underneath the product.
+
+Typical contents:
+
+- architecture
+- concepts
+- data flow
+- ownership
+- contracts/interfaces
+- specifications
+- design decisions
+- diagrams
+
+MODEL answers:
+
+> **How does this thing work, and why is it shaped this way?**
+
+---
+
+# 11. ATLAS
+
+ATLAS orients the reader to the repository as a whole.
+
+Typical contents:
+
+- purpose
+- current status
+- roadmap
+- major subsystems
+- repository-wide navigation
+- project relationships
+- fast paths for different readers
+
+ATLAS is not a generic dumping ground for documentation.
+
+It is the map of the territory.
+
+---
+
+# 12. ARCHIVE
+
+ARCHIVE preserves material that is intentionally historical.
+
+Typical contents:
+
+- legacy implementations
+- superseded designs
+- old architecture
+- historical notes
+- migration records
+- provenance
+
+Git already preserves revision history.
+
+ARCHIVE is for material a human should still be able to deliberately browse.
+
+A clean interface does not require historical amnesia.
+
+---
+
+# 13. Documentation Is Distributed by Purpose
+
+Meta Apollo does not use one giant generic `docs/` bucket by default.
+
+Documentation goes where its job belongs:
+
+```text
+ATLAS      → roadmap, orientation, status
+MODEL      → architecture, concepts, specifications
+OPERATE    → installation, examples, troubleshooting
+EVIDENCE   → reports, results, experiment records
+ARCHIVE    → historical and superseded documentation
+```
+
+The filesystem itself should help explain what a document is doing.
+
+---
+
+# 14. Visual Identity
 
 Primary palette inherited from Post-Apollo:
 
@@ -157,303 +391,7 @@ Mood:
 - not sterile
 - not generic SaaS
 
-Use the palette mainly in:
-
-- banners
-- diagrams
-- social preview images
-- SVG assets
-- documentation sites
-
-Long-form body text should remain easy to read.
-
----
-
-# 5. Repository Front Door
-
-Every public-facing repository should answer these questions near the top:
-
-1. **What is this?**
-2. **Why does it exist?**
-3. **What state is it in?**
-4. **Where should I start?**
-5. **Where is the actual implementation?**
-6. **Where is the evidence / history if I need it?**
-
-Recommended opening shape:
-
-```
-BANNER / TITLE
-ONE-LINE PURPOSE
-
-STATUS / MODE STRIP
-
-START HERE
-
-REPOSITORY MAP
-
-FAST PATH
-```
-
-Do not make the reader excavate the project before they can orient themselves.
-
----
-
-# 6. Canonical Content Blocks
-
-Use a small, consistent vocabulary.
-
-## CORE CLAIM
-
-A load-bearing statement.
-
-> **Core claim:** Serial output does not imply serial representation.
-
-## MODEL
-
-A structural explanation or mechanism.
-
-## EXAMPLE
-
-A concrete demonstration.
-
-## EVIDENCE
-
-A source, test, benchmark, artifact, or observation.
-
-## WARNING
-
-A known failure mode or dangerous assumption.
-
-## OPEN QUESTION
-
-Something deliberately unresolved.
-
-## IMPLEMENTATION
-
-Code-level or operational detail.
-
-## PROVENANCE
-
-Why a decision exists or where it came from.
-
-These labels are semantic, not decorative.
-
-Do not invent a new label for every interesting thought.
-
----
-
-# 7. Section Shape
-
-A major section should usually begin with:
-
-```
-## 03 · SECTION NAME
-
-One sentence explaining what this section is for.
-```
-
-Then, where useful:
-
-- core claim
-- model / diagram
-- implementation
-- evidence
-- deeper source
-
-Readers should be able to skim section headers and understand the whole document's skeleton.
-
----
-
-# 8. Diagrams
-
-Prefer a diagram when relationships are easier to see than describe.
-
-Good diagram targets:
-
-- architecture
-- state flow
-- ownership
-- data flow
-- feedback loops
-- dependency chains
-- layer relationships
-- user journeys
-- lifecycle
-
-Meta Apollo diagram rules:
-
-- few colors
-- consistent meaning per color
-- left-to-right or top-to-bottom flow
-- label relationships, not just boxes
-- do not decorate without carrying information
-- keep diagrams readable in dark and light contexts when possible
-
-Mermaid is preferred for diagrams that benefit from remaining version-controlled as text.
-
-SVG is preferred when stronger visual identity is needed.
-
----
-
-# 9. BUILD and DEV
-
-**BUILD** contains what becomes the product.
-
-Typical contents:
-
-- `src/`
-- modules
-- components
-- services
-- models
-- assets
-- shipped/default config
-- vendored dependencies
-- packaging
-- distribution/build definitions
-
-**DEV** contains the workshop used to create, inspect, verify, debug, and release the product.
-
-Typical contents:
-
-- `tests/`
-- `scripts/`
-- `tools/`
-- fixtures
-- mocks
-- test helpers
-- debug/probe utilities
-- release tooling
-
-The distinction is:
-
-> **BUILD = the thing.**  
-> **DEV = the workshop.**
-
-Do not move something into DEV merely because a developer touches it. If it ships as part of the product or directly defines the product, it belongs in BUILD.
-
----
-
-# 10. Code Presentation
-
-Code should feel like part of the same system, not a separate basement.
-
-For important code paths, explain:
-
-```
-WHY
-↓
-WHERE
-↓
-WHAT
-↓
-HOW TO TOUCH IT SAFELY
-```
-
-Useful BUILD sections include:
-
-- architecture map
-- source tree
-- ownership boundaries
-- primary entry points
-- contracts / interfaces
-- commands
-- tests
-- extension points
-
-Avoid dumping a file tree with no explanation.
-
----
-
-# 11. OPERATE Is Not BUILD
-
-**BUILD** is for people changing the machinery.
-
-**OPERATE** is for people using or managing it.
-
-Examples:
-
-BUILD:
-- source layout
-- API contract
-- compile instructions
-- module ownership
-
-OPERATE:
-- start
-- stop
-- configure
-- recover
-- common workflows
-- troubleshooting
-
-Keeping these separate makes software repositories dramatically easier to approach.
-
----
-
-# 12. Evidence Rules
-
-Evidence should support claims without taking over the main interface.
-
-Organize supporting material by **concept**, not prestige.
-
-Possible source roles:
-
-- **DIRECT SUPPORT**
-- **PARALLEL**
-- **EXAMPLE**
-- **HISTORICAL PRECEDENT**
-- **EMPIRICAL SUPPORT**
-- **METAPHYSICAL / RELIGIOUS PARALLEL**
-
-A famous name does not become evidence merely by appearing.
-
-State what relationship the source actually has to the claim.
-
----
-
-# 13. Archive Rules
-
-The archive is allowed to be ugly.
-
-It is not allowed to be misleading.
-
-Archive files should ideally preserve:
-
-- date / period
-- purpose
-- status
-- whether superseded
-- replacement if known
-
-Do not delete history merely because the public interface has become cleaner.
-
----
-
-# 14. Multi-Zoom Reading
-
-A good Meta Apollo repository should support at least four reading speeds.
-
-### Zoom 1 — Glance
-
-Understand what the project is in roughly 30 seconds.
-
-### Zoom 2 — Orient
-
-Find the relevant area in a few minutes.
-
-### Zoom 3 — Study
-
-Read the actual model, architecture, or workflow.
-
-### Zoom 4 — Inspect
-
-Trace evidence, implementation, history, or provenance.
-
-A reader should choose their depth.
-
-The repository should not choose maximum depth for them.
+Long-form text remains readable first.
 
 ---
 
