@@ -1,4 +1,4 @@
-# How I Think — Archive
+# Nous tou Anthrōpou // Poiētou — Archive
 
 This folder preserves the long-form development record.
 
