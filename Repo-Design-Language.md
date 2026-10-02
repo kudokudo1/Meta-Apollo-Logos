@@ -812,7 +812,46 @@ These are base colors, not permanent overrides. Activity and focus may elevate a
 
 ---
 
-# 20. Design Invariant
+# 20. Diagram Density and Escalation
+
+Do not make a full diagram merely because diagram notation exists.
+
+Use the smallest representation that makes the relationship clear.
+
+```text
+prose
+  ↓
+inline relation
+  ↓
+small local sketch
+  ↓
+full diagram
+```
+
+Examples:
+
+```text
+[Git Panel] ~~ [Git Service]
+```
+
+may be enough by itself.
+
+A full diagram is appropriate when topology, branching, containment, ownership, multiple paths, or system shape is itself important to the explanation.
+
+When a full diagram is needed:
+
+- one diagram should answer one main question
+- prefer an overview followed by smaller zoomed views
+- split the view when unrelated paths compete for attention
+- if the reader needs a paragraph just to know where to look first, simplify or split it
+
+## Rule
+
+> **Do not diagram the sentence. Diagram the structure when the structure matters.**
+
+---
+
+# 21. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
