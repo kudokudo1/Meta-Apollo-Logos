@@ -2,11 +2,11 @@
 
 ### <ONE-LINE PURPOSE>
 
-**<STATUS> · C<STATE>**
+**<STATUS> · c<STATE>**
 
 > <ONE SENTENCE THAT DEFINES THE PROJECT>
 
-`C<STATE>` marks the current working state. Replace it with the project's actual state marker.
+`c<STATE>` marks the current working state. Replace it with the project's actual state marker.
 
 ---
 
