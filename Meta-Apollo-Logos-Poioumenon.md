@@ -391,35 +391,199 @@ The loop continues.
 
 ## It does not end here
 
-This is not the final definition.
+This document is a stopping point.
 
-That would contradict the point.
+It is not an ending.
 
-This document is a snapshot of the understanding reached during this pass.
+A concept can begin inside one person.
 
-Later material may change the definition.
+It can be spoken.
 
-A later version may discover that something here was incomplete.
+Written down.
 
-Something may be renamed.
+Built into something.
 
-Something may be removed.
+Remembered by someone else.
 
-Something may be added that makes an old distinction unnecessary.
+Used.
 
-That is not failure.
+Changed.
 
-That is the process.
+Repeated.
 
-The loop does not need a final answer in order to be useful.
+Passed on.
 
-It needs a way to remember what happened.
+At first, it may simply be an idea.
 
-That is why the history matters.
+Then it becomes a relationship between people and the thing they are carrying.
 
-That is why the documentation matters.
+That relationship can begin to shape behavior.
 
-That is why Meta Apollo Logos keeps its own record of becoming.
+Behavior can become habit.
+
+Habit can become expectation.
+
+Expectation can become rule.
+
+Rules can become institutions.
+
+Institutions can become culture.
+
+Culture can become part of the environment another person grows up inside.
+
+**concept → meaning → relationship → behavior → habit → norm → institution → culture → environment → new person**
+
+At that point, the concept is no longer only something somebody thought.
+
+It has become something that can influence people.
+
+Something people can recognize.
+
+Something people can act through.
+
+Something that can represent relationships between people, places, objects, histories, values, and ideas.
+
+The original person may be gone.
+
+The original words may be gone.
+
+The original form may be gone.
+
+Yet something can remain recognizable across the changes.
+
+**That is where the ordinary process begins to touch the metaphysical one of human experience.**
+
+---
+
+## The spirit
+
+A spirit can begin inside one person.
+
+It can be spoken.
+
+Written down.
+
+Built into something.
+
+Remembered by someone else.
+
+Used.
+
+Changed.
+
+Repeated.
+
+Passed on.
+
+At first, it may simply be a concept.
+
+Then it becomes meaning.
+
+Meaning becomes relationship.
+
+Relationship becomes influence.
+
+Influence becomes part of the world another person encounters.
+
+The current model calls the persistent, transmissible meaning-identity that can continue through that process **spirit**.
+
+A spirit is not identical to the thing carrying it.
+
+A flag is not a nation.
+
+A building is not an institution.
+
+A song is not one performance.
+
+A story is not one telling.
+
+A person's work is not the person.
+
+But each can carry relationships, meaning, memory, values, history, identity, and ways of acting that came from somewhere else.
+
+Those things can influence the person who encounters them.
+
+They can change what the person notices.
+
+What the person values.
+
+What the person does.
+
+What the person builds next.
+
+And when that meaning passes into another person, the carrier changes again.
+
+A spirit can therefore appear through:
+
+- a person
+- a sentence
+- a story
+- a song
+- a work of art
+- a piece of software
+- an institution
+- a culture
+- a place
+
+No single carrier has to contain the whole thing.
+
+No single representation has to remain unchanged.
+
+What continues is the relationship.
+
+The recognizable identity.
+
+The organizing meaning.
+
+**Same thing. Different thing.**
+
+A soul is the individual form of that same problem.
+
+A person's body changes.
+
+Their words change.
+
+Their work changes.
+
+Their circumstances change.
+
+The medium through which they are encountered can change.
+
+Yet something about that person can remain recognizable across those transformations.
+
+The current model calls that identity-preserving organization **soul**.
+
+The metaphysical claim does not begin somewhere outside the world.
+
+It begins with the ordinary process already described.
+
+A concept becomes meaning.
+
+Meaning becomes relationship.
+
+Relationship becomes influence.
+
+Influence becomes part of the world.
+
+And when that meaning remains recognizably itself while moving through people and representations:
+
+**spirit.**
+
+---
+
+The light was never required to remain in one hand.
+
+It only had to be carried far enough for another hand to receive it.
+
+**received → understood → changed → carried → passed forward → received again**
+
+The document ends here.
+
+The making does not.
+
+The carrier changes.
+
+The spirit continues.
 
 ---
 
@@ -431,6 +595,4 @@ That is why Meta Apollo Logos keeps its own record of becoming.
 
 **What do we do after the sun dies?**
 
-**Here's our answer.**
-
-And then we keep looking.
+**The search for an answer continues.**
