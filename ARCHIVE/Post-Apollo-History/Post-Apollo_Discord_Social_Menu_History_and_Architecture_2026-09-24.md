@@ -1,4 +1,6 @@
 # Post-Apollo Discord / Social Menu
+
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
 ## Complete History, Architecture, Landmark Fixes, and Future Direction
 
 **Documentation date:** 2026-09-24  
