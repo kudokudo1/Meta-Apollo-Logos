@@ -1,5 +1,7 @@
 # 25 — Evidence for MEART, Semantic Storage, Autobiographical Landmarks, and the Mage Effect
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Companion to:** 24_meart_semantic_storage_autobiographical_landmarks_and_the_mage_effect.md  
 **Status:** Evidence / explanation ledger.  
 **Purpose:** Separate the newest claims from the observations supporting them, preserve artifact-level evidence, record live prediction matches and corrections, and make the MEART / storage / mage model easier to falsify rather than merely admire.  
