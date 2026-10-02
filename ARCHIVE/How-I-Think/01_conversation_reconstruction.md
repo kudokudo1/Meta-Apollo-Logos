@@ -1,5 +1,7 @@
 # Conversation Reconstruction — Cognition, Truth, Art, Systems, AI, and Project Architecture
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Comprehensive reconstruction and synthesis of the conversation, not a verbatim transcript.  
 **Purpose:** Preserve the sequence of ideas, corrections, analogies, examples, and discoveries that emerged so a future AI—or the user—can recover the full shape of the discussion rather than only its final conclusions.
 
