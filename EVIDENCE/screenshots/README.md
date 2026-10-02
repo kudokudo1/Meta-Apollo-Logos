@@ -1,8 +1,10 @@
+✦︎✦︎✦︎ Meta Apollo Logos //
+
 # VISUAL EVIDENCE // RESERVED
 
 ![](../../BUILD/assets/design/chassis/neutral-rail.svg)
 
-STATE // reserved
+> **STATE //** reserved \~\~ **VIEW //** visual evidence slot
 
 This space is intentionally left open for screenshots, visual demonstrations, before/after comparisons, and other visual evidence.
 
