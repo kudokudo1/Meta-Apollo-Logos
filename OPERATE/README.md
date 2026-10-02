@@ -13,7 +13,7 @@
 
 > **Use the thing.**
 
-## ★⋆˙ CORE // WHAT THIS ROOM IS
+### ★⋆˙ CORE // WHAT THIS ROOM IS
 
 
 OPERATE explains how to apply and maintain the Meta Apollo repository system without treating the template as a rigid filesystem law.
