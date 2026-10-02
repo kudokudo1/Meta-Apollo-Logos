@@ -12,7 +12,7 @@ It is part of the architecture.
 
 ---
 
-# 1. The Six Canonical Modes
+# 1. The Seven Canonical Modes
 
 These labels describe **what kind of material the reader is looking at**.
 
@@ -22,7 +22,8 @@ They are not mandatory folders. They are a shared semantic grammar.
 | --- | --- | --- |
 | **MAP** | What is this? | Purpose, orientation, quick start, major pieces, navigation |
 | **MODEL** | How does it work? | Architecture, concepts, contracts, diagrams, data flow |
-| **BUILD** | Where is the machinery? | Source code, modules, APIs, developer setup, implementation |
+| **BUILD** | What becomes the thing? | Source code, modules, assets, shipped config, packaging, vendored code |
+| **DEV** | How do I work on the thing? | Tests, scripts, developer tools, fixtures, mocks, debug helpers, release tooling |
 | **OPERATE** | How do I use or run it? | Installation, commands, workflows, controls, maintenance |
 | **EVIDENCE** | Why should I believe or trust this? | Tests, benchmarks, screenshots, references, experiments, proof stories |
 | **ARCHIVE** | How did we get here? | Old designs, superseded implementations, long discussions, history |
@@ -35,6 +36,8 @@ MAP
 MODEL
 ↓
 BUILD
+↓
+DEV
 ↓
 OPERATE
 ↓
@@ -293,7 +296,46 @@ SVG is preferred when stronger visual identity is needed.
 
 ---
 
-# 9. Code Presentation
+# 9. BUILD and DEV
+
+**BUILD** contains what becomes the product.
+
+Typical contents:
+
+- `src/`
+- modules
+- components
+- services
+- models
+- assets
+- shipped/default config
+- vendored dependencies
+- packaging
+- distribution/build definitions
+
+**DEV** contains the workshop used to create, inspect, verify, debug, and release the product.
+
+Typical contents:
+
+- `tests/`
+- `scripts/`
+- `tools/`
+- fixtures
+- mocks
+- test helpers
+- debug/probe utilities
+- release tooling
+
+The distinction is:
+
+> **BUILD = the thing.**  
+> **DEV = the workshop.**
+
+Do not move something into DEV merely because a developer touches it. If it ships as part of the product or directly defines the product, it belongs in BUILD.
+
+---
+
+# 10. Code Presentation
 
 Code should feel like part of the same system, not a separate basement.
 
@@ -324,7 +366,7 @@ Avoid dumping a file tree with no explanation.
 
 ---
 
-# 10. OPERATE Is Not BUILD
+# 11. OPERATE Is Not BUILD
 
 **BUILD** is for people changing the machinery.
 
@@ -350,7 +392,7 @@ Keeping these separate makes software repositories dramatically easier to approa
 
 ---
 
-# 11. Evidence Rules
+# 12. Evidence Rules
 
 Evidence should support claims without taking over the main interface.
 
@@ -371,7 +413,7 @@ State what relationship the source actually has to the claim.
 
 ---
 
-# 12. Archive Rules
+# 13. Archive Rules
 
 The archive is allowed to be ugly.
 
@@ -389,7 +431,7 @@ Do not delete history merely because the public interface has become cleaner.
 
 ---
 
-# 13. Multi-Zoom Reading
+# 14. Multi-Zoom Reading
 
 A good Meta Apollo repository should support at least four reading speeds.
 
@@ -415,7 +457,7 @@ The repository should not choose maximum depth for them.
 
 ---
 
-# 14. Design Invariant
+# 15. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
