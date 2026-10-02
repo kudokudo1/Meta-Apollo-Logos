@@ -1068,7 +1068,38 @@ Keep status strips compact. Do not turn them into a second summary paragraph.
 
 ---
 
-# 25. Design Invariant
+# 25. Spacing and Alignment
+
+Post-Apollo diagrams should feel mechanically constructed rather than loosely arranged.
+
+Use consistent spacing, baselines, and enclosure geometry.
+
+Guidelines:
+
+- keep one blank visual row around important content inside a boundary when space allows
+- align sibling nodes to the same baseline
+- keep connector spacing consistent
+- center titles relative to their boundary
+- inset nested boundaries visibly at each level
+- align grouped metadata labels such as `STATE //`, `SCOPE //`, and `VIEW //`
+- do not stretch a diagram merely to force identical line lengths
+- keep structural boxes clean and aligned even when emphasis effects are irregular
+
+Example:
+
+```text
+STATE // active · c0.7
+SCOPE // local repository
+VIEW  // ownership
+```
+
+## Rule
+
+> **Alignment belongs to the chassis. Irregularity belongs to the glow.**
+
+---
+
+# 26. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
