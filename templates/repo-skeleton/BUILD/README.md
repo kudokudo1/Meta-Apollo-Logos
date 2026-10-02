@@ -1,5 +1,9 @@
 # MAP // BUILD
 
+// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+
+---
+
 > **What becomes the thing.**
 
 ## What this room is
