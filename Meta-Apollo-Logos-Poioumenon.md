@@ -1,8 +1,11 @@
 # Meta Apollo Logos // Poioumenon
 
-**What do we do after the sun dies? Here's our answer.**
+**What do we do after the sun dies? The search for an answer.**
 
-**Status:** living / recursive / unfinished  
+**Meta Apollo data**
+
+**Status:** living / recursive / continuous?
+
 **Recorded:** 2026-10-01
 
 ---
