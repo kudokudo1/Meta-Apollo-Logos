@@ -2,7 +2,8 @@
 
 # ✮˙๋࣭⭑ MODEL // NOUS TOU ANTHRŌPOU // POIĒTOU
 
-![](../../BUILD/assets/design/chassis/model-rail.svg)
+![](../../BUILD/assets/design/chassis/focus-rail.svg)
+
 
 STATE // active
 
@@ -15,7 +16,6 @@ This section of Meta Apollo Logos uses a three-layer structure.
 
 ## 🧭 MAP // CURRENT MODEL
 
-![](../../BUILD/assets/design/chassis/model-rail.svg)
 
 Start here:
 
@@ -25,7 +25,6 @@ This is the forward-facing version: the current model, organized by function ins
 
 ## ⊹ ࣪ℼ˖ EVIDENCE // SUPPORT
 
-![](../../BUILD/assets/design/chassis/neutral-rail.svg)
 
 The evidence layer contains selected conversation evidence, artifacts, predictions, corrections, project examples, and proof stories.
 
@@ -41,7 +40,6 @@ without requiring the reader to consume the entire development history.
 
 ## ࣪⋅˚🕮‧₊˚ ARCHIVE // ARCHAEOLOGY
 
-![](../../BUILD/assets/design/chassis/neutral-rail.svg)
 
 The long-form development record is preserved in:
 
@@ -55,7 +53,8 @@ If the public map is the claim, and the evidence layer is the supporting materia
 
 ## ★⋆˙ CORE // READING RULE
 
-![](../../BUILD/assets/design/chassis/nav-rail.svg)
+![](../../BUILD/assets/design/chassis/focus-rail.svg)
+
 
 > **Map → Evidence → Archaeology**
 
