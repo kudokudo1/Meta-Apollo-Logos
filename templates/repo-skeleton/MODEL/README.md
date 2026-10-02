@@ -1,16 +1,16 @@
-# MAP // MODEL
+# ✮˙๋࣭⭑ MAP // MODEL
 
-// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+// [🧭 ATLAS](../ATLAS/) \~\~ // **[✮˙๋࣭⭑ MODEL](../MODEL/)** \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
 ---
 
 > **How the thing works and why it is shaped this way.**
 
-## What this room is
+## ★⋆˙ CORE // WHAT THIS ROOM IS
 
 MODEL explains the system beneath the surface.
 
-## What belongs here
+## ✮˙๋࣭⭑ CONTENTS // WHAT BELONGS HERE
 
 - architecture
 - concepts
@@ -21,11 +21,11 @@ MODEL explains the system beneath the surface.
 - diagrams
 - design decisions
 
-## Current contents
+## ✮˙๋࣭⭑ CONTENTS // CURRENT
 
 <What is currently stored in MODEL?>
 
-## Where to go next
+## 🧭 MAP // WHERE TO GO NEXT
 
 - Need implementation? Go to **BUILD**.
 - Need contributor machinery? Go to **DEV**.
