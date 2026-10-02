@@ -17,3 +17,15 @@ The evidence layer is not the archive.
 The archive preserves the longer development history and earlier material. This layer is the material selected to help a reader inspect particular claims without reading the entire archaeological record.
 
 > **Map → Evidence → Archaeology**
+
+---
+
+## How the evidence fits
+
+**Concept** → what can be carried.
+
+**Spirit** → what remains recognizable through changing carriers.
+
+**Proof of spirit** → evidence that Meta Apollo Logos itself has undergone that transmission while remaining recognizable.
+
+The evidence is here so those claims can be inspected rather than merely asserted.
