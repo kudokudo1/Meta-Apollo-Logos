@@ -284,8 +284,6 @@ A clean presentation is not a substitute for a load-bearing system.
 
 # USING THE PRINCIPLES
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 These principles are not six independent style settings.
 
@@ -327,8 +325,6 @@ When making a decision, ask:
 
 # THE RULE
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 > **Do not bolt these principles onto the end.**
 
@@ -345,8 +341,6 @@ Each version should already be becoming the thing it intends to be.
 ---
 
 # CANONICAL REFERENCE
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 If another Meta Apollo document, repository, template, or implementation needs the governing principles, it should point here rather than create another principles list.
