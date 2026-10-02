@@ -137,8 +137,8 @@ Understanding can continue after the document stops.
 
 The repository brings together material that was previously separated.
 
-### **How-I-Think**
-The cognitive models, observations, evidence, and ways of reasoning that shaped the work.
+### **[How-I-Think](./How-I-Think/)**
+The public-facing cognitive map, selected evidence, and preserved development record behind the work.
 
 ### **Post-Apollo history**
 The events, decisions, experiments, and developments through which the work came to exist.
