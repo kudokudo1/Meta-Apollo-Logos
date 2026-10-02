@@ -474,7 +474,80 @@ Do not invent a state number merely to fill the field.
 
 ---
 
-# 17. Design Invariant
+# 17. Content-Block Grammar
+
+Meta Apollo documents use the canonical pattern:
+
+```text
+SYMBOL + TYPE // SUBJECT
+```
+
+The symbol identifies the semantic role.
+
+The type names the kind of block.
+
+The subject tells the reader what this specific block is about.
+
+Examples:
+
+```md
+## ✮˙๋࣭⭑ MODEL // SYSTEM ARCHITECTURE
+## ⌯✦ PROCESS // STARTUP FLOW
+## ⊹ ࣪ℼ˖ EVIDENCE // TEST RESULTS
+## ˖⚠ ๋࣭⭑ WARNING // DESTRUCTIVE ACTION
+```
+
+Use the same grammar for smaller in-section blocks when appropriate.
+
+## Canonical block types
+
+### ★⋆˙ CORE
+
+Use for a load-bearing claim or rule that the surrounding section depends on.
+
+### ✮˙๋࣭⭑ MODEL
+
+Use for structural explanations, architecture, or conceptual machinery.
+
+### ⌯✦ PROCESS
+
+Use for sequences, flows, lifecycles, or ordered transformations.
+
+### ˖ ࣪♻๋࣭⭑ RELATIONSHIP
+
+Use when the important information is the relationship between two or more things.
+
+### ˖⚠ ๋࣭⭑ WARNING
+
+Use for failure modes, destructive actions, dangerous assumptions, or important constraints.
+
+### ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+
+Use for states, facts, or behavior that have actually been checked.
+
+### ⊹⚡ ๋࣭⭑ PROVISIONAL
+
+Use for working models, hypotheses, incomplete architecture, or decisions that are not yet frozen.
+
+### ⁴⁰⁴ DEPRECATED
+
+Use for old paths, behaviors, APIs, or structures that remain visible for history or compatibility but should not be used for new work.
+
+### ↺ REVISION
+
+Use when the change itself matters: previous state, current state, and why the transition happened.
+
+## Rule
+
+The block should still be readable without knowing the symbol language.
+
+Symbols provide scanning and semantic reinforcement.
+
+They do not replace plain language.
+
+---
+
+# 18. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
