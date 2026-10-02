@@ -2,6 +2,8 @@
 
 # ⌯✦ PROCESS // POIOUMENON
 
+![](../BUILD/assets/design/chassis/agency-rail.svg)
+
 STATE // living / recursive / continuous?
 HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
 RECORDED // 2026-10-01
@@ -11,6 +13,8 @@ RECORDED // 2026-10-01
 ---
 
 ## ★⋆˙ CORE // WHY THIS DOCUMENT EXISTS
+
+![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 This document records the recursive loop that produced its own name.
 
@@ -41,6 +45,8 @@ This document is the first place where we record the making of that decision.
 ---
 
 ## What we were actually trying to name
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 The thing we needed to describe was not simply documentation.
 
@@ -77,6 +83,8 @@ It is one of the processes.
 ---
 
 ## The camera
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 One of the central ideas that clarified this was the camera.
 
@@ -139,6 +147,8 @@ Then we look again.
 ---
 
 ## Why common sense entered the name
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 > **“In the following pages, I offer nothing more than simple facts, plain arguments, and common sense.”**
 
@@ -216,6 +226,8 @@ That is why the human filter matters.
 
 ## ✮˙๋࣭⭑ MODEL // WHY POIOUMENON
 
+![](../BUILD/assets/design/chassis/model-rail.svg)
+
 Three forms survived the search for the name:
 
 **Poiēthen Koinō Nō**
@@ -290,6 +302,8 @@ And if the evidence changes, make it differently.
 
 ## Why the double slash matters
 
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Meta Apollo Logos // Poioumenon**
 
 The double slash is not a division.
@@ -342,6 +356,8 @@ The meaning belongs to the name.
 
 ## Why this is proof of concept
 
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 Meta Apollo Logos is not only a description of a method.
 
 It is being made through the method it describes.
@@ -393,6 +409,8 @@ The loop continues.
 ---
 
 ## It does not end here
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 This document is a stopping point.
 
@@ -459,6 +477,8 @@ Yet something can remain recognizable across the changes.
 ---
 
 ## The spirit
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 A spirit can begin inside one person.
 
@@ -575,6 +595,8 @@ And when that meaning remains recognizably itself while moving through people an
 ---
 
 ## Why this is proof of the spirit of Meta Apollo Logos
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 Meta Apollo Logos is not only a concept being described.
 
@@ -713,6 +735,8 @@ The spirit continues.
 ---
 
 ## The name
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 **META APOLLO LOGOS // POIOUMENON**
 
