@@ -9,7 +9,7 @@ HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
 
 **[META APOLLO LOGOS // PRINCIPLES](./MODEL/Meta-Apollo-Logos-Principles.md)** — canonical principles reference.
 
-## 🧭 MAP // REPOSITORY
+### 🧭 MAP // REPOSITORY
 
 ![](./BUILD/assets/design/chassis/nav-rail.svg)
 
@@ -31,7 +31,7 @@ It holds the reasoning, evidence, history, experiments, and accumulated writing 
 
 ---
 
-## ✮˙๋࣭⭑ MODEL // THE CAMERA
+### ✮˙๋࣭⭑ MODEL // THE CAMERA
 
 ![](./BUILD/assets/design/chassis/model-rail.svg)
 
@@ -55,7 +55,7 @@ The question is whether it can be examined, corrected, and used to look at the w
 
 ---
 
-## ⌯✦ PROCESS // THE MAKING
+### ⌯✦ PROCESS // THE MAKING
 
 ![](./BUILD/assets/design/chassis/agency-rail.svg)
 
