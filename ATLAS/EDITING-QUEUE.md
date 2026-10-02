@@ -1,6 +1,10 @@
+✦︎✦︎✦︎ Meta Apollo Logos //
+
 # Meta Apollo Logos — Editing Queue
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
+> **STATE //** active \~\~ **VIEW //** editing queue
 
 This is the current editing plan for the Meta Apollo Logos repository.
 
