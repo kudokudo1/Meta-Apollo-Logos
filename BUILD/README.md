@@ -14,10 +14,14 @@ HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 BUILD contains the reusable artifacts produced by this repository.
 
 ## 🖨 CONTENTS // CURRENT
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 
 | ARTIFACT | ROLE | STATE |
