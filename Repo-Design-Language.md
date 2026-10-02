@@ -1005,7 +1005,70 @@ Application matters as much as definition: a visual rule is only useful if reade
 
 ---
 
-# 24. Design Invariant
+# 24. Compact Status and UI Grammar
+
+Use compact metadata strips for current working state, health, ownership, branch, target, and replacement information.
+
+Recommended vocabulary:
+
+```text
+STATE //
+HEALTH //
+BRANCH //
+OWNER //
+UPDATED //
+TARGET //
+REPLACED BY //
+```
+
+Examples:
+
+```text
+STATE // active · c0.7
+BRANCH // main
+HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+```
+
+```text
+STATE // experimental · c1
+HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
+```
+
+```text
+STATE // ⁴⁰⁴ DEPRECATED
+REPLACED BY // AudioService
+```
+
+Compact inline form:
+
+```text
+active · c0.7 ~~ main ~~ ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+```
+
+## Distinction
+
+The lowercase `c` notation describes the current working state in the project's evolution.
+
+A semantic state marker describes confidence, lifecycle status, or evidentiary standing.
+
+```text
+c0.8                working-state position
+࣪˖ദ്ദി๋࣭⭑ VERIFIED    checked state
+⊹⚡ ๋࣭⭑ PROVISIONAL   working / not frozen
+⁴⁰⁴ DEPRECATED       retained but no longer preferred
+```
+
+Neither substitutes for the other.
+
+## Rule
+
+> **Working state tells you where it is. Status tells you what kind of state it is.**
+
+Keep status strips compact. Do not turn them into a second summary paragraph.
+
+---
+
+# 25. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
