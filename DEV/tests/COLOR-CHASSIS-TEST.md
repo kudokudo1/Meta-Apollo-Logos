@@ -2,8 +2,7 @@
 
 # ⚒ DEV // COLOR CHASSIS TEST
 
-STATE // experimental
-HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
+> **STATE //** experimental \~\~ **HEALTH //** ⊹⚡ ๋࣭⭑ PROVISIONAL \~\~ **VIEW //** semantic rail test
 
 > **A visual test of reusable Post-Apollo semantic rails inside ordinary GitHub Markdown.**
 
@@ -49,11 +48,17 @@ Use for framing, scope, and context.
 
 Use only when the content is actually warning, failure, destructive state, or danger.
 
-## OFF-WHITE // NEUTRAL
+## OFF-WHITE // PAGE CHASSIS
 
 ![](../../BUILD/assets/design/chassis/neutral-rail.svg)
 
-Use when a section needs structure without semantic emphasis.
+Use once at the top of an otherwise plain current-facing page when no stronger semantic top rail is present.
+
+Off-white means:
+
+> **This page belongs to the same system.**
+
+Do not use it beneath ordinary `CORE //`, `CONTENTS //`, numbered chapters, or local subsections merely to break up text.
 
 ---
 
