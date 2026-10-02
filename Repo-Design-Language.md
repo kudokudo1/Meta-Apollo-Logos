@@ -715,6 +715,28 @@ transforms
 
 Do not label every connector by default.
 
+## Diagram Legend
+
+Every Meta Apollo repository must carry a canonical diagram legend in its ATLAS so the notation is locally understandable without requiring an external reference.
+
+The full repository legend should cover the symbols, connectors, boundary meanings, and semantic colors that repo may use.
+
+Individual diagrams should not repeat the entire key. Add a small local legend only when a diagram uses notation that is not immediately obvious in context.
+
+Example local legend:
+
+```text
+LEGEND //
+
+~~»>       primary pipeline
+ORANGE     active / agency
+MAGENTA    primary focus
+```
+
+## Rule
+
+> **Every repo carries the language. Every diagram carries only what it needs.**
+
 ## Color Semantics
 
 Post-Apollo color carries both **role** and **attention/state**. Color is not only taxonomy.
