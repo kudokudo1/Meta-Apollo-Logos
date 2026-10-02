@@ -1,16 +1,16 @@
-# MAP // ATLAS
+# 🧭 MAP // ATLAS
 
-// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+// **[🧭 ATLAS](../ATLAS/)** \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
 ---
 
 > **The map of the whole territory.**
 
-## What this room is
+## ★⋆˙ CORE // WHAT THIS ROOM IS
 
 ATLAS orients readers to the repository as a whole.
 
-## What belongs here
+## 🧭 CONTENTS // WHAT BELONGS HERE
 
 - purpose
 - current status
@@ -20,18 +20,17 @@ ATLAS orients readers to the repository as a whole.
 - project relationships
 - fast paths for different readers
 
-## Current contents
+## 🧭 CONTENTS // CURRENT
 
 <What is currently stored in ATLAS?>
 
-## Where to go next
+## 🧭 MAP // WHERE TO GO NEXT
 
 - Need structure? Go to **MODEL**.
 - Need the actual product? Go to **BUILD**.
 - Need to work on it? Go to **DEV**.
 
-
-## LEGEND // DIAGRAM LANGUAGE
+## 🧭 LEGEND // DIAGRAM LANGUAGE
 
 Every Meta Apollo repository carries its own local key for the diagram language used throughout the repo.
 
@@ -61,15 +60,15 @@ SCOPE //          diagram / context boundary
 
 COLOR //
 
-OMNITRIX GREEN    system / runtime
-CYAN              module / normal structure
-BLUE              scope / context
-YELLOW            menu / navigation / available choice
-ORANGE            activity / agency / control / ownership
-MAGENTA           highest importance / primary focus
-RED               warning / failure / destructive state
-OFF-WHITE         neutral / default information
-PURPLE            background / chassis
+OMNITRIX GREEN    #00F782   system / runtime
+CYAN              #55CFCA   module / normal structure
+BLUE              #5B5FD4   scope / context
+YELLOW            #F2BE4E   menu / navigation / available choice
+ORANGE            #ED981A   activity / agency / control / ownership
+MAGENTA           #C74EC7   highest importance / primary focus
+RED               #D16041   warning / failure / destructive state
+OFF-WHITE         #DCF3FA   neutral / default information
+PURPLE            #1B0623   background / chassis
 ```
 
 Local diagrams may include a smaller legend containing only the notation needed for that view.
