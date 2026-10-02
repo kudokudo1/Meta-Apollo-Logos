@@ -1,6 +1,16 @@
-# Meta Apollo Logos
+✦︎✦︎✦︎ Meta Apollo Logos //
 
-**[META APOLLO LOGOS // PRINCIPLES](./Meta-Apollo-Logos-Principles.md)** — canonical principles reference.
+# ✮˙๋࣭⭑ META APOLLO LOGOS // POIOUMENON
+
+STATE // active
+
+**[META APOLLO LOGOS // PRINCIPLES](./MODEL/Meta-Apollo-Logos-Principles.md)** — canonical principles reference.
+
+## 🧭 MAP // REPOSITORY
+
+// [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
+
+---
 
 > **What do we do after the sun dies? The search for an answer.**
 
@@ -14,7 +24,7 @@ It holds the reasoning, evidence, history, experiments, and accumulated writing 
 
 ---
 
-## The camera
+## ✮˙๋࣭⭑ MODEL // THE CAMERA
 
 > **Do not mistake the camera for the world.**
 
@@ -36,13 +46,13 @@ The question is whether it can be examined, corrected, and used to look at the w
 
 ---
 
-## The making
+## ⌯✦ PROCESS // THE MAKING
 
 Meta Apollo Logos was not designed as a finished philosophy and implemented afterward.
 
 The thinking, making, observing, documenting, and changing happened together.
 
-### The loop
+### ⌯✦ PROCESS // THE LOOP
 
 **Think** → **make** → **observe** → **document** → **understand** → **make again**
 
@@ -54,7 +64,7 @@ The evidence becomes material for the next round of reasoning.
 
 ---
 
-## The light
+## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // THE LIGHT
 
 Something can be received without remaining unchanged.
 
@@ -76,7 +86,7 @@ This repository is one place where that process is recorded.
 
 ---
 
-## Tools and authorship
+## ★⋆˙ CORE // TOOLS AND AUTHORSHIP
 
 Tools have always extended human reach.
 
@@ -108,7 +118,7 @@ The person still decides:
 
 ---
 
-## The making remains open
+## ⌯✦ PROCESS // THE MAKING REMAINS OPEN
 
 The working name for this process is:
 
@@ -135,14 +145,14 @@ Understanding can continue after the document stops.
 
 ---
 
-## What lives here
+## 🧭 MAP // WHAT LIVES HERE
 
 The repository brings together material that was previously separated.
 
-### **[Nous tou Anthrōpou // Poiētou](./How-I-Think/)**
+### **[Nous tou Anthrōpou // Poiētou](./MODEL/How-I-Think/)**
 The public-facing cognitive map, selected evidence, and preserved development record behind the work.
 
-### **Post-Apollo history**
+### **[Post-Apollo history](./ARCHIVE/Post-Apollo-History/)**
 The events, decisions, experiments, and developments through which the work came to exist.
 
 ### **Meta Apollo Logos**
@@ -209,7 +219,7 @@ The making does not necessarily end with it.
 
 ---
 
-## The spirit
+## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // THE SPIRIT
 
 What remains is not simply the files.
 
@@ -254,7 +264,7 @@ It is why the making remains open.
 
 ---
 
-## The three pieces
+## ★⋆˙ CORE // THE THREE PIECES
 
 **Concept** → something can begin in one person and become part of the world as it is carried.
 
@@ -264,22 +274,22 @@ It is why the making remains open.
 
 > **Look at the whole thing. Test it. Change it when it does not fit. Carry forward what survives.**
 
-# Meta Apollo Logos // Poioumenon
+## ✮˙๋࣭⭑ MODEL // POIOUMENON
 
 **The Logos being made.**
 
 
 ---
 
-## Repository design language
+## ✮˙๋࣭⭑ MODEL // REPOSITORY DESIGN LANGUAGE
 
 Meta Apollo repositories use a shared semantic and visual grammar:
 
-> **MAP · MODEL · BUILD · OPERATE · EVIDENCE · ARCHIVE**
+> **ATLAS · MODEL · BUILD · DEV · OPERATE · EVIDENCE · ARCHIVE**
 
-- **[Repository Design Language](./Repo-Design-Language.md)** — the rules and principles.
-- **[Reusable README Template](./templates/META-APOLLO-README-TEMPLATE.md)** — the root front-door template.
-- **[Repository Skeleton](./templates/repo-skeleton/)** — the copy-paste seven-room filesystem with a map in every room.
+- **[Repository Design Language](./MODEL/Repo-Design-Language.md)** — the rules and principles.
+- **[Reusable README Template](./BUILD/templates/META-APOLLO-README-TEMPLATE.md)** — the root front-door template.
+- **[Repository Skeleton](./BUILD/templates/repo-skeleton/)** — the copy-paste seven-room filesystem with a map in every room.
 
 The goal is not identical repositories.
 

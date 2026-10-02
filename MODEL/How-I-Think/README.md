@@ -20,7 +20,7 @@ The evidence layer contains selected conversation evidence, artifacts, predictio
 
 Start here:
 
-**[Evidence](./Evidence/)**
+**[Evidence](../../EVIDENCE/How-I-Think/)**
 
 The evidence layer should answer:
 
@@ -32,7 +32,7 @@ without requiring the reader to consume the entire development history.
 
 The long-form development record is preserved in:
 
-**[Archive](./Archive/)**
+**[Archive](../../ARCHIVE/How-I-Think/)**
 
 That material includes earlier models, conversations, technical material, corrections, abandoned explanations, and other archaeological records.
 
