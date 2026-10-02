@@ -13,12 +13,12 @@
 
 > **What becomes the thing.**
 
-## ★⋆˙ CORE // WHAT THIS ROOM IS
+### ★⋆˙ CORE // WHAT THIS ROOM IS
 
 
 BUILD contains the reusable artifacts produced by this repository.
 
-## 🖨 CONTENTS // CURRENT
+### 🖨 CONTENTS // CURRENT
 
 
 | ARTIFACT | ROLE | STATE |
