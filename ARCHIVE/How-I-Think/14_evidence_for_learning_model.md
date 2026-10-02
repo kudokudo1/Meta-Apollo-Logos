@@ -1,5 +1,7 @@
 # 14 — Evidence, Tests, Biases, and Why We Think the Learning Model Is Tracking Something Real
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Evidence ledger / epistemic audit.  
 **Purpose:** Separate observations from interpretation, distinguish correlated from independent evidence, preserve counter-hypotheses, and record which parts of the model have gained support through prediction or perturbation.  
 **Translation:** “Cool model. Why the fuck should we believe any of it?”
