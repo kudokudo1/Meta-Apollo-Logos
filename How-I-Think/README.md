@@ -1,4 +1,6 @@
-# How I Think
+# Nous tou Anthrōpou // Poiētou
+
+> **Mind of the Human // Maker**
 
 > **A public map of how I appear to think, learn, remember, communicate, and solve problems.**
 
@@ -8,7 +10,7 @@ This section of Meta Apollo Logos uses a three-layer structure.
 
 Start here:
 
-**[HOW-I-THINK-PUBLIC.md](./HOW-I-THINK-PUBLIC.md)**
+**[Nous tou Anthrōpou // Poiētou](./HOW-I-THINK-PUBLIC.md)**
 
 This is the forward-facing version: the current model, organized by function instead of discovery order.
 
