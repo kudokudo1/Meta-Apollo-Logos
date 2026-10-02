@@ -16,6 +16,8 @@ This section of Meta Apollo Logos uses a three-layer structure.
 
 ## 🧭 MAP // CURRENT MODEL
 
+![](../../BUILD/assets/design/chassis/nav-rail.svg)
+
 
 Start here:
 
