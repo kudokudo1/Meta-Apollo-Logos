@@ -205,7 +205,7 @@ The repository itself is the umbrella.
 The main making-of document remains at the root as:
 Meta-Apollo-Logos-Poioumenon.md
 
-**How-I-Think**
+**Nous tou Anthrōpou // Poiētou**
 The current active How-I-Think material remains together:
 - 27 — live decoder synchronization / relational recoding evidence
 - 28 — relational reality atlas / synthesis
@@ -217,7 +217,7 @@ The current active How-I-Think material remains together:
 The existing Post-Apollo Discord / Social Menu history record now has its own history bucket.
 
 **Archives / How-I-Think**
-The older working documents formerly stored under How-I-Think/dump are preserved here as an archive rather than mixed into the active material.
+The older working documents formerly stored under the former How-I-Think/dump are preserved here as an archive rather than mixed into the active material.
 
 This is a first structural pass, not a claim that the repository can never change again.
 
@@ -232,7 +232,7 @@ without splitting the larger Meta Apollo Logos body into unrelated projects.
 
 # Existing material to review
 
-Current How-I-Think material already contains important pieces:
+Current **Nous tou Anthrōpou // Poiētou** material already contains important pieces:
 
 - `27_live_decoder_synchronization_and_relational_recoding_evidence.md`
 - `28_relational_reality_atlas_truth_good_beauty_evolution_religion_metaphysics_ai.md`
