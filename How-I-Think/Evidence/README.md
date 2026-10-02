@@ -1,4 +1,4 @@
-# How I Think — Evidence
+# Nous tou Anthrōpou // Poiētou — Evidence
 
 This is the selected evidence layer beneath the public-facing map.
 
