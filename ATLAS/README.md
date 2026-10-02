@@ -16,6 +16,8 @@ ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is b
 
 ## 🧭 MAP // REPOSITORY AT A GLANCE
 
+![](../BUILD/assets/design/chassis/scope-rail.svg)
+
 ![Meta Apollo repository map](../BUILD/assets/design/meta-apollo-repository-map.svg)
 
 | ROOM | PURPOSE | CURRENT CONTENT |
