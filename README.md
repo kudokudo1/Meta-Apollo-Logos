@@ -46,6 +46,7 @@ A person encounters reality through a particular camera: body, history, relation
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 - Every camera is different.
 - The world remains shared.
 - The camera can be wrong.
@@ -73,6 +74,7 @@ The thinking, making, observing, documenting, and changing happened together.
 
 ![](BUILD/assets/design/chassis/agency-rail.svg)
 
+
 **Think** → **make** → **observe** → **document** → **understand** → **make again**
 
 The result becomes evidence about the reasoning that produced it.
@@ -87,11 +89,13 @@ The evidence becomes material for the next round of reasoning.
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Something can be received without remaining unchanged.
 
 ### Transmission
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 - Words can be carried forward.
 - Ideas can be transformed.
@@ -113,11 +117,13 @@ This repository is one place where that process is recorded.
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
+
 Tools have always extended human reach.
 
 ### The rule
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 - If it is useful, use it.
 - If it is not, do not.
@@ -131,6 +137,7 @@ It can carry weight without choosing where to go.
 ### The division
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 **The tool provides capability.**
 
@@ -151,6 +158,7 @@ The person still decides:
 
 ![](BUILD/assets/design/chassis/agency-rail.svg)
 
+
 The working name for this process is:
 
 > **Koinō Nō Poioumenon**  
@@ -159,6 +167,7 @@ The working name for this process is:
 ### Not the same thing
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 **Not made.**
 
@@ -182,26 +191,31 @@ Understanding can continue after the document stops.
 
 ![](BUILD/assets/design/chassis/nav-rail.svg)
 
+
 The repository brings together material that was previously separated.
 
 ### **[Nous tou Anthrōpou // Poiētou](./MODEL/How-I-Think/)**
 
 ![](BUILD/assets/design/chassis/model-rail.svg)
+
 The public-facing cognitive map, selected evidence, and preserved development record behind the work.
 
 ### **[Post-Apollo history](./ARCHIVE/Post-Apollo-History/)**
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 The events, decisions, experiments, and developments through which the work came to exist.
 
 ### **Meta Apollo Logos**
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 The larger body of ideas, relationships, metaphysics, philosophy, and meaning that those materials point toward.
 
 ### **Poioumenon**
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 The record of the making itself: the process by which the explanation, the evidence, and the thing being explained continue to shape one another.
 
 > These boundaries may change.
@@ -214,11 +228,13 @@ The record of the making itself: the process by which the explanation, the evide
 
 ![](BUILD/assets/design/chassis/agency-rail.svg)
 
+
 There is no final box at the end.
 
 ### One continuous movement
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 **reality**  
 ↓  
@@ -248,6 +264,7 @@ The making does not necessarily end with it.
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 **Something is received.**
 
 ↓  
@@ -271,6 +288,7 @@ The making does not necessarily end with it.
 ## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // THE SPIRIT
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 What remains is not simply the files.
 
@@ -297,6 +315,7 @@ It can be carried by:
 
 ![](BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 The representation can change.
 
 The person can change.
@@ -319,6 +338,7 @@ It is why the making remains open.
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
+
 **Concept** → something can begin in one person and become part of the world as it is carried.
 
 **Spirit** → what can remain recognizable while the carrier changes.
@@ -331,6 +351,7 @@ It is why the making remains open.
 
 ![](BUILD/assets/design/chassis/model-rail.svg)
 
+
 **The Logos being made.**
 
 
@@ -339,6 +360,7 @@ It is why the making remains open.
 ## ✮˙๋࣭⭑ MODEL // REPOSITORY DESIGN LANGUAGE
 
 ![](BUILD/assets/design/chassis/model-rail.svg)
+
 
 Meta Apollo repositories use a shared semantic and visual grammar:
 
