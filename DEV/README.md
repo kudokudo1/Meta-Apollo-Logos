@@ -1,6 +1,6 @@
 # ⚒ MAP // DEV
 
-![](../BUILD/assets/design/chassis/nav-rail.svg)
+![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 STATE // active
@@ -13,14 +13,10 @@ STATE // active
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 DEV contains experiments and development material used to test the design language before it is promoted into reusable BUILD artifacts.
 
 ## ⚒ CONTENTS // CURRENT
-
-![](../BUILD/assets/design/chassis/nav-rail.svg)
 
 
 | TEST | PURPOSE | STATE |
