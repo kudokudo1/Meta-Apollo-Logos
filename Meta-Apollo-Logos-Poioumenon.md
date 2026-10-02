@@ -339,31 +339,53 @@ The meaning belongs to the name.
 
 ## Why this is proof of concept
 
-This is the part that matters most.
+Meta Apollo Logos is not only a description of a method.
 
-Meta Apollo Logos is not only proposing a method.
+It is being made through the method it describes.
 
-It is being made using the method it proposes.
+The naming process is being documented while the name is being made.
 
-We are documenting the naming process while naming the document.
+The repository is being changed while the reasons for those changes are being recorded.
 
-We are changing the repository structure while recording why the structure changed.
+The explanation changes when the thing being explained changes.
 
-We are using tools to remove mechanical difficulty while keeping the human decisions in the loop.
+The thing being made changes when the explanation reveals something new.
 
-We are looking at the result, deciding whether it actually represents what we mean, and changing it again when it does not.
+The result is examined.
 
-The repository is therefore not merely an explanation of the method.
+The representation is compared against what it was meant to represent.
 
-**The repository is an instance of the method.**
+When it does not fit, it is changed.
 
-The making is evidence.
+Then the changed thing becomes the next thing to examine.
+
+**Think → make → observe → document → understand → make again.**
+
+The process does not sit outside the work.
+
+**The process is part of the work.**
+
+That makes the repository a proof of concept.
+
+Not proof that every idea contained here is true.
+
+Not proof that the answer has been found.
+
+Not proof that the method cannot be improved.
+
+It is proof only in the practical sense:
+
+**the proposed relationship between making, observation, documentation, and understanding can be used to make the thing itself.**
+
+The making becomes evidence.
 
 The evidence changes the making.
 
 The changed making becomes new evidence.
 
-That is the recursive loop.
+The loop continues.
+
+**The repository is an instance of the method it describes.**
 
 ---
 
