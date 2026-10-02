@@ -1,6 +1,10 @@
+✦︎✦︎✦︎ Meta Apollo Logos //
+
 # Nous tou Anthrōpou // Poiētou — Evidence
 
 ![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
+> **STATE //** active \~\~ **VIEW //** selected evidence layer
 
 This is the selected evidence layer beneath the public-facing map.
 
