@@ -13,14 +13,10 @@ STATE // preserved
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
-![](../BUILD/assets/design/chassis/neutral-rail.svg)
-
 
 ARCHIVE preserves superseded, historical, and provenance material without pretending it is the current model.
 
 ## ࣪⋅˚🕮‧₊˚ CONTENTS // CURRENT
-
-![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 
 - [How-I-Think development archive](./How-I-Think/)
