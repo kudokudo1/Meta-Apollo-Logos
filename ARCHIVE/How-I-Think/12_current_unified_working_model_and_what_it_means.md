@@ -1,5 +1,7 @@
 # 12 — Current Unified Working Model of Me and What It Means
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Most recent unified synthesis.  
 **Date:** 2026-09-27  
 **Purpose:** State the current best model in one place. This is the closest thing in the series to a current “compiled build.” Older files remain valuable because they preserve how the model developed and where earlier formulations were corrected.
