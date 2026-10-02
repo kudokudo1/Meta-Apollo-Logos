@@ -1028,6 +1028,31 @@ If a page already opens with a meaningful semantic rail — focus, navigation, m
 
 The page-level chassis rail exists to keep otherwise plain pages visually related to the rest of the repository without turning every section into a colored boundary.
 
+### Page opening order
+
+Current-facing Meta Apollo pages should open in a predictable order:
+
+```text
+Meta Apollo lineage
+page title
+page rail
+compact metadata strip
+room navigation, when applicable
+page content
+```
+
+Use:
+
+```text
+✦︎✦︎✦︎ Meta Apollo Logos //
+```
+
+as the shared lineage marker.
+
+Room maps keep the seven-room navigation strip directly beneath metadata. Standalone documents do not need that navigation strip merely for visual symmetry.
+
+Historical and archived documents do not need to be rewritten solely to match the current page-opening chassis.
+
 Do not remove color merely to make a diagram more conventional.
 
 If a particular diagram becomes visually overloaded, simplify that diagram first: reduce emphasis, split the view, or remove unnecessary state decoration before abandoning semantic color.
