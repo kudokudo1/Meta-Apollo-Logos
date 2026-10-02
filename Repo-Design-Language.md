@@ -547,7 +547,65 @@ They do not replace plain language.
 
 ---
 
-# 18. Design Invariant
+# 18. Navigation Grammar
+
+Meta Apollo uses Ghost String connectors for navigation.
+
+## Permanent room map
+
+Use:
+
+```text
+// ROOM ~~ // ROOM ~~ // ROOM
+```
+
+Meaning:
+
+> **These rooms are connected.**
+
+The canonical room strip is:
+
+```text
+// 🧭 ATLAS ~~ // ✮˙๋࣭⭑ MODEL ~~ // 🖨 BUILD ~~ // ⚒ DEV ~~ // 🖳 OPERATE ~~ // ⊹ ࣪ℼ˖ EVIDENCE ~~ // ࣪⋅˚🕮‧₊˚ ARCHIVE
+```
+
+In Markdown, escape the tildes so GitHub does not interpret them as strikethrough:
+
+```md
+// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // **⚒ DEV** \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+```
+
+The current room may be emphasized in bold.
+
+## Directional route
+
+Use:
+
+```text
+// ROOM ~~» // ROOM ~~» // ROOM
+```
+
+Meaning:
+
+> **Move through these in this direction.**
+
+Example:
+
+```text
+// 🖨 BUILD ~~» // ⚒ DEV ~~» // 🖳 OPERATE
+```
+
+Use directional routes only when there is a real sequence, recommended path, or next-step flow.
+
+## Rule
+
+> **~~ means connected. ~~» means carried forward.**
+
+Do not put arrows on the permanent room map merely for decoration.
+
+---
+
+# 19. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
