@@ -1,5 +1,7 @@
 # 29 — Evidence, Proof Stories, and Stress Tests: Why the Relational Model Remains Coherent Across Domains
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Evidence / proof-story ledger.  
 **Date:** 2026-10-01.  
 **Purpose:** Record concrete stories, live corrections, predictions, domain transfers, and counterweights supporting the current relational model.  
