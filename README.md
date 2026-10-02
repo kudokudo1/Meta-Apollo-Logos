@@ -265,3 +265,19 @@ It is why the making remains open.
 # Meta Apollo Logos // Poioumenon
 
 **The Logos being made.**
+
+
+---
+
+## Repository design language
+
+Meta Apollo repositories use a shared semantic and visual grammar:
+
+> **MAP · MODEL · BUILD · OPERATE · EVIDENCE · ARCHIVE**
+
+- **[Repository Design Language](./Repo-Design-Language.md)** — the rules and principles.
+- **[Reusable README Template](./templates/META-APOLLO-README-TEMPLATE.md)** — the copyable implementation.
+
+The goal is not identical repositories.
+
+The goal is **different buildings from the same civilization**.
