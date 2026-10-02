@@ -16,6 +16,8 @@ ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is b
 
 ## 🧭 MAP // REPOSITORY AT A GLANCE
 
+![Meta Apollo repository map](../BUILD/assets/design/meta-apollo-repository-map.svg)
+
 | ROOM | PURPOSE | CURRENT CONTENT |
 |---|---|---|
 | **ATLAS** | orient | editing queue, navigation, repository state |
@@ -43,6 +45,8 @@ ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is b
 
 <details>
 <summary>🧭 LEGEND // DIAGRAM LANGUAGE</summary>
+
+![Post-Apollo semantic palette](../BUILD/assets/design/post-apollo-semantic-palette.svg)
 
 ```text
 NODES //
