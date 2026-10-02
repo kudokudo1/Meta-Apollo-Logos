@@ -1,16 +1,16 @@
-# MAP // ARCHIVE
+# ࣪⋅˚🕮‧₊˚ MAP // ARCHIVE
 
-// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // **[࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)**
 
 ---
 
 > **Preserve the thread.**
 
-## What this room is
+## ★⋆˙ CORE // WHAT THIS ROOM IS
 
 ARCHIVE contains intentionally preserved historical material that is no longer current but still matters for provenance or reconstruction.
 
-## What belongs here
+## ࣪⋅˚🕮‧₊˚ CONTENTS // WHAT BELONGS HERE
 
 - legacy implementations
 - superseded designs
@@ -19,11 +19,11 @@ ARCHIVE contains intentionally preserved historical material that is no longer c
 - migration records
 - provenance
 
-## Current contents
+## ࣪⋅˚🕮‧₊˚ CONTENTS // CURRENT
 
 <What is currently stored in ARCHIVE?>
 
-## Where to go next
+## 🧭 MAP // WHERE TO GO NEXT
 
 - Need the current repository map? Go to **ATLAS**.
 - Need current architecture? Go to **MODEL**.
