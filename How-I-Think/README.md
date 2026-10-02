@@ -30,7 +30,7 @@ without requiring the reader to consume the entire development history.
 
 The long-form development record is preserved in:
 
-**[Archives/How-I-Think](../Archives/How-I-Think/)**
+**[Archive](./Archive/)**
 
 That material includes earlier models, conversations, technical material, corrections, abandoned explanations, and other archaeological records.
 
