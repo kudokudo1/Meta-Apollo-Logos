@@ -1,5 +1,7 @@
 # 24 — MEART, Semantic Storage, Autobiographical Landmarks, and the Weird-Ass Mage Model
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Major model evolution.  
 **Purpose:** Capture the newest layer of the operating model: art as identity-continuous external state, physical and digital storage as one parent operation, cue-triggered autobiographical reconstruction, semantic organization of space, punctuation-level sensitivity to relationship changes, worldbuilding as model compilation, and the “mage” effect produced when other people can see the output but not the causal route.  
 **Date:** 2026-09-28.  
