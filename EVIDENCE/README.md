@@ -13,12 +13,12 @@
 
 > **Show what happened.**
 
-## ★⋆˙ CORE // WHAT THIS ROOM IS
+### ★⋆˙ CORE // WHAT THIS ROOM IS
 
 
 EVIDENCE contains material used to support, test, or demonstrate claims made elsewhere in the repository.
 
-## ⊹ ࣪ℼ˖ CONTENTS // CURRENT
+### ⊹ ࣪ℼ˖ CONTENTS // CURRENT
 
 
 | EVIDENCE SET | SUPPORTS |
