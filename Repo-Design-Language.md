@@ -643,6 +643,44 @@ Use a small, stable node-shape vocabulary:
 
 Do not use `{ }` merely to group a subsystem; grouping and ownership boundaries should be expressed separately.
 
+## Diagram Titles and Captions
+
+Diagram titles use the existing Meta Apollo header grammar rather than a separate visual system.
+
+Examples:
+
+```md
+## ✮˙๋࣭⭑ MODEL // AUDIO PIPELINE
+## ⌯✦ PROCESS // GIT REFRESH FLOW
+## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // WINDOW ↔ IDENTITY ↔ AUDIO
+```
+
+A small caption may follow when the reader needs to know what slice or lens the diagram represents.
+
+Optional caption fields:
+
+```text
+SCOPE // what is included
+EXCLUDES // what is intentionally not shown
+STATE // current / provisional / historical
+VIEW // conceptual / runtime / ownership / data flow
+```
+
+Example:
+
+```text
+SCOPE // application-to-stream identity
+EXCLUDES // device hardware
+STATE // current
+VIEW // ownership
+```
+
+## Rule
+
+> **Title = what the diagram is about. Caption = what lens you are seeing it through.**
+
+Do not add caption metadata when the title and diagram already make the scope obvious.
+
 ## Relationship Labels
 
 Ghost Strings may carry plain-English labels when the relationship itself needs to be explicit.
