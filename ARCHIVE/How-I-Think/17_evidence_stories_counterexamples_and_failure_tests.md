@@ -1,5 +1,7 @@
 # 17 — Evidence, Stories, Counterexamples, and Failure Tests for the Current Operating Model
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Evidence / story ledger for the current deeper model.  
 **Purpose:** Preserve the observations that produced the newest model, separate stories from inference, record predictions that appeared to land before confirmation, preserve alternative explanations, and make it easier for future work to find false Xs instead of merely collecting confirming stories.  
 **Date:** 2026-09-28.  
