@@ -5,8 +5,7 @@
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
-STATE // active
-HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
+> **STATE //** active \~\~ **HEALTH //** ⊹⚡ ๋࣭⭑ PROVISIONAL \~\~ **VIEW //** relationship and inheritance
 
 
 > **A story can change its carrier without losing its spirit.**
