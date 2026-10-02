@@ -605,7 +605,58 @@ Do not put arrows on the permanent room map merely for decoration.
 
 ---
 
-# 19. Design Invariant
+# 19. Diagram Connector Language
+
+Meta Apollo diagrams use Ghost String connectors instead of conventional dash-line notation.
+
+```text
+~~       stable connection / relationship
+~~»      flow / dependency / direction
+~ ~ ~    indirect / optional / provisional connection
+~ ~ ~»   provisional / conditional flow
+~~»>     major path / primary pipeline
+```
+
+The connector language stays visually related across conceptual maps and technical diagrams.
+
+Examples:
+
+```text
+[App] ~~» [Audio Service] ~~» [PipeWire]
+
+[Audio Service] ~ ~ ~» [Fallback Device]
+
+[Input] ~~»> [Primary Pipeline] ~~» [Output]
+```
+
+Use conventional node-shape meanings where they are already useful:
+
+```text
+[ ]   component / thing / state
+{ }   decision / condition / branch
+```
+
+Do not use `{ }` merely to group a subsystem; grouping and ownership boundaries should be expressed separately.
+
+## System / Runtime Color
+
+**Omnitrix green — `#00F782`** is the canonical system/runtime color.
+
+Use it for infrastructure and live system machinery such as:
+
+- audio and PipeWire
+- shaders
+- GPU and display plumbing
+- hardware interfaces and telemetry
+- background services
+- compositor integration
+- device and I/O paths
+
+Green does not mean generic success. VERIFIED remains a semantic state with its own symbol language.
+
+---
+
+# 20. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
