@@ -889,7 +889,39 @@ Callouts may use the normal content-block symbols and labels such as NOTE, CORE,
 
 ---
 
-# 22. Design Invariant
+# 22. Diagram Color Policy
+
+Post-Apollo diagrams use semantic color by default.
+
+The color system is part of the diagram language, not optional decoration.
+
+Use the established palette to reinforce role, state, agency, and attention:
+
+```text
+Omnitrix green   system / runtime
+Cyan             module / normal structure
+Blue             scope / context
+Yellow           menu / navigation / available choice
+Orange           activity / agency / control / ownership
+Magenta          highest importance / primary focus
+Red              warning / failure / destructive state
+Off-white        neutral / default information
+Purple           background / chassis
+```
+
+Symbols, labels, shapes, and Ghost Strings should still carry enough meaning that the diagram remains understandable if color is unavailable.
+
+## Rule
+
+> **Color is part of the language, but never the only carrier of meaning.**
+
+Do not remove color merely to make a diagram more conventional.
+
+If a particular diagram becomes visually overloaded, simplify that diagram first: reduce emphasis, split the view, or remove unnecessary state decoration before abandoning semantic color.
+
+---
+
+# 23. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
