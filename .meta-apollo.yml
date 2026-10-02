@@ -1,0 +1,7 @@
+design_language: 1
+family: Meta Apollo Logos
+profile: repository-grammar
+archive_chassis: exempt
+runtime_layout: preserve
+validator_exempt:
+  - DEV/tests/COLOR-CHASSIS-TEST.md
