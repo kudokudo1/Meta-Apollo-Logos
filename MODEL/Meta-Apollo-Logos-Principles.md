@@ -5,8 +5,7 @@
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
-STATE // canonical
-HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+> **STATE //** canonical \~\~ **HEALTH //** ࣪˖ദ്ദി๋࣭⭑ VERIFIED \~\~ **VIEW //** governing principles
 
 
 > **Human · Power · Tactile · Nostalgia · Modular · Serious**
