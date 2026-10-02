@@ -1,5 +1,7 @@
 # Nous tou Anthrōpou // Poiētou — Archive
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 This folder preserves the long-form development record.
 
 If you reached the archive because you wanted the full history, this is the archaeological layer. You do not need to reconstruct the whole thing from scratch to understand what it became.
