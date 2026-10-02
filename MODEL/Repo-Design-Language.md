@@ -1053,6 +1053,24 @@ Room maps keep the seven-room navigation strip directly beneath metadata. Standa
 
 Historical and archived documents do not need to be rewritten solely to match the current page-opening chassis.
 
+### Heading hierarchy
+
+Use heading size to clarify structure rather than to decorate every section equally.
+
+```text
+H1  page identity only
+H2  major prose chapter / major section without a rail
+H3  local support section
+H3  rail-backed visual header when GitHub's H2 divider would compete with the semantic rail
+H4  nested reference detail when needed
+```
+
+A semantic rail can carry visual emphasis that would otherwise come from heading size.
+
+Do not combine GitHub's default H2 divider with a semantic rail merely to make a section look more important.
+
+> **The heading supplies structure. The rail supplies emphasis.**
+
 Do not remove color merely to make a diagram more conventional.
 
 If a particular diagram becomes visually overloaded, simplify that diagram first: reduce emphasis, split the view, or remove unnecessary state decoration before abandoning semantic color.
