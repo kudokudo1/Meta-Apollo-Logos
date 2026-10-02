@@ -1,5 +1,7 @@
 # 27 — Live Evidence for Relational Recoding, Compression, and Decoder Synchronization
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Evidence / live-observation ledger.  
 **Purpose:** Record the strongest behavioral evidence from the 2026-09-30 → 2026-10-01 conversation without re-explaining the full cognitive model.  
 **Date:** 2026-10-01.  
