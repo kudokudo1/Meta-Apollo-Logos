@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34">
+<defs>
+  <filter id="g" x="-30%" y="-300%" width="160%" height="700%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<path d="M 8 17 C 18 4 28 30 38 17 S 58 4 68 17 S 88 30 98 17 L 1184 17"
+      fill="none" stroke="#55CFCA" stroke-width="3" stroke-linecap="round" filter="url(#g)"/>
+<circle cx="1184" cy="17" r="5" fill="#55CFCA" filter="url(#g)"/>
+<title>MODEL / STRUCTURE</title>
+</svg>
