@@ -1,5 +1,7 @@
 # 11 — Recent Discoveries, Corrections, and Expanded Personal Model
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Additive continuation of the `How I Think` series.  
 **Date:** 2026-09-27  
 **Read after:** `08_needs_approval_additional_inferences.md` and the earlier canonical files.  
