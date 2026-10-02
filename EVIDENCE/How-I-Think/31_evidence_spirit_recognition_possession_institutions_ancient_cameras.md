@@ -1,5 +1,7 @@
 # 31 — Evidence and Proof Stories: Spirit Recognition, Possession, Meaning, Institutions, and Ancient Cameras
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Evidence / proof-story ledger.  
 **Date:** 2026-10-01.  
 **Purpose:** Record the concrete examples that generated the new spirit/soul/meaning model and distinguish observation from metaphysical interpretation.  
