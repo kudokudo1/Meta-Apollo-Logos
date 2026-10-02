@@ -1,5 +1,7 @@
 # ✮˙๋࣭⭑ MAP // MODEL
 
+![](../BUILD/assets/design/chassis/model-rail.svg)
+
 STATE // active
 VIEW // structure and transformation
 
@@ -11,9 +13,13 @@ VIEW // structure and transformation
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
+![](../BUILD/assets/design/chassis/focus-rail.svg)
+
 MODEL contains the conceptual machinery of Meta Apollo Logos: philosophy, design principles, cognitive models, relationships, and the shared repository grammar.
 
 ## ✮˙๋࣭⭑ MODEL // PACKAGE FLOW
+
+![](../BUILD/assets/design/chassis/model-rail.svg)
 
 SCOPE // principles → grammar → reusable artifact → applied repository  
 STATE // current  
@@ -46,6 +52,8 @@ The Mermaid view carries the semantic color. The Ghost String view carries the s
 
 ## ✮˙๋࣭⭑ CONTENTS // CURRENT
 
+![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 - [Meta Apollo Logos // Poioumenon](./Meta-Apollo-Logos-Poioumenon.md)
 - [Meta Apollo Logos // Principles](./Meta-Apollo-Logos-Principles.md)
 - [Modern Myth, Spirit, Identity, and Inheritance](./Modern-Myth-Spirit-Identity-and-Inheritance.md)
@@ -53,6 +61,8 @@ The Mermaid view carries the semantic color. The Ghost String view carries the s
 - [Nous tou Anthrōpou // Poiētou](./How-I-Think/)
 
 ## 🧭 MAP // WHERE TO GO NEXT
+
+![](../BUILD/assets/design/chassis/nav-rail.svg)
 
 - Need the reusable implementation of this design language? Go to **BUILD**.
 - Need to apply it? Go to **OPERATE**.
