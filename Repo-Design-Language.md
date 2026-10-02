@@ -925,7 +925,87 @@ If a particular diagram becomes visually overloaded, simplify that diagram first
 
 ---
 
-# 23. Design Invariant
+# 23. Tables, Code Blocks, and Collapsibles
+
+## Tables
+
+Tables organize facts. Keep them mechanically clean and readable.
+
+Use the surrounding Meta Apollo header, symbols, state markers, and semantic color to provide identity rather than decorating the table structure itself.
+
+Recommended compact state notation may appear inside cells.
+
+If a table becomes too wide or dense to scan comfortably, split it into smaller tables instead of compressing it.
+
+## Code Blocks
+
+Literal material must remain literal and copyable.
+
+Use labels such as:
+
+```text
+FILE //
+COMMAND //
+OUTPUT //
+CONFIG //
+QUERY //
+RESULT //
+EXAMPLE //
+```
+
+Do not insert decorative characters inside real code, shell commands, configuration, or output merely for visual styling.
+
+Post-Apollo styling belongs around the literal block, not inside it.
+
+## Collapsibles
+
+Use collapsible details for useful depth that should not interrupt the main reading path.
+
+Good candidates include:
+
+- verbose command output
+- long logs
+- raw evidence
+- historical implementation notes
+- alternate examples
+- detailed troubleshooting branches
+
+Do not collapse:
+
+- core claims
+- warnings
+- current state
+- required instructions
+- the main architecture or flow needed to understand the page
+
+A collapsible summary uses the same symbol and type grammar as the rest of the repo.
+
+Example:
+
+```md
+<details>
+<summary>⊹ ࣪ℼ˖ EVIDENCE // RAW TEST RESULTS</summary>
+
+...
+
+</details>
+```
+
+## Consistency Rule
+
+> **The same kind of information should be treated the same way everywhere.**
+
+If raw logs are collapsible in one repo, raw logs should normally be collapsible in the others.
+
+If a required instruction stays visible in one room, equivalent required instructions should not be hidden elsewhere.
+
+Use the same summary grammar, the same semantic symbols, and the same visibility expectations across the entire Meta Apollo repository family.
+
+Application matters as much as definition: a visual rule is only useful if readers can rely on it.
+
+---
+
+# 24. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
