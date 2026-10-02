@@ -1,5 +1,7 @@
 # 20 — AI Complementarity, External Cognition, and Behavioral Fossils
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Major model evolution.  
 **Purpose:** Capture the shift from “AI feels unusually natural to me” into a more specific architectural claim about complementarity between the user's cognitive/work style and AI systems, and to reinterpret the Forest, Post-Apollo, and Surgery Room as external systems that repeatedly express the same operating pressures.  
 **Date:** 2026-09-28.  
