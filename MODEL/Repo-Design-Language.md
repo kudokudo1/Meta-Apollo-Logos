@@ -1011,22 +1011,23 @@ Post-Apollo prefers **controlled color**, not colorless minimalism.
 
 Use color when it adds structure, state, hierarchy, orientation, or character. Pull it back only when competing colors make the information harder to read.
 
-### Off-white support structure
+### Off-white page chassis
 
-**Off-white — `#DCF3FA`** is the standard rail for neutral structural headings.
+**Off-white — `#DCF3FA`** is the default page-level chassis rail.
 
-Use it for support sections such as:
-
-- `CORE // WHAT THIS ROOM IS`
-- `CONTENTS // WHAT BELONGS HERE`
-- `CONTENTS // CURRENT`
-- other local structural headings that need visual separation without claiming a stronger semantic state
+Use it once, directly beneath the primary page heading, when that page does not already begin with a stronger semantic rail.
 
 Off-white means:
 
-> **This section is part of the chassis. Read it as structure, not emphasis.**
+> **This page belongs to the same system.**
 
-Do not use a stronger semantic color merely because a heading exists.
+It is not a section separator.
+
+Do **not** place off-white rails under `CORE //`, `CONTENTS //`, ordinary subsections, numbered chapters, or other local headings merely to break up text.
+
+If a page already opens with a meaningful semantic rail — focus, navigation, model, process, system, scope, or warning — do not add the off-white rail on top of it.
+
+The page-level chassis rail exists to keep otherwise plain pages visually related to the rest of the repository without turning every section into a colored boundary.
 
 Do not remove color merely to make a diagram more conventional.
 
