@@ -1,5 +1,7 @@
 # 13 — Evidence, Bias, Alternative Explanations, and All the BS of Why
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Epistemic audit / evidence ledger.  
 **Date:** 2026-09-27  
 **Purpose:** Preserve the boring-but-important part: why the current model is taken seriously, where it may be overfit, which sources are correlated, what is direct observation versus self-report versus inference, what would falsify parts of the model, and which claims should not be promoted.
