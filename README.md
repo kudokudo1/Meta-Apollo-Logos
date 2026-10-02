@@ -5,8 +5,7 @@
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
 
-STATE // active
-HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
+> **STATE //** active \~\~ **HEALTH //** ⊹⚡ ๋࣭⭑ PROVISIONAL \~\~ **VIEW //** repository front door
 
 **[META APOLLO LOGOS // PRINCIPLES](./MODEL/Meta-Apollo-Logos-Principles.md)** — canonical principles reference.
 
