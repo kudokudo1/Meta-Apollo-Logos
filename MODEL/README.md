@@ -1,6 +1,6 @@
 # ✮˙๋࣭⭑ MAP // MODEL
 
-![](../BUILD/assets/design/chassis/model-rail.svg)
+![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 STATE // active
@@ -13,8 +13,6 @@ VIEW // structure and transformation
 > **How the thing works and why it is shaped this way.**
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 MODEL contains the conceptual machinery of Meta Apollo Logos: philosophy, design principles, cognitive models, relationships, and the shared repository grammar.
@@ -54,8 +52,6 @@ flowchart LR
 The Mermaid view carries the semantic color. The Ghost String view carries the same relationship in plain text.
 
 ## ✮˙๋࣭⭑ CONTENTS // CURRENT
-
-![](../BUILD/assets/design/chassis/nav-rail.svg)
 
 
 - [Meta Apollo Logos // Poioumenon](./Meta-Apollo-Logos-Poioumenon.md)
