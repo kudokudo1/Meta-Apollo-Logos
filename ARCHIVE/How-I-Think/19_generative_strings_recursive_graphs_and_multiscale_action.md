@@ -1,5 +1,7 @@
 # 19 — Generative Strings, Recursive Graphs, and Multiscale Action
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Major model evolution.  
 **Purpose:** Capture the shift from “compression helps memory” to a more specific model in which large graphs are repeatedly expanded, spatially manipulated, compressed into generative Strings, and later selectively regrown; also capture the discovery that the user can preserve both deep local detail and broad system state while rapidly switching scale.  
 **Date:** 2026-09-28.  
