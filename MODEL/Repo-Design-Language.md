@@ -1011,6 +1011,23 @@ Post-Apollo prefers **controlled color**, not colorless minimalism.
 
 Use color when it adds structure, state, hierarchy, orientation, or character. Pull it back only when competing colors make the information harder to read.
 
+### Off-white support structure
+
+**Off-white — `#DCF3FA`** is the standard rail for neutral structural headings.
+
+Use it for support sections such as:
+
+- `CORE // WHAT THIS ROOM IS`
+- `CONTENTS // WHAT BELONGS HERE`
+- `CONTENTS // CURRENT`
+- other local structural headings that need visual separation without claiming a stronger semantic state
+
+Off-white means:
+
+> **This section is part of the chassis. Read it as structure, not emphasis.**
+
+Do not use a stronger semantic color merely because a heading exists.
+
 Do not remove color merely to make a diagram more conventional.
 
 If a particular diagram becomes visually overloaded, simplify that diagram first: reduce emphasis, split the view, or remove unnecessary state decoration before abandoning semantic color.
