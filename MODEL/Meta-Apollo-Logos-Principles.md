@@ -1,4 +1,10 @@
-# META APOLLO LOGOS // PRINCIPLES
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# ★⋆˙ CORE // PRINCIPLES
+
+STATE // canonical
+HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+
 
 > **Human · Power · Tactile · Nostalgia · Modular · Serious**
 
@@ -14,7 +20,7 @@ These principles are how it reaches the work.
 
 ---
 
-# HUMAN
+## ★⋆˙ HUMAN // PERSON FIRST
 
 > **The system is for a person. Design like it.**
 
@@ -53,7 +59,7 @@ It gives people enough structure to orient themselves in a shared reality.
 
 ---
 
-# POWER
+## ★⋆˙ POWER // REAL CAPABILITY
 
 > **Give people real capability, then make that capability understandable and controllable.**
 
@@ -90,7 +96,7 @@ Responsibility does not disappear into the tool.
 
 ---
 
-# TACTILE
+## ★⋆˙ TACTILE // OPERABLE FORM
 
 > **A system should feel like something you can touch, move through, and operate.**
 
@@ -123,7 +129,7 @@ Presentation is therefore part of function, not something added after the functi
 
 ---
 
-# NOSTALGIA
+## ★⋆˙ NOSTALGIA // CARRY FORWARD
 
 > **Carry forward what older forms did well. Do not preserve their limitations by accident.**
 
@@ -159,7 +165,7 @@ What matters is what survived the change and whether the new form still carries 
 
 ---
 
-# MODULAR
+## ★⋆˙ MODULAR // RIGHT SEPARATION
 
 > **Things should connect without becoming inseparable.**
 
@@ -197,7 +203,7 @@ The goal is the right separation.
 
 ---
 
-# SERIOUS
+## ★⋆˙ SERIOUS // STRUCTURE UNDERNEATH
 
 > **It can be playful on the surface because the structure underneath is real.**
 
