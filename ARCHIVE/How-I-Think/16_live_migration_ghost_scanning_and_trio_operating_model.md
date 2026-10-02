@@ -1,5 +1,7 @@
 # 16 — Live Migration, Recursive Decompression, Ghost Scanning, and the Shikamaru / Jinx / Naruto Operating Model
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Current deeper working synthesis.  
 **Purpose:** Capture the next level of understanding reached after the earlier complete operating model: live migration, recursive decompression, 404, degraded-mode operation, Ghost observability, dream-like constraint relaxation, embodied localization, and the three-way Shikamaru / Jinx / Naruto interaction.  
 **Date:** 2026-09-28.  
