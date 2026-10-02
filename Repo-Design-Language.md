@@ -439,7 +439,42 @@ Meaning should remain stable.
 
 ---
 
-# 16. Design Invariant
+# 16. Current-State Notation
+
+Meta Apollo uses **C** to mark the current working state of a project.
+
+Examples:
+
+```text
+C0.1
+C0.7
+C1
+C2.3
+```
+
+The number is project-specific.
+
+**C** does not mean "final release."
+
+It means:
+
+> **This is the current working state of the thing.**
+
+Use it when a project benefits from a compact visible state marker without implying that the work is finished or formally released.
+
+A header may combine it with a plain-language state:
+
+```text
+ACTIVE · C0.7
+EXPERIMENTAL · C1
+STABLE · C2.3
+```
+
+Do not invent a state number merely to fill the field.
+
+---
+
+# 17. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
