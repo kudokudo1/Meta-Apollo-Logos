@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" rx="24" fill="#1B0623"/>
+<text x="48" y="58" fill="#DCF3FA" font-family="monospace" font-size="28" font-weight="700">POST-APOLLO // SEMANTIC COLOR</text>
+<text x="48" y="90" fill="#55CFCA" font-family="monospace" font-size="15">color = role + state + attention</text>
+<rect x="48" y="132" width="250" height="66" rx="10" fill="#00F782"/>
+ <text x="64" y="159" fill="#1B0623" font-family="monospace" font-size="16" font-weight="700">OMNITRIX</text>
+ <text x="64" y="181" fill="#1B0623" font-family="monospace" font-size="12">SYSTEM / RUNTIME</text>
+<rect x="334" y="132" width="250" height="66" rx="10" fill="#55CFCA"/>
+ <text x="350" y="159" fill="#1B0623" font-family="monospace" font-size="16" font-weight="700">CYAN</text>
+ <text x="350" y="181" fill="#1B0623" font-family="monospace" font-size="12">MODULE / STRUCTURE</text>
+<rect x="620" y="132" width="250" height="66" rx="10" fill="#5B5FD4"/>
+ <text x="636" y="159" fill="#1B0623" font-family="monospace" font-size="16" font-weight="700">BLUE</text>
+ <text x="636" y="181" fill="#1B0623" font-family="monospace" font-size="12">SCOPE / CONTEXT</text>
+<rect x="906" y="132" width="250" height="66" rx="10" fill="#F2BE4E"/>
+ <text x="922" y="159" fill="#1B0623" font-family="monospace" font-size="16" font-weight="700">YELLOW</text>
+ <text x="922" y="181" fill="#1B0623" font-family="monospace" font-size="12">MENU / CHOICE</text>
+<rect x="48" y="232" width="250" height="66" rx="10" fill="#ED981A"/>
+ <text x="64" y="259" fill="#1B0623" font-family="monospace" font-size="16" font-weight="700">ORANGE</text>
+ <text x="64" y="281" fill="#1B0623" font-family="monospace" font-size="12">AGENCY / CONTROL</text>
+<rect x="334" y="232" width="250" height="66" rx="10" fill="#C74EC7"/>
+ <text x="350" y="259" fill="#1B0623" font-family="monospace" font-size="16" font-weight="700">MAGENTA</text>
+ <text x="350" y="281" fill="#1B0623" font-family="monospace" font-size="12">PRIMARY FOCUS</text>
+<rect x="620" y="232" width="250" height="66" rx="10" fill="#D16041"/>
+ <text x="636" y="259" fill="#1B0623" font-family="monospace" font-size="16" font-weight="700">RED</text>
+ <text x="636" y="281" fill="#1B0623" font-family="monospace" font-size="12">WARNING / FAILURE</text>
+<rect x="906" y="232" width="250" height="66" rx="10" fill="#DCF3FA"/>
+ <text x="922" y="259" fill="#1B0623" font-family="monospace" font-size="16" font-weight="700">OFF-WHITE</text>
+ <text x="922" y="281" fill="#1B0623" font-family="monospace" font-size="12">NEUTRAL / DEFAULT</text>
+</svg>
