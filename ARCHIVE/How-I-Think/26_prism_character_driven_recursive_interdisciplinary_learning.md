@@ -1,5 +1,7 @@
 # 26 — Prism, Character-Driven Research, and Recursive Interdisciplinary Learning
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Focused working example.  
 **Purpose:** Capture one unusually clean example of how a creative character problem can become a research engine that crosses science, technology, history, religion, philosophy, and worldbuilding without feeling like a sequence of unrelated topic changes.  
 **Date:** 2026-09-28.  
