@@ -13,7 +13,7 @@
 
 > **How the thing works and why it is shaped this way.**
 
-## ★⋆˙ CORE // WHAT THIS ROOM IS
+### ★⋆˙ CORE // WHAT THIS ROOM IS
 
 
 MODEL contains the conceptual machinery of Meta Apollo Logos: philosophy, design principles, cognitive models, relationships, and the shared repository grammar.
@@ -52,7 +52,7 @@ flowchart LR
 
 The Mermaid view carries the semantic color. The Ghost String view carries the same relationship in plain text.
 
-## ✮˙๋࣭⭑ CONTENTS // CURRENT
+### ✮˙๋࣭⭑ CONTENTS // CURRENT
 
 
 - [Meta Apollo Logos // Poioumenon](./Meta-Apollo-Logos-Poioumenon.md)
