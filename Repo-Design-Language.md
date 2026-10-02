@@ -1,5 +1,7 @@
 # META APOLLO — REPOSITORY DESIGN LANGUAGE
 
+> This design language derives from the canonical **[META APOLLO LOGOS // PRINCIPLES](./Meta-Apollo-Logos-Principles.md)**. It does not define a second principles system.
+
 > **Readable operator manuals for living systems.**
 
 Meta Apollo repositories should be usable, legible, and aesthetically coherent while they are still being built.
