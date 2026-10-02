@@ -1,6 +1,6 @@
 # 🖨 MAP // BUILD
 
-![](../BUILD/assets/design/chassis/nav-rail.svg)
+![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 STATE // active
@@ -14,14 +14,10 @@ HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 BUILD contains the reusable artifacts produced by this repository.
 
 ## 🖨 CONTENTS // CURRENT
-
-![](../BUILD/assets/design/chassis/nav-rail.svg)
 
 
 | ARTIFACT | ROLE | STATE |
@@ -32,8 +28,6 @@ BUILD contains the reusable artifacts produced by this repository.
 Both artifacts have now been exercised against a living philosophy/history repository and a live software repository.
 
 ## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // MODEL ↔ BUILD
-
-![](../BUILD/assets/design/chassis/model-rail.svg)
 
 
 ```text
