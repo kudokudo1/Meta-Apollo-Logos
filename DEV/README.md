@@ -13,10 +13,14 @@ STATE // active
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 DEV contains experiments and development material used to test the design language before it is promoted into reusable BUILD artifacts.
 
 ## ⚒ CONTENTS // CURRENT
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 
 | TEST | PURPOSE | STATE |
