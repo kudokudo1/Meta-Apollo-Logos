@@ -3,6 +3,7 @@
 # ✮˙๋࣭⭑ META APOLLO LOGOS // POIOUMENON
 
 STATE // active
+HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
 
 **[META APOLLO LOGOS // PRINCIPLES](./MODEL/Meta-Apollo-Logos-Principles.md)** — canonical principles reference.
 
@@ -167,7 +168,7 @@ The record of the making itself: the process by which the explanation, the evide
 
 ---
 
-## The loop
+## ⌯✦ PROCESS // THE LOOP
 
 There is no final box at the end.
 
@@ -259,8 +260,6 @@ It is why the work can outlive the moment in which it was made.
 It is why the record belongs with the thing it records.
 
 It is why the making remains open.
-
----
 
 ---
 
