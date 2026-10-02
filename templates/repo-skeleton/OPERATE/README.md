@@ -1,16 +1,16 @@
-# MAP // OPERATE
+# 🖳 MAP // OPERATE
 
-// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // **[🖳 OPERATE](../OPERATE/)** \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
 ---
 
 > **Use the thing.**
 
-## What this room is
+## ★⋆˙ CORE // WHAT THIS ROOM IS
 
 OPERATE contains the information needed to install, run, configure, maintain, troubleshoot, and recover the project.
 
-## What belongs here
+## 🖳 CONTENTS // WHAT BELONGS HERE
 
 - installation
 - quick start
@@ -22,11 +22,11 @@ OPERATE contains the information needed to install, run, configure, maintain, tr
 - troubleshooting
 - recovery
 
-## Current contents
+## 🖳 CONTENTS // CURRENT
 
 <What is currently stored in OPERATE?>
 
-## Where to go next
+## 🧭 MAP // WHERE TO GO NEXT
 
 - Need internals? Go to **MODEL**.
 - Need source? Go to **BUILD**.
