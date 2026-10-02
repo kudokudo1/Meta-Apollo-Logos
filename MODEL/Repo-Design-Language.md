@@ -20,7 +20,7 @@ It is part of the architecture.
 
 ---
 
-# 1. The Seven Canonical Rooms
+## 1. The Seven Canonical Rooms
 
 
 Every Meta Apollo repository uses the same seven top-level rooms:
@@ -53,7 +53,7 @@ Consistency is intentional.
 
 ---
 
-# 2. Every Room Gets a Map
+## 2. Every Room Gets a Map
 
 
 GitHub automatically renders a folder's `README.md` when the folder is opened.
@@ -100,7 +100,7 @@ The filename remains `README.md` because GitHub gives it useful native behavior.
 
 ---
 
-# 3. Shared Room-Map Chassis
+## 3. Shared Room-Map Chassis
 
 
 Every room map uses the same basic shape:
@@ -122,7 +122,7 @@ The wording can adapt to the room, but the navigation grammar stays recognizable
 
 ---
 
-# 4. Standard Repository Skeleton
+## 4. Standard Repository Skeleton
 
 
 ```text
@@ -183,7 +183,7 @@ The seven canonical rooms are the fixed part.
 
 ---
 
-# 5. Root Exceptions
+## 5. Root Exceptions
 
 
 Do not fight GitHub or build tooling merely to make the filesystem visually pure.
@@ -207,7 +207,7 @@ Use Meta Apollo's conventions for meaning and presentation.
 
 ---
 
-# 6. BUILD
+## 6. BUILD
 
 
 > **BUILD = the thing.**
@@ -245,7 +245,7 @@ If it ships as part of the product or directly defines the product, it belongs i
 
 ---
 
-# 7. DEV
+## 7. DEV
 
 
 > **DEV = the workshop.**
@@ -269,7 +269,7 @@ The results produced by those tests do not.
 
 ---
 
-# 8. OPERATE
+## 8. OPERATE
 
 
 > **OPERATE = use the thing.**
@@ -292,7 +292,7 @@ Examples normally belong here because they usually answer:
 
 ---
 
-# 9. EVIDENCE
+## 9. EVIDENCE
 
 
 > **EVIDENCE = show what happened.**
@@ -317,7 +317,7 @@ Evidence should support claims without taking over the main interface.
 
 ---
 
-# 10. MODEL
+## 10. MODEL
 
 
 MODEL explains the structure underneath the product.
@@ -339,7 +339,7 @@ MODEL answers:
 
 ---
 
-# 11. ATLAS
+## 11. ATLAS
 
 
 ATLAS orients the reader to the repository as a whole.
@@ -360,7 +360,7 @@ It is the map of the territory.
 
 ---
 
-# 12. ARCHIVE
+## 12. ARCHIVE
 
 
 ARCHIVE preserves material that is intentionally historical.
@@ -382,7 +382,7 @@ A clean interface does not require historical amnesia.
 
 ---
 
-# 13. Documentation Is Distributed by Purpose
+## 13. Documentation Is Distributed by Purpose
 
 
 Meta Apollo does not use one giant generic `docs/` bucket by default.
@@ -401,7 +401,7 @@ The filesystem itself should help explain what a document is doing.
 
 ---
 
-# 14. Visual Identity
+## 14. Visual Identity
 
 
 Primary palette inherited from Post-Apollo:
@@ -432,14 +432,14 @@ Long-form text remains readable first.
 
 ---
 
-# 15. Symbol Language
+## 15. Symbol Language
 
 
 The symbol system is semantic first and decorative second.
 
 The **meaning** of a symbol is canonical. Its surrounding ornament may be tightened later as long as the symbol remains recognizable and keeps the same role.
 
-## Rooms
+### Rooms
 
 
 | Symbol | Room |
@@ -452,7 +452,7 @@ The **meaning** of a symbol is canonical. Its surrounding ornament may be tighte
 | ⊹ ࣪ℼ˖ | **EVIDENCE** |
 | ࣪⋅˚🕮‧₊˚ | **ARCHIVE** |
 
-## Content / State
+### Content / State
 
 
 | Symbol | Meaning |
@@ -467,7 +467,7 @@ The **meaning** of a symbol is canonical. Its surrounding ornament may be tighte
 | ⁴⁰⁴ | **DEPRECATED** |
 | ↺ | **REVERSION / REVISION** |
 
-## Rule
+### Rule
 
 
 > **Same symbol = same meaning everywhere.**
@@ -480,7 +480,7 @@ Meaning should remain stable.
 
 ---
 
-# 16. Current-State Notation
+## 16. Current-State Notation
 
 
 Meta Apollo uses **c** to mark the current working state of a project.
@@ -516,7 +516,7 @@ Do not invent a state number merely to fill the field.
 
 ---
 
-# 17. Content-Block Grammar
+## 17. Content-Block Grammar
 
 
 Meta Apollo documents use the canonical pattern:
@@ -550,55 +550,55 @@ Examples:
 
 Use the same grammar for smaller in-section blocks when appropriate.
 
-## Canonical block types
+### Canonical block types
 
 
-### ★⋆˙ CORE
+#### ★⋆˙ CORE
 
 
 Use for a load-bearing claim or rule that the surrounding section depends on.
 
-### ✮˙๋࣭⭑ MODEL
+#### ✮˙๋࣭⭑ MODEL
 
 
 Use for structural explanations, architecture, or conceptual machinery.
 
-### ⌯✦ PROCESS
+#### ⌯✦ PROCESS
 
 
 Use for sequences, flows, lifecycles, or ordered transformations.
 
-### ˖ ࣪♻๋࣭⭑ RELATIONSHIP
+#### ˖ ࣪♻๋࣭⭑ RELATIONSHIP
 
 
 Use when the important information is the relationship between two or more things.
 
-### ˖⚠ ๋࣭⭑ WARNING
+#### ˖⚠ ๋࣭⭑ WARNING
 
 
 Use for failure modes, destructive actions, dangerous assumptions, or important constraints.
 
-### ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+#### ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
 
 Use for states, facts, or behavior that have actually been checked.
 
-### ⊹⚡ ๋࣭⭑ PROVISIONAL
+#### ⊹⚡ ๋࣭⭑ PROVISIONAL
 
 
 Use for working models, hypotheses, incomplete architecture, or decisions that are not yet frozen.
 
-### ⁴⁰⁴ DEPRECATED
+#### ⁴⁰⁴ DEPRECATED
 
 
 Use for old paths, behaviors, APIs, or structures that remain visible for history or compatibility but should not be used for new work.
 
-### ↺ REVISION
+#### ↺ REVISION
 
 
 Use when the change itself matters: previous state, current state, and why the transition happened.
 
-## Rule
+### Rule
 
 
 The block should still be readable without knowing the symbol language.
@@ -609,12 +609,12 @@ They do not replace plain language.
 
 ---
 
-# 18. Navigation Grammar
+## 18. Navigation Grammar
 
 
 Meta Apollo uses Ghost String connectors for navigation.
 
-## Permanent room map
+### Permanent room map
 
 
 Use:
@@ -641,7 +641,7 @@ In Markdown, escape the tildes so GitHub does not interpret them as strikethroug
 
 The current room may be emphasized in bold.
 
-## Directional route
+### Directional route
 
 
 Use:
@@ -662,7 +662,7 @@ Example:
 
 Use directional routes only when there is a real sequence, recommended path, or next-step flow.
 
-## Rule
+### Rule
 
 
 > **~~ means connected. ~~» means carried forward.**
@@ -671,7 +671,7 @@ Do not put arrows on the permanent room map merely for decoration.
 
 ---
 
-# 19. Diagram Connector Language
+## 19. Diagram Connector Language
 
 
 Meta Apollo diagrams use Ghost String connectors instead of conventional dash-line notation.
@@ -710,7 +710,7 @@ Use a small, stable node-shape vocabulary:
 
 Do not use `{ }` merely to group a subsystem; grouping and ownership boundaries should be expressed separately.
 
-## Diagram Titles and Captions
+### Diagram Titles and Captions
 
 
 Diagram titles use the existing Meta Apollo header grammar rather than a separate visual system.
@@ -749,14 +749,14 @@ STATE // current
 VIEW // ownership
 ```
 
-## Rule
+### Rule
 
 
 > **Title = what the diagram is about. Caption = what lens you are seeing it through.**
 
 Do not add caption metadata when the title and diagram already make the scope obvious.
 
-## Relationship Labels
+### Relationship Labels
 
 
 Ghost Strings may carry plain-English labels when the relationship itself needs to be explicit.
@@ -785,14 +785,14 @@ triggers
 transforms
 ```
 
-## Rule
+### Rule
 
 
 > **If the relationship is obvious, leave the Ghost String unlabeled. If the relationship itself matters, name it.**
 
 Do not label every connector by default.
 
-## Diagram Legend
+### Diagram Legend
 
 
 Every Meta Apollo repository must carry a canonical diagram legend in its ATLAS so the notation is locally understandable without requiring an external reference.
@@ -811,12 +811,12 @@ ORANGE     active / agency
 MAGENTA    primary focus
 ```
 
-## Rule
+### Rule
 
 
 > **Every repo carries the language. Every diagram carries only what it needs.**
 
-## Color Semantics
+### Color Semantics
 
 
 Post-Apollo color carries both **role** and **attention/state**. Color is not only taxonomy.
@@ -835,7 +835,7 @@ Off-white     #DCF3FA   neutral / default information
 Purple        #1B0623   background / chassis
 ```
 
-### Attention hierarchy
+#### Attention hierarchy
 
 
 A base semantic color may be elevated by state.
@@ -866,7 +866,7 @@ magenta  primary focus / highest importance
 
 This preserves the existing Post-Apollo interaction hierarchy instead of making color a rigid permanent identity.
 
-### System / Runtime
+#### System / Runtime
 
 ![](../BUILD/assets/design/chassis/system-rail.svg)
 
@@ -883,7 +883,7 @@ This preserves the existing Post-Apollo interaction hierarchy instead of making 
 
 Omnitrix green does not mean generic success. VERIFIED remains a semantic state with its own symbol language.
 
-### Boundary base colors
+#### Boundary base colors
 
 
 ```text
@@ -897,7 +897,7 @@ These are base colors, not permanent overrides. Activity and focus may elevate a
 
 ---
 
-# 20. Diagram Density and Escalation
+## 20. Diagram Density and Escalation
 
 
 Do not make a full diagram merely because diagram notation exists.
@@ -931,14 +931,14 @@ When a full diagram is needed:
 - split the view when unrelated paths compete for attention
 - if the reader needs a paragraph just to know where to look first, simplify or split it
 
-## Rule
+### Rule
 
 
 > **Do not diagram the sentence. Diagram the structure when the structure matters.**
 
 ---
 
-# 21. Callouts and Annotations
+## 21. Callouts and Annotations
 
 
 Callouts explain a node or relationship without redefining it.
@@ -969,7 +969,7 @@ The rigid segment provides location.
 
 The Ghost String provides relationship.
 
-## Rule
+### Rule
 
 
 > **The pointer shows where. The Ghost String explains why it matters.**
@@ -978,7 +978,7 @@ Callouts may use the normal content-block symbols and labels such as NOTE, CORE,
 
 ---
 
-# 22. Diagram Color Policy
+## 22. Diagram Color Policy
 
 
 Post-Apollo diagrams use semantic color by default.
@@ -1001,7 +1001,7 @@ Purple           background / chassis
 
 Symbols, labels, shapes, and Ghost Strings should still carry enough meaning that the diagram remains understandable if color is unavailable.
 
-## Rule
+### Rule
 
 
 > **Color is part of the language, but never the only carrier of meaning.**
@@ -1010,7 +1010,7 @@ Post-Apollo prefers **controlled color**, not colorless minimalism.
 
 Use color when it adds structure, state, hierarchy, orientation, or character. Pull it back only when competing colors make the information harder to read.
 
-### Off-white page chassis
+#### Off-white page chassis
 
 **Off-white — `#DCF3FA`** is the default page-level chassis rail.
 
@@ -1028,7 +1028,7 @@ If a page already opens with a meaningful semantic rail — focus, navigation, m
 
 The page-level chassis rail exists to keep otherwise plain pages visually related to the rest of the repository without turning every section into a colored boundary.
 
-### Page opening order
+#### Page opening order
 
 Current-facing Meta Apollo pages should open in a predictable order:
 
@@ -1059,10 +1059,10 @@ If a particular diagram becomes visually overloaded, simplify that diagram first
 
 ---
 
-# 23. Tables, Code Blocks, and Collapsibles
+## 23. Tables, Code Blocks, and Collapsibles
 
 
-## Tables
+### Tables
 
 
 Tables organize facts. Keep them mechanically clean and readable.
@@ -1073,7 +1073,7 @@ Recommended compact state notation may appear inside cells.
 
 If a table becomes too wide or dense to scan comfortably, split it into smaller tables instead of compressing it.
 
-## Code Blocks
+### Code Blocks
 
 
 Literal material must remain literal and copyable.
@@ -1094,7 +1094,7 @@ Do not insert decorative characters inside real code, shell commands, configurat
 
 Post-Apollo styling belongs around the literal block, not inside it.
 
-## Collapsibles
+### Collapsibles
 
 
 Use collapsible details for useful depth that should not interrupt the main reading path.
@@ -1129,7 +1129,7 @@ Example:
 </details>
 ```
 
-## Consistency Rule
+### Consistency Rule
 
 
 > **The same kind of information should be treated the same way everywhere.**
@@ -1144,7 +1144,7 @@ Application matters as much as definition: a visual rule is only useful if reade
 
 ---
 
-# 24. Compact Status and UI Grammar
+## 24. Compact Status and UI Grammar
 
 
 Use compact metadata strips for current working state, health, ownership, branch, target, and replacement information.
@@ -1183,7 +1183,7 @@ Other examples:
 
 The strip is one component. Ghost Strings connect metadata fields without turning them into separate badges or a table.
 
-## Distinction
+### Distinction
 
 
 The lowercase `c` notation describes the current working state in the project's evolution.
@@ -1199,7 +1199,7 @@ c0.8                working-state position
 
 Neither substitutes for the other.
 
-## Rule
+### Rule
 
 
 > **Working state tells you where it is. Status tells you what kind of state it is.**
@@ -1208,7 +1208,7 @@ Keep status strips compact. Do not turn them into a second summary paragraph.
 
 ---
 
-# 25. Spacing and Alignment
+## 25. Spacing and Alignment
 
 
 Post-Apollo diagrams should feel mechanically constructed rather than loosely arranged.
@@ -1234,14 +1234,14 @@ SCOPE // local repository
 VIEW  // ownership
 ```
 
-## Rule
+### Rule
 
 
 > **Alignment belongs to the chassis. Irregularity belongs to the glow.**
 
 ---
 
-# 26. Design Invariant
+## 26. Design Invariant
 
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
