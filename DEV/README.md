@@ -2,6 +2,7 @@
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
 
+
 STATE // active
 
 // [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // **[⚒ DEV](../DEV/)** \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
@@ -14,11 +15,13 @@ STATE // active
 
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
+
 DEV contains experiments and development material used to test the design language before it is promoted into reusable BUILD artifacts.
 
 ## ⚒ CONTENTS // CURRENT
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 
 | TEST | PURPOSE | STATE |
 |---|---|---|
@@ -29,6 +32,7 @@ DEV contains experiments and development material used to test the design langua
 ## ⌯✦ PROCESS // PROMOTION FLOW
 
 ![](../BUILD/assets/design/chassis/agency-rail.svg)
+
 
 ```text
 [Experiment] ~~» [Observed Result] ~~» [Design Decision] ~~»> [BUILD Artifact]
@@ -41,6 +45,7 @@ BUILD should only inherit the parts that survived testing.
 ## 🧭 MAP // WHERE TO GO NEXT
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 
 - Need the finished reusable template? Go to **BUILD**.
 - Need the rules being tested? Go to **MODEL**.
