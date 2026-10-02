@@ -23,8 +23,6 @@ It is part of the architecture.
 
 # 1. The Seven Canonical Rooms
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Every Meta Apollo repository uses the same seven top-level rooms:
 
@@ -58,8 +56,6 @@ Consistency is intentional.
 
 # 2. Every Room Gets a Map
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 GitHub automatically renders a folder's `README.md` when the folder is opened.
 
@@ -76,37 +72,23 @@ and the visible heading inside follows:
 ```
 # MAP // ATLAS
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 # MAP // MODEL
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 # MAP // BUILD
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 # MAP // DEV
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 # MAP // OPERATE
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 # MAP // EVIDENCE
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 # MAP // ARCHIVE
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 ```
@@ -121,15 +103,11 @@ The filename remains `README.md` because GitHub gives it useful native behavior.
 
 # 3. Shared Room-Map Chassis
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Every room map uses the same basic shape:
 
 ```
 # MAP // <ROOM>
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 WHAT THIS ROOM IS
@@ -146,8 +124,6 @@ The wording can adapt to the room, but the navigation grammar stays recognizable
 ---
 
 # 4. Standard Repository Skeleton
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 ```text
@@ -210,8 +186,6 @@ The seven canonical rooms are the fixed part.
 
 # 5. Root Exceptions
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Do not fight GitHub or build tooling merely to make the filesystem visually pure.
 
@@ -235,8 +209,6 @@ Use Meta Apollo's conventions for meaning and presentation.
 ---
 
 # 6. BUILD
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 > **BUILD = the thing.**
@@ -276,8 +248,6 @@ If it ships as part of the product or directly defines the product, it belongs i
 
 # 7. DEV
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 > **DEV = the workshop.**
 
@@ -302,8 +272,6 @@ The results produced by those tests do not.
 
 # 8. OPERATE
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 > **OPERATE = use the thing.**
 
@@ -326,8 +294,6 @@ Examples normally belong here because they usually answer:
 ---
 
 # 9. EVIDENCE
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 > **EVIDENCE = show what happened.**
@@ -354,8 +320,6 @@ Evidence should support claims without taking over the main interface.
 
 # 10. MODEL
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 MODEL explains the structure underneath the product.
 
@@ -378,8 +342,6 @@ MODEL answers:
 
 # 11. ATLAS
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 ATLAS orients the reader to the repository as a whole.
 
@@ -400,8 +362,6 @@ It is the map of the territory.
 ---
 
 # 12. ARCHIVE
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 ARCHIVE preserves material that is intentionally historical.
@@ -425,8 +385,6 @@ A clean interface does not require historical amnesia.
 
 # 13. Documentation Is Distributed by Purpose
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Meta Apollo does not use one giant generic `docs/` bucket by default.
 
@@ -445,8 +403,6 @@ The filesystem itself should help explain what a document is doing.
 ---
 
 # 14. Visual Identity
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Primary palette inherited from Post-Apollo:
@@ -478,8 +434,6 @@ Long-form text remains readable first.
 ---
 
 # 15. Symbol Language
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 The symbol system is semantic first and decorative second.
@@ -529,8 +483,6 @@ Meaning should remain stable.
 
 # 16. Current-State Notation
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Meta Apollo uses **c** to mark the current working state of a project.
 
@@ -567,8 +519,6 @@ Do not invent a state number merely to fill the field.
 
 # 17. Content-Block Grammar
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Meta Apollo documents use the canonical pattern:
 
@@ -587,20 +537,14 @@ Examples:
 ```md
 ## ✮˙๋࣭⭑ MODEL // SYSTEM ARCHITECTURE
 
-![](../BUILD/assets/design/chassis/system-rail.svg)
-
 
 ## ⌯✦ PROCESS // STARTUP FLOW
-
-![](../BUILD/assets/design/chassis/agency-rail.svg)
 
 
 ## ⊹ ࣪ℼ˖ EVIDENCE // TEST RESULTS
 
 
 ## ˖⚠ ๋࣭⭑ WARNING // DESTRUCTIVE ACTION
-
-![](../BUILD/assets/design/chassis/warning-rail.svg)
 
 
 ```
@@ -631,8 +575,6 @@ Use for sequences, flows, lifecycles, or ordered transformations.
 Use when the important information is the relationship between two or more things.
 
 ### ˖⚠ ๋࣭⭑ WARNING
-
-![](../BUILD/assets/design/chassis/warning-rail.svg)
 
 
 Use for failure modes, destructive actions, dangerous assumptions, or important constraints.
@@ -669,8 +611,6 @@ They do not replace plain language.
 ---
 
 # 18. Navigation Grammar
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Meta Apollo uses Ghost String connectors for navigation.
@@ -734,8 +674,6 @@ Do not put arrows on the permanent room map merely for decoration.
 
 # 19. Diagram Connector Language
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Meta Apollo diagrams use Ghost String connectors instead of conventional dash-line notation.
 
@@ -783,12 +721,8 @@ Examples:
 ```md
 ## ✮˙๋࣭⭑ MODEL // AUDIO PIPELINE
 
-![](../BUILD/assets/design/chassis/model-rail.svg)
-
 
 ## ⌯✦ PROCESS // GIT REFRESH FLOW
-
-![](../BUILD/assets/design/chassis/agency-rail.svg)
 
 
 ## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // WINDOW ↔ IDENTITY ↔ AUDIO
@@ -966,8 +900,6 @@ These are base colors, not permanent overrides. Activity and focus may elevate a
 
 # 20. Diagram Density and Escalation
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Do not make a full diagram merely because diagram notation exists.
 
@@ -1009,8 +941,6 @@ When a full diagram is needed:
 
 # 21. Callouts and Annotations
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Callouts explain a node or relationship without redefining it.
 
@@ -1051,8 +981,6 @@ Callouts may use the normal content-block symbols and labels such as NOTE, CORE,
 
 # 22. Diagram Color Policy
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Post-Apollo diagrams use semantic color by default.
 
@@ -1090,8 +1018,6 @@ If a particular diagram becomes visually overloaded, simplify that diagram first
 ---
 
 # 23. Tables, Code Blocks, and Collapsibles
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 ## Tables
@@ -1178,8 +1104,6 @@ Application matters as much as definition: a visual rule is only useful if reade
 
 # 24. Compact Status and UI Grammar
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Use compact metadata strips for current working state, health, ownership, branch, target, and replacement information.
 
@@ -1246,8 +1170,6 @@ Keep status strips compact. Do not turn them into a second summary paragraph.
 
 # 25. Spacing and Alignment
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 Post-Apollo diagrams should feel mechanically constructed rather than loosely arranged.
 
@@ -1280,8 +1202,6 @@ VIEW  // ownership
 ---
 
 # 26. Design Invariant
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
