@@ -1,5 +1,7 @@
 # Human Reference Guide — How to Work With Me
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Purpose:** Preserve the human layer: metaphors, stories, preferences, humor, project identity, examples, and the kinds of references that make explanations click.
 
 This is not the technical model. It is the “how to actually talk to me and understand what I mean” file.
