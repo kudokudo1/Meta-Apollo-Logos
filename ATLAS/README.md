@@ -15,6 +15,8 @@ VIEW // repository orientation
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is being edited, and where the major bodies of work live.
 
@@ -36,6 +38,8 @@ ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is b
 | **ARCHIVE** | preserve | How-I-Think development history and Post-Apollo history |
 
 ## 🧭 CONTENTS // CURRENT
+
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 
 - [Editing Queue](./EDITING-QUEUE.md)
