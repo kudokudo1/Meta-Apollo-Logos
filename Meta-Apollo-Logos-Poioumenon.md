@@ -229,37 +229,53 @@ And if the evidence changes, we make it differently.
 
 ## Why the double slash matters
 
-The human-facing name is:
-
 **Meta Apollo Logos // Poioumenon**
 
-The double slash is intentional.
+The double slash is not a division.
 
-It separates the thing from the mode in which the thing is being made.
+It is a relationship.
 
-**Meta Apollo Logos** is the body.
+**Meta Apollo Logos** names the thing.
 
-**Poioumenon** is the becoming.
+**Poioumenon** names the making.
 
-The machine has a small objection: a slash is a path separator in a filesystem, so the filename cannot literally contain the double slash.
+One is the body.
 
-That is fine.
+The other is the becoming.
 
-We are bound by the laws of reality where we have to be.
+The work can be looked at as something that exists.
 
-The official human-facing title can still be:
+It can also be looked at as something still being made.
 
-**Meta Apollo Logos // Poioumenon**
+Those are not contradictory.
 
-The machine-facing filename is:
+**Same thing. Different thing.**
+
+The double slash keeps both in the name.
+
+It says that the work and the making belong together without pretending that they are the same thing.
+
+The name therefore carries two directions at once:
+
+**what has been made**
+
+**what is still being made**
+
+The machine may require a simpler filename.
+
+The human-facing name does not.
+
+The filesystem can have:
 
 Meta-Apollo-Logos-Poioumenon.md
 
-The distinction itself is useful.
+The document can say:
 
-The machine gets the identifier.
+**Meta Apollo Logos // Poioumenon**
 
-The human gets the meaning.
+The constraint belongs to the machine.
+
+The meaning belongs to the name.
 
 ---
 
