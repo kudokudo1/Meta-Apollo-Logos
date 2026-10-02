@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300">
+<rect width="1400" height="300" rx="24" fill="#1B0623"/>
+<text x="48" y="58" fill="#DCF3FA" font-family="monospace" font-size="28" font-weight="700">META APOLLO // REPOSITORY MAP</text>
+<text x="48" y="88" fill="#55CFCA" font-family="monospace" font-size="15">same civilization // different rooms</text>
+<path d="M 200 187 C 210 170, 226 204, 236 187" fill="none" stroke="#DCF3FA" stroke-width="3" stroke-dasharray="8 8"/>
+ <rect x="48" y="150" width="152" height="74" rx="12" fill="#5B5FD4"/>
+ <text x="124" y="195" text-anchor="middle" fill="#1B0623" font-family="monospace" font-size="17" font-weight="700">ATLAS</text>
+<path d="M 388 187 C 398 170, 414 204, 424 187" fill="none" stroke="#DCF3FA" stroke-width="3" stroke-dasharray="8 8"/>
+ <rect x="236" y="150" width="152" height="74" rx="12" fill="#55CFCA"/>
+ <text x="312" y="195" text-anchor="middle" fill="#1B0623" font-family="monospace" font-size="17" font-weight="700">MODEL</text>
+<path d="M 576 187 C 586 170, 602 204, 612 187" fill="none" stroke="#DCF3FA" stroke-width="3" stroke-dasharray="8 8"/>
+ <rect x="424" y="150" width="152" height="74" rx="12" fill="#DCF3FA"/>
+ <text x="500" y="195" text-anchor="middle" fill="#1B0623" font-family="monospace" font-size="17" font-weight="700">BUILD</text>
+<path d="M 764 187 C 774 170, 790 204, 800 187" fill="none" stroke="#DCF3FA" stroke-width="3" stroke-dasharray="8 8"/>
+ <rect x="612" y="150" width="152" height="74" rx="12" fill="#ED981A"/>
+ <text x="688" y="195" text-anchor="middle" fill="#1B0623" font-family="monospace" font-size="17" font-weight="700">DEV</text>
+<path d="M 952 187 C 962 170, 978 204, 988 187" fill="none" stroke="#DCF3FA" stroke-width="3" stroke-dasharray="8 8"/>
+ <rect x="800" y="150" width="152" height="74" rx="12" fill="#F2BE4E"/>
+ <text x="876" y="195" text-anchor="middle" fill="#1B0623" font-family="monospace" font-size="17" font-weight="700">OPERATE</text>
+<path d="M 1140 187 C 1150 170, 1166 204, 1176 187" fill="none" stroke="#DCF3FA" stroke-width="3" stroke-dasharray="8 8"/>
+ <rect x="988" y="150" width="152" height="74" rx="12" fill="#C74EC7"/>
+ <text x="1064" y="195" text-anchor="middle" fill="#1B0623" font-family="monospace" font-size="17" font-weight="700">EVIDENCE</text>
+
+ <rect x="1176" y="150" width="152" height="74" rx="12" fill="#D16041"/>
+ <text x="1252" y="195" text-anchor="middle" fill="#1B0623" font-family="monospace" font-size="17" font-weight="700">ARCHIVE</text>
+</svg>
