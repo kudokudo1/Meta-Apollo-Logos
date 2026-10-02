@@ -1,5 +1,7 @@
 # ࣪⋅˚🕮‧₊˚ MAP // ARCHIVE
 
+STATE // preserved
+
 // [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // **[࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)**
 
 ---
@@ -14,6 +16,12 @@ ARCHIVE preserves superseded, historical, and provenance material without preten
 
 - [How-I-Think development archive](./How-I-Think/)
 - [Post-Apollo history](./Post-Apollo-History/)
+
+## NOTE // ARCHIVED DOES NOT MEAN WRONG
+
+Something can leave the current model while remaining necessary evidence for how the current model came to exist.
+
+Archive preserves the carrier and provenance without giving old material current authority.
 
 ## 🧭 MAP // WHERE TO GO NEXT
 
