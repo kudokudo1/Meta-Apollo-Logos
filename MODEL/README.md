@@ -3,8 +3,7 @@
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
-STATE // active
-VIEW // structure and transformation
+> **STATE //** active \~\~ **VIEW //** structure and transformation
 
 // [🧭 ATLAS](../ATLAS/) \~\~ // **[✮˙๋࣭⭑ MODEL](../MODEL/)** \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
