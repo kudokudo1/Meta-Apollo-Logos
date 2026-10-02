@@ -1,106 +1,206 @@
 # Meta Apollo Logos
 
-## Meta Apollo Logos // Poioumenon
-
-> **What do we do after the sun dies? Here's our answer.**
+> **What do we do after the sun dies? The search for an answer.**
 
 This repository is the record of the making of Meta Apollo Logos.
 
-It holds the reasoning, evidence, history, experiments, and accumulated writing that explain why Meta Apollo Logos exists and how it came to be.
+It holds the reasoning, evidence, history, experiments, and accumulated writing behind Post-Apollo: why it exists, how it came to be, and how the understanding of it continues to change.
 
-It is not a finished doctrine. It is not a final answer. It is a living record of an answer being made.
+It is not a finished doctrine.
 
-The central idea is simple:
+It is not a final answer.
+
+It is a living record of an answer being made.
+
+## The camera
 
 **Do not mistake the camera for the world.**
 
-A person looks at reality through a particular camera: their body, history, relationships, memories, knowledge, attention, and experience. The camera is different for every person, but the cameras are still pointed at a shared world.
+A person encounters reality through a particular camera: body, history, relationships, memories, knowledge, attention, experience, and everything else that makes one person different from another.
 
-Meta Apollo Logos is one such camera.
+Every camera is different.
 
-The important question is not whether the camera is perfect. It is whether we can look through it, examine what it shows us, recognize where it fails, and make the camera better.
+The world remains shared.
 
-That is why the record of making Meta Apollo Logos belongs with Meta Apollo Logos itself.
+The camera can be wrong.
 
-### The making is part of the proof
+The camera can be improved.
 
-Meta Apollo Logos was not designed as a finished philosophy and then implemented afterward.
+The camera can also become something worth examining in its own right.
+
+Meta Apollo Logos is one such representation.
+
+The question is not whether the camera is perfect.
+
+The question is whether it can be examined, corrected, and used to look at the world more clearly.
+
+## The making
+
+Meta Apollo Logos was not designed as a finished philosophy and implemented afterward.
 
 The thinking, making, observing, documenting, and changing happened together.
 
-Think → make → observe → document → understand → make again.
+**Think → make → observe → document → understand → make again.**
 
-The result becomes evidence about the reasoning that produced it. The evidence becomes material for the next round of reasoning.
+The result becomes evidence about the reasoning that produced it.
 
-This repository is therefore not merely documentation about the project.
+The evidence becomes material for the next round of reasoning.
+
+The documentation is therefore not outside the project.
 
 **The documentation is part of the project.**
 
-### First material
+## The light
 
-How-I-Think/ is the first body of material absorbed into this repository. Its history and writings are preserved rather than flattened into a new summary.
+Something can be received without remaining unchanged.
 
-More history, origins, philosophy, and supporting material will be brought in as the structure becomes clear.
+Words can be carried forward.
 
-### The name of the method
+Ideas can be transformed.
 
-The working name for the making process is:
+Tools can extend what a person is able to do.
+
+A work can outlive the person who made it.
+
+A capability can pass from hand to hand.
+
+The carrier changes.
+
+The thing being carried changes with it.
+
+The light continues.
+
+This repository is one place where that process is recorded.
+
+## Tools and authorship
+
+Tools have always extended human reach.
+
+The useful question is not whether a particular tool should be used.
+
+If it is useful, use it.
+
+If it is not, do not.
+
+If another tool works better, use that one.
+
+If the work is better done by hand, do it by hand.
+
+A tool can remove mechanical effort without removing human judgment.
+
+It can carry weight without choosing where to go.
+
+**The tool provides capability.**
+
+**The person provides direction.**
+
+The work can be made easier without making authorship meaningless.
+
+The person still decides what is worth making, what is wrong, what should change, and what is worth keeping.
+
+## The making remains open
+
+The working name for this process is:
 
 **Koinō Nō Poioumenon**
 
 *Being made with common sense.*
 
-The phrase is deliberately used as a Meta Apollo Logos term rather than presented as a claim that an ancient Greek writer used this exact phrase. The Greek roots give us the shape of the idea; the meaning is defined by the work itself.
+Not made.
 
-The important word is **Poioumenon**.
-
-Not *made*.
-
-Not *finished*.
+Not finished.
 
 **Being made.**
 
-We do not know when the final version will exist, or whether there is such a thing as a final version. A work of art is stopped; it is not necessarily exhausted. A scientific model is useful until new evidence changes it. A person keeps becoming. Understanding keeps becoming.
+The final version may not exist.
 
-So the making remains open.
+A work can be stopped without being exhausted.
 
-### This repository is itself an example
+A model can be useful without being final.
 
-Meta Apollo Logos proposes that the making, the evidence, and the explanation can remain connected.
+Understanding can continue after the document stops.
 
-This repository is being built that way.
+The making therefore remains open.
 
-The history of deciding what to call this thing is part of the thing.
+## What lives here
 
-The history of deciding what belongs here is part of the thing.
+The repository brings together material that was previously separated:
 
-The mistakes are part of the thing.
+**How-I-Think**
 
-The changes are part of the thing.
+The cognitive models, observations, evidence, and ways of reasoning that shaped the work.
 
-The tools used to make it are part of the evidence.
+**Post-Apollo history**
 
-The human decisions remain the author's.
+The events, decisions, experiments, and developments through which the work came to exist.
 
-AI can remove implementation friction. It can write, search, organize, translate, manipulate code, and perform mechanical work. But it does not decide what the author means.
+**Meta Apollo Logos**
 
-The author still chooses what exists, recognizes when it is wrong, changes the direction, and decides what is worth keeping.
+The larger body of ideas, relationships, metaphysics, philosophy, and meaning that those materials point toward.
 
-The point is not to avoid effort.
+**Poioumenon**
 
-The point is to spend effort where authorship actually matters.
+The record of the making itself: the process by which the explanation, the evidence, and the thing being explained continue to shape one another.
 
-### The loop
+These boundaries may change.
 
-There is no final box at the end of this diagram:
+The repository is allowed to discover its own structure.
+
+## The loop
+
+There is no final box at the end:
 
 **reality → camera → representation → observation → documentation → new understanding → changed camera → new representation → ...**
 
 The loop continues until it doesn't.
 
-We do not get to know in advance when that will be.
+The document ends.
 
-That is why this document is called:
+The making does not necessarily end with it.
+
+Something is received.
+
+Something is understood.
+
+Something is changed.
+
+Something is carried forward.
+
+And eventually, someone else receives it.
+
+## The spirit
+
+What remains is not simply the files.
+
+Not the repository.
+
+Not the code.
+
+Not the words alone.
+
+The spirit is what can continue through them.
+
+It can be carried by a person, a sentence, an image, a piece of software, a work of art, a place, an institution, or something not yet imagined.
+
+The carrier can change.
+
+The representation can change.
+
+The person can change.
+
+The thing being carried can change with them.
+
+What matters is the relationship that continues through those changes.
+
+That is the spirit of the project.
+
+It is why the work can outlive the moment in which it was made.
+
+It is why the record belongs with the thing it records.
+
+It is why the making remains open.
+
+---
 
 # Meta Apollo Logos // Poioumenon
 
