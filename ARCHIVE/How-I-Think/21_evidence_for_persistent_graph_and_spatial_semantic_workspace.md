@@ -1,5 +1,7 @@
 # 21 — Evidence for Persistent Graph, Serial Actuator, and Spatial-Semantic Workspace
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Companion to:** 18_persistent_graph_serial_actuator_and_spatial_semantic_workspace.md  
 **Status:** Evidence / explanation ledger.  
 **Purpose:** Separate the claims in file 18 from the observations that currently support them, preserve counterexamples and confounds, and record which parts are direct observation versus interpretation.  
