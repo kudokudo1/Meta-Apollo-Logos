@@ -1,6 +1,6 @@
 # ⊹ ࣪ℼ˖ MAP // EVIDENCE
 
-![](../BUILD/assets/design/chassis/nav-rail.svg)
+![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 STATE // active
@@ -13,14 +13,10 @@ STATE // active
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
-![](../BUILD/assets/design/chassis/focus-rail.svg)
-
 
 EVIDENCE contains material used to support, test, or demonstrate claims made elsewhere in the repository.
 
 ## ⊹ ࣪ℼ˖ CONTENTS // CURRENT
-
-![](../BUILD/assets/design/chassis/nav-rail.svg)
 
 
 | EVIDENCE SET | SUPPORTS |
@@ -29,8 +25,6 @@ EVIDENCE contains material used to support, test, or demonstrate claims made els
 | [Repository Design Package Stress Tests](./Repository-Design-Package-Stress-Tests.md) | whether the seven-room/design grammar survives real repositories |
 
 ## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // DEV ↔ EVIDENCE
-
-![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 
 ```text
