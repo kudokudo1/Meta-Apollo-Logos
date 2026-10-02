@@ -278,7 +278,8 @@ Meta Apollo repositories use a shared semantic and visual grammar:
 > **MAP · MODEL · BUILD · OPERATE · EVIDENCE · ARCHIVE**
 
 - **[Repository Design Language](./Repo-Design-Language.md)** — the rules and principles.
-- **[Reusable README Template](./templates/META-APOLLO-README-TEMPLATE.md)** — the copyable implementation.
+- **[Reusable README Template](./templates/META-APOLLO-README-TEMPLATE.md)** — the root front-door template.
+- **[Repository Skeleton](./templates/repo-skeleton/)** — the copy-paste seven-room filesystem with a map in every room.
 
 The goal is not identical repositories.
 
