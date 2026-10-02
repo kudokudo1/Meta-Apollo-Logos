@@ -2,12 +2,16 @@
 
 # ✮˙๋࣭⭑ META APOLLO LOGOS // POIOUMENON
 
+![](./BUILD/assets/design/chassis/focus-rail.svg)
+
 STATE // active
 HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
 
 **[META APOLLO LOGOS // PRINCIPLES](./MODEL/Meta-Apollo-Logos-Principles.md)** — canonical principles reference.
 
 ## 🧭 MAP // REPOSITORY
+
+![](./BUILD/assets/design/chassis/nav-rail.svg)
 
 ![Meta Apollo repository map](./BUILD/assets/design/meta-apollo-repository-map.svg)
 
@@ -28,6 +32,8 @@ It holds the reasoning, evidence, history, experiments, and accumulated writing 
 ---
 
 ## ✮˙๋࣭⭑ MODEL // THE CAMERA
+
+![](./BUILD/assets/design/chassis/model-rail.svg)
 
 > **Do not mistake the camera for the world.**
 
@@ -50,6 +56,8 @@ The question is whether it can be examined, corrected, and used to look at the w
 ---
 
 ## ⌯✦ PROCESS // THE MAKING
+
+![](./BUILD/assets/design/chassis/agency-rail.svg)
 
 Meta Apollo Logos was not designed as a finished philosophy and implemented afterward.
 
