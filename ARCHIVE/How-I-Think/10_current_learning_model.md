@@ -1,5 +1,7 @@
 # 10 — Current Learning Model: Same Graph, Two Indexes, One Hand
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Current working model as of 2026-09-27.  
 **Purpose:** Preserve the newest view of how I learn, retrieve, serialize, update, and act — including the analogies, raw examples, pseudo-equations, Jinx/Shikamaru model, Ghosts, X/Y notation, Git/Hospital story, mixed alphabet, sync/desync findings, and task-family behavior.  
 **Important framing:** This is a functional / behavioral model, not a neurological diagnosis. Jinx and Shikamaru are symbolic handles for recurring policies or modes, not literal fictional people or proven discrete brain modules.
