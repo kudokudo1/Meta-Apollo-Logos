@@ -1,5 +1,7 @@
 # Meta Apollo Logos
 
+**[META APOLLO LOGOS // PRINCIPLES](./Meta-Apollo-Logos-Principles.md)** — canonical principles reference.
+
 > **What do we do after the sun dies? The search for an answer.**
 
 This repository is the record of the making of Meta Apollo Logos.
