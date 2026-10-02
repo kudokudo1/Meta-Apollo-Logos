@@ -25,7 +25,8 @@
 | --- | --- | --- |
 | **MAP** | What is this? | You are here |
 | **MODEL** | How does it work? | [Architecture / Concepts](#model) |
-| **BUILD** | Where is the machinery? | [Source / Developer guide](#build) |
+| **BUILD** | What becomes the thing? | [Source / Product structure](#build) |
+| **DEV** | How do I work on it? | [Tests / Scripts / Tools](#dev) |
 | **OPERATE** | How do I use it? | [Usage / Runbook](#operate) |
 | **EVIDENCE** | Why trust it? | [Tests / References / Results](#evidence) |
 | **ARCHIVE** | How did we get here? | [History / Archive](#archive) |
@@ -103,33 +104,49 @@ Explain what the important directories **mean**.
 | `<path>` | <purpose> |
 | `<path>` | <purpose> |
 
-## 10 · Developer setup
+## 10 · Product assets and config
+
+<What ships with the product besides source code?>
+
+## 11 · Packaging / distribution
+
+<How is the product assembled or packaged?>
+
+---
+
+# DEV
+
+## 12 · Developer setup
 
 ```bash
-<install / build commands>
+<developer setup commands>
 ```
 
-## 11 · Extension points
-
-<Where can someone safely add capability?>
-
-## 12 · Tests
+## 13 · Tests
 
 ```bash
 <test command>
 ```
 
+## 14 · Scripts and tools
+
+<What helpers exist for development, inspection, debugging, generation, or release?>
+
+## 15 · Extension points
+
+<Where can someone safely add capability?>
+
 ---
 
 # OPERATE
 
-## 13 · Quick start
+## 16 · Quick start
 
 ```bash
 <run command>
 ```
 
-## 14 · Common workflows
+## 17 · Common workflows
 
 ### <Workflow>
 
@@ -139,11 +156,11 @@ action
 → expected result
 ```
 
-## 15 · Configuration
+## 18 · Configuration
 
 <Important configuration locations and defaults.>
 
-## 16 · Recovery / troubleshooting
+## 19 · Recovery / troubleshooting
 
 | Symptom | Check | Recovery |
 | --- | --- | --- |
@@ -153,7 +170,7 @@ action
 
 # EVIDENCE
 
-## 17 · What supports the design
+## 20 · What supports the design
 
 Use only what applies:
 
@@ -166,7 +183,7 @@ Use only what applies:
 - user evidence
 - historical precedent
 
-## 18 · Known limits
+## 21 · Known limits
 
 > **A model that cannot lose cannot win.**
 
@@ -176,17 +193,17 @@ Use only what applies:
 
 # ARCHIVE
 
-## 19 · Provenance
+## 22 · Provenance
 
 <Why does the current architecture exist?>
 
-## 20 · Superseded work
+## 23 · Superseded work
 
 | Old object | Status | Replacement |
 | --- | --- | --- |
 | <old> | superseded | <new> |
 
-## 21 · Deep source
+## 24 · Deep source
 
 <Link to history, long-form notes, old implementations, or archaeology.>
 
@@ -198,4 +215,4 @@ Use only what applies:
 
 The current version should already be understandable and recognizably part of Meta Apollo.
 
-**MAP · MODEL · BUILD · OPERATE · EVIDENCE · ARCHIVE**
+**MAP · MODEL · BUILD · DEV · OPERATE · EVIDENCE · ARCHIVE**
