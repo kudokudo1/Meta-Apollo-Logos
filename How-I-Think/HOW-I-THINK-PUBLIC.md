@@ -801,6 +801,90 @@ Those questions require their own evidence.
 
 ---
 
+# The Concept
+
+A concept can begin inside one person.
+
+It can be spoken.
+
+Written down.
+
+Built into something.
+
+Remembered by someone else.
+
+Used.
+
+Changed.
+
+Repeated.
+
+Passed on.
+
+At first, it may simply be an idea.
+
+Then it becomes a relationship between people and the thing they are carrying.
+
+That relationship can shape behavior.
+
+Behavior can become habit.
+
+Habit can become expectation.
+
+Expectation can become rule.
+
+Rules can become institutions.
+
+Institutions can become culture.
+
+At that point, the concept is no longer only something somebody thought.
+
+It can influence people, represent relationships, and become part of the world another person encounters.
+
+**That is where the ordinary process begins to touch the metaphysical one of human experience.**
+
+---
+
+# The Spirit
+
+A spirit can begin inside one person.
+
+It can be spoken.
+
+Written down.
+
+Built into something.
+
+Remembered by someone else.
+
+Used.
+
+Changed.
+
+Repeated.
+
+Passed on.
+
+The current model calls the persistent, transmissible meaning-identity that can continue through that process **spirit**.
+
+A spirit is not identical to the thing carrying it.
+
+The carrier can change.
+
+The representation can change.
+
+The person can change.
+
+What continues is the relationship, the recognizable identity, and the organizing meaning.
+
+**Same thing. Different thing.**
+
+A soul is the individual form of that same problem.
+
+A person's body, words, work, and circumstances can change while something about the person remains recognizable across those changes.
+
+---
+
 # The Three-Layer Structure
 
 This public document is the top layer.
