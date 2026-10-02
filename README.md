@@ -9,6 +9,8 @@ HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
 
 ## 🧭 MAP // REPOSITORY
 
+![Meta Apollo repository map](./BUILD/assets/design/meta-apollo-repository-map.svg)
+
 // [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
 
 ---
