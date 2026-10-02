@@ -2,7 +2,8 @@
 
 # ✮˙๋࣭⭑ META APOLLO LOGOS // POIOUMENON
 
-![](./BUILD/assets/design/chassis/focus-rail.svg)
+![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 STATE // active
 HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
@@ -11,7 +12,8 @@ HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
 
 ### 🧭 MAP // REPOSITORY
 
-![](./BUILD/assets/design/chassis/nav-rail.svg)
+![](BUILD/assets/design/chassis/nav-rail.svg)
+
 
 ![Meta Apollo repository map](./BUILD/assets/design/meta-apollo-repository-map.svg)
 
@@ -33,13 +35,16 @@ It holds the reasoning, evidence, history, experiments, and accumulated writing 
 
 ### ✮˙๋࣭⭑ MODEL // THE CAMERA
 
-![](./BUILD/assets/design/chassis/model-rail.svg)
+![](BUILD/assets/design/chassis/model-rail.svg)
+
 
 > **Do not mistake the camera for the world.**
 
 A person encounters reality through a particular camera: body, history, relationships, memories, knowledge, attention, experience, and everything else that makes one person different from another.
 
 ### The camera
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 
 - Every camera is different.
 - The world remains shared.
@@ -57,13 +62,16 @@ The question is whether it can be examined, corrected, and used to look at the w
 
 ### ⌯✦ PROCESS // THE MAKING
 
-![](./BUILD/assets/design/chassis/agency-rail.svg)
+![](BUILD/assets/design/chassis/agency-rail.svg)
+
 
 Meta Apollo Logos was not designed as a finished philosophy and implemented afterward.
 
 The thinking, making, observing, documenting, and changing happened together.
 
 ### ⌯✦ PROCESS // THE LOOP
+
+![](BUILD/assets/design/chassis/agency-rail.svg)
 
 **Think** → **make** → **observe** → **document** → **understand** → **make again**
 
@@ -77,9 +85,13 @@ The evidence becomes material for the next round of reasoning.
 
 ## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // THE LIGHT
 
+![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 Something can be received without remaining unchanged.
 
 ### Transmission
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 
 - Words can be carried forward.
 - Ideas can be transformed.
@@ -99,9 +111,13 @@ This repository is one place where that process is recorded.
 
 ## ★⋆˙ CORE // TOOLS AND AUTHORSHIP
 
+![](BUILD/assets/design/chassis/focus-rail.svg)
+
 Tools have always extended human reach.
 
 ### The rule
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 
 - If it is useful, use it.
 - If it is not, do not.
@@ -113,6 +129,8 @@ A tool can remove mechanical effort without removing human judgment.
 It can carry weight without choosing where to go.
 
 ### The division
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 
 **The tool provides capability.**
 
@@ -131,12 +149,16 @@ The person still decides:
 
 ## ⌯✦ PROCESS // THE MAKING REMAINS OPEN
 
+![](BUILD/assets/design/chassis/agency-rail.svg)
+
 The working name for this process is:
 
 > **Koinō Nō Poioumenon**  
 > *Being made with common sense.*
 
 ### Not the same thing
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 
 **Not made.**
 
@@ -158,18 +180,28 @@ Understanding can continue after the document stops.
 
 ## 🧭 MAP // WHAT LIVES HERE
 
+![](BUILD/assets/design/chassis/nav-rail.svg)
+
 The repository brings together material that was previously separated.
 
 ### **[Nous tou Anthrōpou // Poiētou](./MODEL/How-I-Think/)**
+
+![](BUILD/assets/design/chassis/model-rail.svg)
 The public-facing cognitive map, selected evidence, and preserved development record behind the work.
 
 ### **[Post-Apollo history](./ARCHIVE/Post-Apollo-History/)**
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 The events, decisions, experiments, and developments through which the work came to exist.
 
 ### **Meta Apollo Logos**
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 The larger body of ideas, relationships, metaphysics, philosophy, and meaning that those materials point toward.
 
 ### **Poioumenon**
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 The record of the making itself: the process by which the explanation, the evidence, and the thing being explained continue to shape one another.
 
 > These boundaries may change.
@@ -180,9 +212,13 @@ The record of the making itself: the process by which the explanation, the evide
 
 ## ⌯✦ PROCESS // THE LOOP
 
+![](BUILD/assets/design/chassis/agency-rail.svg)
+
 There is no final box at the end.
 
 ### One continuous movement
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 
 **reality**  
 ↓  
@@ -210,6 +246,8 @@ The making does not necessarily end with it.
 
 ### What gets carried
 
+![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Something is received.**
 
 ↓  
@@ -231,6 +269,8 @@ The making does not necessarily end with it.
 ---
 
 ## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // THE SPIRIT
+
+![](BUILD/assets/design/chassis/neutral-rail.svg)
 
 What remains is not simply the files.
 
@@ -255,6 +295,8 @@ It can be carried by:
 
 ### The carrier can change.
 
+![](BUILD/assets/design/chassis/neutral-rail.svg)
+
 The representation can change.
 
 The person can change.
@@ -275,6 +317,8 @@ It is why the making remains open.
 
 ## ★⋆˙ CORE // THE THREE PIECES
 
+![](BUILD/assets/design/chassis/focus-rail.svg)
+
 **Concept** → something can begin in one person and become part of the world as it is carried.
 
 **Spirit** → what can remain recognizable while the carrier changes.
@@ -285,12 +329,16 @@ It is why the making remains open.
 
 ## ✮˙๋࣭⭑ MODEL // POIOUMENON
 
+![](BUILD/assets/design/chassis/model-rail.svg)
+
 **The Logos being made.**
 
 
 ---
 
 ## ✮˙๋࣭⭑ MODEL // REPOSITORY DESIGN LANGUAGE
+
+![](BUILD/assets/design/chassis/model-rail.svg)
 
 Meta Apollo repositories use a shared semantic and visual grammar:
 
