@@ -1,6 +1,6 @@
 # 🖳 MAP // OPERATE
 
-![](../BUILD/assets/design/chassis/nav-rail.svg)
+![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 STATE // active
@@ -12,8 +12,6 @@ STATE // active
 > **Use the thing.**
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
-
-![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
 OPERATE explains how to apply and maintain the Meta Apollo repository system without treating the template as a rigid filesystem law.
