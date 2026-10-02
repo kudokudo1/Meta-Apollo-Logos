@@ -13,7 +13,7 @@
 
 > **The map of the whole territory.**
 
-## ★⋆˙ CORE // WHAT THIS ROOM IS
+### ★⋆˙ CORE // WHAT THIS ROOM IS
 
 
 ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is being edited, and where the major bodies of work live.
@@ -35,7 +35,7 @@ ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is b
 | **EVIDENCE** | demonstrate | cognitive evidence and package stress tests |
 | **ARCHIVE** | preserve | How-I-Think development history and Post-Apollo history |
 
-## 🧭 CONTENTS // CURRENT
+### 🧭 CONTENTS // CURRENT
 
 
 - [Editing Queue](./EDITING-QUEUE.md)
