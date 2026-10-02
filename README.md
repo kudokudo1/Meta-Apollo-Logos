@@ -250,6 +250,18 @@ It is why the making remains open.
 
 ---
 
+---
+
+## The three pieces
+
+**Concept** → something can begin in one person and become part of the world as it is carried.
+
+**Spirit** → what can remain recognizable while the carrier changes.
+
+**Proof of spirit** → Meta Apollo Logos itself has moved through changing people, names, documents, projects, and representations while remaining recognizable enough to continue.
+
+> **Look at the whole thing. Test it. Change it when it does not fit. Carry forward what survives.**
+
 # Meta Apollo Logos // Poioumenon
 
 **The Logos being made.**
