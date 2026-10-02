@@ -13,6 +13,8 @@ STATE // active
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 OPERATE explains how to apply and maintain the Meta Apollo repository system without treating the template as a rigid filesystem law.
 
