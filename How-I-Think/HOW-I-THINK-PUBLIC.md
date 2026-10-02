@@ -1,4 +1,6 @@
-# How I Think
+# Nous tou Anthrōpou // Poiētou
+
+> **Mind of the Human // Maker**
 
 > **A public map of the recurring operations I use to understand, learn, communicate, remember, and act.**
 
