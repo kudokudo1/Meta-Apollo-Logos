@@ -408,13 +408,15 @@ Primary palette inherited from Post-Apollo:
 
 | Role | Color |
 | --- | --- |
-| Background | `#1B0623` |
-| Cyan | `#55CFCA` |
-| Orange | `#F2BE4E` |
-| Red | `#D16041` |
-| Blue | `#5B5FD4` |
-| Magenta | `#C74EC7` |
-| Offwhite | `#DCF3FA` |
+| Background / chassis | `#1B0623` |
+| Cyan — model / normal structure | `#55CFCA` |
+| Orange — agency / control / activity | `#ED981A` |
+| Yellow — navigation / available choice | `#F2BE4E` |
+| Omnitrix green — system / runtime | `#00F782` |
+| Red — warning / failure / destructive | `#D16041` |
+| Blue — scope / context | `#5B5FD4` |
+| Magenta — highest importance / primary focus | `#C74EC7` |
+| Off-white — page chassis / neutral membership marker | `#DCF3FA` |
 
 Mood:
 
@@ -1271,3 +1273,51 @@ Not generic scaffolding waiting for personality later.
 The archive can be messy.
 
 The interface should not be.
+
+
+---
+
+## Repository Grammar Version and Enforcement
+
+The current frozen repository grammar is:
+
+```text
+META APOLLO REPOSITORY GRAMMAR // v1
+```
+
+Repositories that adopt this grammar should carry a root marker:
+
+```yaml
+design_language: 1
+```
+
+The marker identifies which repository grammar the project was built against.
+
+A validator may enforce objective grammar such as:
+
+- the seven canonical rooms exist
+- every canonical room has a `README.md`
+- current-facing room maps carry the Meta Apollo lineage marker
+- room maps carry the permanent seven-room navigation strip
+- room maps carry a compact metadata strip
+- required chassis assets exist
+- off-white rails are used as page-level chassis, not ordinary section separators
+- the declared grammar version is supported
+
+The validator does **not** decide aesthetic judgment.
+
+It should not choose whether a section ought to be cyan, orange, magenta, or another semantic color when that choice depends on meaning.
+
+> **The validator enforces grammar. Human judgment assigns meaning.**
+
+Historical material may be exempt from current presentation grammar.
+
+Runtime-sensitive repositories may preserve physical paths that their software or tooling requires.
+
+The template is the starting state.
+
+The design language is the source of truth.
+
+The validator checks drift.
+
+The version marker preserves lineage.
