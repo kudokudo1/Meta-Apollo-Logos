@@ -1,5 +1,7 @@
 # 09 — Early Learning Model Reconstruction
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Historical reconstruction.  
 **Purpose:** Preserve the earlier model of how I learn and think, before the later Jinx/Shikamaru indexing, versioned-string, synchronization, mixed-alphabet, and two-key-retention discoveries.  
 **Read this as:** “What the model looked like before we knew the newer machinery.”  
