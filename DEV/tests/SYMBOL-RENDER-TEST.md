@@ -1,5 +1,7 @@
 # META APOLLO // SYMBOL RENDER TEST
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 This file exists only to test how the proposed Meta Apollo symbol language renders on GitHub.
 
 ---
