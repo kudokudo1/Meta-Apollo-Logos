@@ -5,9 +5,7 @@
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
-STATE // living / recursive / continuous?
-HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
-RECORDED // 2026-10-01
+> **STATE //** living / recursive / continuous? \~\~ **HEALTH //** ⊹⚡ ๋࣭⭑ PROVISIONAL \~\~ **RECORDED //** 2026-10-01
 
 > **What do we do after the sun dies? The search for an answer.**
 
