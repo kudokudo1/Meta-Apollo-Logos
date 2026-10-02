@@ -5,7 +5,7 @@
 ![](../../BUILD/assets/design/chassis/focus-rail.svg)
 
 
-STATE // active
+> **STATE //** active \~\~ **VIEW //** current public cognitive map
 
 
 > **Mind of the Human // Maker**
