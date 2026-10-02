@@ -1,5 +1,7 @@
 # Meta Apollo Logos — Editing Queue
 
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 This is the current editing plan for the Meta Apollo Logos repository.
 
 This is a working map, not a frozen structure. The purpose is to preserve the current understanding before the document is revised further.
