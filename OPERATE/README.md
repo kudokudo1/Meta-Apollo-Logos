@@ -29,6 +29,27 @@ OPERATE explains how to apply and maintain the Meta Apollo repository system wit
 
 ## ✮˙๋࣭⭑ MODEL // APPLICATION RULE
 
+```mermaid
+flowchart LR
+    R["Existing Repository"] --> Q{"Runtime / tooling path?"}
+    Q -->|yes| P["Preserve Physical Path"]
+    Q -.->|no| M["Map by Semantic Room"]
+    P --> V["Verify Behavior"]
+    M --> V
+
+    classDef scope fill:#1B0623,stroke:#5B5FD4,color:#DCF3FA,stroke-width:2px;
+    classDef decision fill:#1B0623,stroke:#F2BE4E,color:#DCF3FA,stroke-width:3px;
+    classDef system fill:#1B0623,stroke:#00F782,color:#DCF3FA,stroke-width:2px;
+    classDef agency fill:#1B0623,stroke:#ED981A,color:#DCF3FA,stroke-width:3px;
+    classDef focus fill:#1B0623,stroke:#C74EC7,color:#DCF3FA,stroke-width:3px;
+
+    class R scope;
+    class Q decision;
+    class P system;
+    class M agency;
+    class V focus;
+```
+
 ```text
 [Existing Repository]
         ~~»
