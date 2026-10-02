@@ -1,16 +1,16 @@
-# MAP // DEV
+# ⚒ MAP // DEV
 
-// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // **[⚒ DEV](../DEV/)** \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
 ---
 
 > **The workshop.**
 
-## What this room is
+## ★⋆˙ CORE // WHAT THIS ROOM IS
 
 DEV contains contributor-facing machinery used to create, test, inspect, debug, generate, and release the product.
 
-## What belongs here
+## ⚒ CONTENTS // WHAT BELONGS HERE
 
 - `tests/`
 - `scripts/`
@@ -21,11 +21,11 @@ DEV contains contributor-facing machinery used to create, test, inspect, debug, 
 - debug/probe utilities
 - release tooling
 
-## Current contents
+## ⚒ CONTENTS // CURRENT
 
 <What is currently stored in DEV?>
 
-## Where to go next
+## 🧭 MAP // WHERE TO GO NEXT
 
 - Need the product itself? Go to **BUILD**.
 - Need test or benchmark results? Go to **EVIDENCE**.
