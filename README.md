@@ -70,8 +70,6 @@ The thinking, making, observing, documenting, and changing happened together.
 
 ### ⌯✦ PROCESS // THE LOOP
 
-![](BUILD/assets/design/chassis/agency-rail.svg)
-
 
 **Think** → **make** → **observe** → **document** → **understand** → **make again**
 
@@ -108,8 +106,6 @@ This repository is one place where that process is recorded.
 ---
 
 ## ★⋆˙ CORE // TOOLS AND AUTHORSHIP
-
-![](BUILD/assets/design/chassis/focus-rail.svg)
 
 
 Tools have always extended human reach.
@@ -207,8 +203,6 @@ The record of the making itself: the process by which the explanation, the evide
 ---
 
 ## ⌯✦ PROCESS // THE LOOP
-
-![](BUILD/assets/design/chassis/agency-rail.svg)
 
 
 There is no final box at the end.
@@ -310,8 +304,6 @@ It is why the making remains open.
 
 ## ★⋆˙ CORE // THE THREE PIECES
 
-![](BUILD/assets/design/chassis/focus-rail.svg)
-
 
 **Concept** → something can begin in one person and become part of the world as it is carried.
 
@@ -322,8 +314,6 @@ It is why the making remains open.
 > **Look at the whole thing. Test it. Change it when it does not fit. Carry forward what survives.**
 
 ## ✮˙๋࣭⭑ MODEL // POIOUMENON
-
-![](BUILD/assets/design/chassis/model-rail.svg)
 
 
 **The Logos being made.**
