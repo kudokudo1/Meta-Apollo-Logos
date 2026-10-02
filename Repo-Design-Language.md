@@ -643,6 +643,40 @@ Use a small, stable node-shape vocabulary:
 
 Do not use `{ }` merely to group a subsystem; grouping and ownership boundaries should be expressed separately.
 
+## Relationship Labels
+
+Ghost Strings may carry plain-English labels when the relationship itself needs to be explicit.
+
+Examples:
+
+```text
+[Git Panel] ~~ uses ~~ [Git Service]
+[Git Service] ~~ reads » [Repository]
+[Audio Service] ~ ~ fallback ~ ~» [Default Sink]
+[User Input] ~~ control »> [Primary Action]
+```
+
+Common labels include:
+
+```text
+owns
+uses
+contains
+shares
+depends on
+sends
+reads
+writes
+triggers
+transforms
+```
+
+## Rule
+
+> **If the relationship is obvious, leave the Ghost String unlabeled. If the relationship itself matters, name it.**
+
+Do not label every connector by default.
+
 ## Color Semantics
 
 Post-Apollo color carries both **role** and **attention/state**. Color is not only taxonomy.
