@@ -326,3 +326,51 @@ First inspect the existing repositories and documents and determine **what alrea
 Then return to Poioumenon with the surrounding material known.
 
 The structure should emerge from what already exists before more prose is forced into it.
+
+
+---
+
+# New working note — Modern Myth / Spirit / Inheritance
+
+Added:
+
+- `Modern-Myth-Spirit-Identity-and-Inheritance.md`
+
+This working note preserves the current thread connecting:
+
+- stories and cartoons as carriers of moral structure rather than merely "kids' shows"
+- Spider-Man, responsibility, frightening symbols transformed by relationship
+- biblical / Christian structural recognition without overstating direct historical influence
+- Peterson / Jungian archetype analysis as a neighboring model for recurring story structure
+- superheroes as modern / American popular mythology
+- character identity as relational rather than merely visual or branded
+- retcons, continuity trust, provenance, and semantic blast radius
+- Disney / Marvel / Star Wars stewardship and the distinction between creator motives and machine-level commercial incentives
+- Dragon Ball's unusually visible aging / generational progression
+- Goku → Gohan as inheritance and attempted succession
+- the distinction between Gohan becoming a scholar and Gohan becoming narratively reset
+- good transformation versus bad stagnation
+- the carrier / spirit distinction applied to long-running cultural stories
+
+Potential integration points:
+
+- **The light** — stories as intergenerational carriers.
+- **Power and responsibility** — Spider-Man as an inherited moral compression.
+- **Spirit** — generator recognition across changed carriers.
+- **Same Thing / Different Thing** — different story / same relation; same branding / different relation.
+- **Poioumenon** — inheritance requires transformation rather than frozen preservation.
+- **Human filter** — children can absorb relations before possessing formal vocabulary for them.
+
+Do not collapse the working note directly into Poioumenon yet.
+
+First determine which parts belong in:
+
+**Meta Apollo Logos proper / How-I-Think / evidence appendix / cultural examples / provenance notes.**
+
+Preserve the evidence boundary:
+
+**structural recurrence ≠ proven genealogy**
+
+and:
+
+**machine-level incentive ≠ proof of one person's motive.**
