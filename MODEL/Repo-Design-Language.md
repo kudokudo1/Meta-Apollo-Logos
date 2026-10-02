@@ -4,6 +4,7 @@
 
 ![](../BUILD/assets/design/chassis/model-rail.svg)
 
+
 STATE // active
 HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
@@ -23,6 +24,7 @@ It is part of the architecture.
 # 1. The Seven Canonical Rooms
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Every Meta Apollo repository uses the same seven top-level rooms:
 
@@ -58,6 +60,7 @@ Consistency is intentional.
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
 
+
 GitHub automatically renders a folder's `README.md` when the folder is opened.
 
 Meta Apollo uses that behavior deliberately.
@@ -74,24 +77,31 @@ and the visible heading inside follows:
 # MAP // ATLAS
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 # MAP // MODEL
 
 ![](../BUILD/assets/design/chassis/model-rail.svg)
+
 # MAP // BUILD
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 # MAP // DEV
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 # MAP // OPERATE
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 # MAP // EVIDENCE
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 # MAP // ARCHIVE
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 ```
 
 **ATLAS** is the map of the whole territory.
@@ -106,12 +116,14 @@ The filename remains `README.md` because GitHub gives it useful native behavior.
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
 
+
 Every room map uses the same basic shape:
 
 ```
 # MAP // <ROOM>
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 
 WHAT THIS ROOM IS
 
@@ -129,6 +141,7 @@ The wording can adapt to the room, but the navigation grammar stays recognizable
 # 4. Standard Repository Skeleton
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 ```text
 repo/
@@ -192,6 +205,7 @@ The seven canonical rooms are the fixed part.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Do not fight GitHub or build tooling merely to make the filesystem visually pure.
 
 Files that GitHub or common tooling expects at the repository root should remain there when appropriate.
@@ -216,6 +230,7 @@ Use Meta Apollo's conventions for meaning and presentation.
 # 6. BUILD
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 > **BUILD = the thing.**
 
@@ -256,6 +271,7 @@ If it ships as part of the product or directly defines the product, it belongs i
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **DEV = the workshop.**
 
 DEV contains the machinery contributors use to create, inspect, verify, debug, generate, and release the product.
@@ -281,6 +297,7 @@ The results produced by those tests do not.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **OPERATE = use the thing.**
 
 Typical contents:
@@ -304,6 +321,7 @@ Examples normally belong here because they usually answer:
 # 9. EVIDENCE
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 > **EVIDENCE = show what happened.**
 
@@ -331,6 +349,7 @@ Evidence should support claims without taking over the main interface.
 
 ![](../BUILD/assets/design/chassis/model-rail.svg)
 
+
 MODEL explains the structure underneath the product.
 
 Typical contents:
@@ -354,6 +373,7 @@ MODEL answers:
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 ATLAS orients the reader to the repository as a whole.
 
 Typical contents:
@@ -375,6 +395,7 @@ It is the map of the territory.
 # 12. ARCHIVE
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 ARCHIVE preserves material that is intentionally historical.
 
@@ -399,6 +420,7 @@ A clean interface does not require historical amnesia.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Meta Apollo does not use one giant generic `docs/` bucket by default.
 
 Documentation goes where its job belongs:
@@ -418,6 +440,7 @@ The filesystem itself should help explain what a document is doing.
 # 14. Visual Identity
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Primary palette inherited from Post-Apollo:
 
@@ -451,6 +474,7 @@ Long-form text remains readable first.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 The symbol system is semantic first and decorative second.
 
 The **meaning** of a symbol is canonical. Its surrounding ornament may be tightened later as long as the symbol remains recognizable and keeps the same role.
@@ -458,6 +482,7 @@ The **meaning** of a symbol is canonical. Its surrounding ornament may be tighte
 ## Rooms
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 | Symbol | Room |
 | --- | --- |
@@ -472,6 +497,7 @@ The **meaning** of a symbol is canonical. Its surrounding ornament may be tighte
 ## Content / State
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 | Symbol | Meaning |
 | --- | --- |
@@ -489,6 +515,7 @@ The **meaning** of a symbol is canonical. Its surrounding ornament may be tighte
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Same symbol = same meaning everywhere.**
 
 Do not reuse a canonical symbol for an unrelated state merely because it looks good.
@@ -502,6 +529,7 @@ Meaning should remain stable.
 # 16. Current-State Notation
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Meta Apollo uses **c** to mark the current working state of a project.
 
@@ -540,6 +568,7 @@ Do not invent a state number merely to fill the field.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Meta Apollo documents use the canonical pattern:
 
 ```text
@@ -558,15 +587,19 @@ Examples:
 ## ✮˙๋࣭⭑ MODEL // SYSTEM ARCHITECTURE
 
 ![](../BUILD/assets/design/chassis/system-rail.svg)
+
 ## ⌯✦ PROCESS // STARTUP FLOW
 
 ![](../BUILD/assets/design/chassis/agency-rail.svg)
+
 ## ⊹ ࣪ℼ˖ EVIDENCE // TEST RESULTS
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 ## ˖⚠ ๋࣭⭑ WARNING // DESTRUCTIVE ACTION
 
 ![](../BUILD/assets/design/chassis/warning-rail.svg)
+
 ```
 
 Use the same grammar for smaller in-section blocks when appropriate.
@@ -575,9 +608,11 @@ Use the same grammar for smaller in-section blocks when appropriate.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 ### ★⋆˙ CORE
 
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
+
 
 Use for a load-bearing claim or rule that the surrounding section depends on.
 
@@ -585,11 +620,13 @@ Use for a load-bearing claim or rule that the surrounding section depends on.
 
 ![](../BUILD/assets/design/chassis/model-rail.svg)
 
+
 Use for structural explanations, architecture, or conceptual machinery.
 
 ### ⌯✦ PROCESS
 
 ![](../BUILD/assets/design/chassis/agency-rail.svg)
+
 
 Use for sequences, flows, lifecycles, or ordered transformations.
 
@@ -597,11 +634,13 @@ Use for sequences, flows, lifecycles, or ordered transformations.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Use when the important information is the relationship between two or more things.
 
 ### ˖⚠ ๋࣭⭑ WARNING
 
 ![](../BUILD/assets/design/chassis/warning-rail.svg)
+
 
 Use for failure modes, destructive actions, dangerous assumptions, or important constraints.
 
@@ -609,11 +648,13 @@ Use for failure modes, destructive actions, dangerous assumptions, or important 
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Use for states, facts, or behavior that have actually been checked.
 
 ### ⊹⚡ ๋࣭⭑ PROVISIONAL
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Use for working models, hypotheses, incomplete architecture, or decisions that are not yet frozen.
 
@@ -621,17 +662,20 @@ Use for working models, hypotheses, incomplete architecture, or decisions that a
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Use for old paths, behaviors, APIs, or structures that remain visible for history or compatibility but should not be used for new work.
 
 ### ↺ REVISION
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Use when the change itself matters: previous state, current state, and why the transition happened.
 
 ## Rule
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 The block should still be readable without knowing the symbol language.
 
@@ -645,11 +689,13 @@ They do not replace plain language.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Meta Apollo uses Ghost String connectors for navigation.
 
 ## Permanent room map
 
 ![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 
 Use:
 
@@ -679,6 +725,7 @@ The current room may be emphasized in bold.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Use:
 
 ```text
@@ -701,6 +748,7 @@ Use directional routes only when there is a real sequence, recommended path, or 
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **~~ means connected. ~~» means carried forward.**
 
 Do not put arrows on the permanent room map merely for decoration.
@@ -710,6 +758,7 @@ Do not put arrows on the permanent room map merely for decoration.
 # 19. Diagram Connector Language
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Meta Apollo diagrams use Ghost String connectors instead of conventional dash-line notation.
 
@@ -751,6 +800,7 @@ Do not use `{ }` merely to group a subsystem; grouping and ownership boundaries 
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 Diagram titles use the existing Meta Apollo header grammar rather than a separate visual system.
 
 Examples:
@@ -759,12 +809,15 @@ Examples:
 ## ✮˙๋࣭⭑ MODEL // AUDIO PIPELINE
 
 ![](../BUILD/assets/design/chassis/model-rail.svg)
+
 ## ⌯✦ PROCESS // GIT REFRESH FLOW
 
 ![](../BUILD/assets/design/chassis/agency-rail.svg)
+
 ## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // WINDOW ↔ IDENTITY ↔ AUDIO
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 ```
 
 A small caption may follow when the reader needs to know what slice or lens the diagram represents.
@@ -791,6 +844,7 @@ VIEW // ownership
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Title = what the diagram is about. Caption = what lens you are seeing it through.**
 
 Do not add caption metadata when the title and diagram already make the scope obvious.
@@ -798,6 +852,7 @@ Do not add caption metadata when the title and diagram already make the scope ob
 ## Relationship Labels
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Ghost Strings may carry plain-English labels when the relationship itself needs to be explicit.
 
@@ -829,6 +884,7 @@ transforms
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **If the relationship is obvious, leave the Ghost String unlabeled. If the relationship itself matters, name it.**
 
 Do not label every connector by default.
@@ -836,6 +892,7 @@ Do not label every connector by default.
 ## Diagram Legend
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Every Meta Apollo repository must carry a canonical diagram legend in its ATLAS so the notation is locally understandable without requiring an external reference.
 
@@ -857,11 +914,13 @@ MAGENTA    primary focus
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Every repo carries the language. Every diagram carries only what it needs.**
 
 ## Color Semantics
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Post-Apollo color carries both **role** and **attention/state**. Color is not only taxonomy.
 
@@ -882,6 +941,7 @@ Purple        #1B0623   background / chassis
 ### Attention hierarchy
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 A base semantic color may be elevated by state.
 
@@ -915,6 +975,7 @@ This preserves the existing Post-Apollo interaction hierarchy instead of making 
 
 ![](../BUILD/assets/design/chassis/system-rail.svg)
 
+
 **Omnitrix green — `#00F782`** is the canonical base color for infrastructure and live system machinery such as:
 
 - audio and PipeWire
@@ -931,6 +992,7 @@ Omnitrix green does not mean generic success. VERIFIED remains a semantic state 
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 ```text
 SYSTEM //   Omnitrix green
 MODULE //   Cyan
@@ -945,6 +1007,7 @@ These are base colors, not permanent overrides. Activity and focus may elevate a
 # 20. Diagram Density and Escalation
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Do not make a full diagram merely because diagram notation exists.
 
@@ -981,6 +1044,7 @@ When a full diagram is needed:
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Do not diagram the sentence. Diagram the structure when the structure matters.**
 
 ---
@@ -988,6 +1052,7 @@ When a full diagram is needed:
 # 21. Callouts and Annotations
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Callouts explain a node or relationship without redefining it.
 
@@ -1021,6 +1086,7 @@ The Ghost String provides relationship.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **The pointer shows where. The Ghost String explains why it matters.**
 
 Callouts may use the normal content-block symbols and labels such as NOTE, CORE, WARNING, VERIFIED, or PROVISIONAL.
@@ -1030,6 +1096,7 @@ Callouts may use the normal content-block symbols and labels such as NOTE, CORE,
 # 22. Diagram Color Policy
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Post-Apollo diagrams use semantic color by default.
 
@@ -1055,6 +1122,7 @@ Symbols, labels, shapes, and Ghost Strings should still carry enough meaning tha
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Color is part of the language, but never the only carrier of meaning.**
 
 Post-Apollo prefers **controlled color**, not colorless minimalism.
@@ -1071,9 +1139,11 @@ If a particular diagram becomes visually overloaded, simplify that diagram first
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 ## Tables
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Tables organize facts. Keep them mechanically clean and readable.
 
@@ -1086,6 +1156,7 @@ If a table becomes too wide or dense to scan comfortably, split it into smaller 
 ## Code Blocks
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Literal material must remain literal and copyable.
 
@@ -1108,6 +1179,7 @@ Post-Apollo styling belongs around the literal block, not inside it.
 ## Collapsibles
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Use collapsible details for useful depth that should not interrupt the main reading path.
 
@@ -1145,6 +1217,7 @@ Example:
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **The same kind of information should be treated the same way everywhere.**
 
 If raw logs are collapsible in one repo, raw logs should normally be collapsible in the others.
@@ -1160,6 +1233,7 @@ Application matters as much as definition: a visual rule is only useful if reade
 # 24. Compact Status and UI Grammar
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Use compact metadata strips for current working state, health, ownership, branch, target, and replacement information.
 
@@ -1203,6 +1277,7 @@ active · c0.7 ~~ main ~~ ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 The lowercase `c` notation describes the current working state in the project's evolution.
 
 A semantic state marker describes confidence, lifecycle status, or evidentiary standing.
@@ -1220,6 +1295,7 @@ Neither substitutes for the other.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Working state tells you where it is. Status tells you what kind of state it is.**
 
 Keep status strips compact. Do not turn them into a second summary paragraph.
@@ -1229,6 +1305,7 @@ Keep status strips compact. Do not turn them into a second summary paragraph.
 # 25. Spacing and Alignment
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Post-Apollo diagrams should feel mechanically constructed rather than loosely arranged.
 
@@ -1257,6 +1334,7 @@ VIEW  // ownership
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Alignment belongs to the chassis. Irregularity belongs to the glow.**
 
 ---
@@ -1264,6 +1342,7 @@ VIEW  // ownership
 # 26. Design Invariant
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
