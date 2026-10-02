@@ -14,7 +14,7 @@ VIEW // repository orientation
 
 ATLAS orients readers to Meta Apollo Logos as a whole: what is active, what is being edited, and where the major bodies of work live.
 
-## 🧭 MAP // REPOSITORY AT A GLANCE
+### 🧭 MAP // REPOSITORY AT A GLANCE
 
 ![](../BUILD/assets/design/chassis/scope-rail.svg)
 
