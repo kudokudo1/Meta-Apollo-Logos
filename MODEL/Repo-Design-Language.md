@@ -1130,36 +1130,34 @@ Recommended vocabulary:
 ```text
 STATE //
 HEALTH //
+VIEW //
 BRANCH //
 OWNER //
 UPDATED //
+RECORDED //
 TARGET //
 REPLACED BY //
 ```
 
-Examples:
+For active page metadata, prefer one compact Ghost String strip:
 
-```text
-STATE // active · c0.7
-BRANCH // main
-HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+```md
+> **STATE //** active \~\~ **HEALTH //** ࣪˖ദ്ദി๋࣭⭑ VERIFIED \~\~ **VIEW //** repository orientation
 ```
 
-```text
-STATE // experimental · c1
-HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
+Use only fields that help explain the page. Do not fill every slot merely because the vocabulary exists.
+
+Other examples:
+
+```md
+> **STATE //** experimental · c1 \~\~ **HEALTH //** ⊹⚡ ๋࣭⭑ PROVISIONAL
 ```
 
-```text
-STATE // ⁴⁰⁴ DEPRECATED
-REPLACED BY // AudioService
+```md
+> **STATE //** ⁴⁰⁴ DEPRECATED \~\~ **REPLACED BY //** AudioService
 ```
 
-Compact inline form:
-
-```text
-active · c0.7 ~~ main ~~ ࣪˖ദ്ദി๋࣭⭑ VERIFIED
-```
+The strip is one component. Ghost Strings connect metadata fields without turning them into separate badges or a table.
 
 ## Distinction
 
