@@ -4,6 +4,7 @@
 
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
+
 STATE // canonical
 HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
@@ -26,6 +27,7 @@ These principles are how it reaches the work.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **The system is for a person. Design like it.**
 
 A person should be able to approach the thing, understand what it is, figure out what they can do with it, and recover when something goes wrong.
@@ -44,6 +46,7 @@ The person provides direction.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 - Make important state visible.
 - Use language a person can understand.
 - Give the user a clear next move.
@@ -56,6 +59,7 @@ The person provides direction.
 ### Underneath it
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 The camera is not the world.
 
@@ -70,6 +74,7 @@ It gives people enough structure to orient themselves in a shared reality.
 ## ★⋆˙ POWER // REAL CAPABILITY
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 > **Give people real capability, then make that capability understandable and controllable.**
 
@@ -87,6 +92,7 @@ As capability increases, responsibility increases with it.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 - Expose useful capability instead of hiding it behind arbitrary limitations.
 - Prefer direct action over unnecessary ceremony.
 - Show what an action will affect.
@@ -99,6 +105,7 @@ As capability increases, responsibility increases with it.
 ### Underneath it
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Tools extend human reach.
 
@@ -114,6 +121,7 @@ Responsibility does not disappear into the tool.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **A system should feel like something you can touch, move through, and operate.**
 
 Interaction should have weight.
@@ -128,6 +136,7 @@ Even when the medium is digital, the interface can still provide landmarks, surf
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 - Give controls clear active, inactive, selected, disabled, and dangerous states.
 - Make actions produce visible feedback.
 - Use spatial organization to create landmarks.
@@ -141,6 +150,7 @@ Even when the medium is digital, the interface can still provide landmarks, surf
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 A representation is a carrier.
 
 The form changes how a person can encounter what it carries.
@@ -152,6 +162,7 @@ Presentation is therefore part of function, not something added after the functi
 ## ★⋆˙ NOSTALGIA // CARRY FORWARD
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 > **Carry forward what older forms did well. Do not preserve their limitations by accident.**
 
@@ -169,6 +180,7 @@ Transform it when the new medium can do better.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 - Borrow recognizable interaction patterns when they improve understanding.
 - Preserve personality instead of sanding everything into generic modern UI.
 - Use old forms as starting points, not cages.
@@ -180,6 +192,7 @@ Transform it when the new medium can do better.
 ### Underneath it
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 The carrier can change while something recognizable continues through it.
 
@@ -195,6 +208,7 @@ What matters is what survived the change and whether the new form still carries 
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Things should connect without becoming inseparable.**
 
 A system should be able to grow, change, fail, or be replaced in parts.
@@ -209,6 +223,7 @@ They are relationships with defined edges.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 - Give components clear responsibilities.
 - Separate concerns that change for different reasons.
 - Define interfaces between parts.
@@ -222,6 +237,7 @@ They are relationships with defined edges.
 ### Underneath it
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Same thing / different thing matters here.
 
@@ -238,6 +254,7 @@ The goal is the right separation.
 ## ★⋆˙ SERIOUS // STRUCTURE UNDERNEATH
 
 ![](../BUILD/assets/design/chassis/model-rail.svg)
+
 
 > **It can be playful on the surface because the structure underneath is real.**
 
@@ -267,6 +284,7 @@ The button still has to work.
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 - Test claims against reality.
 - Keep evidence and provenance when they matter.
 - Distinguish known, inferred, experimental, and unresolved states.
@@ -280,6 +298,7 @@ The button still has to work.
 ### Underneath it
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 Think.
 
@@ -302,6 +321,7 @@ A clean presentation is not a substitute for a load-bearing system.
 # USING THE PRINCIPLES
 
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
+
 
 These principles are not six independent style settings.
 
@@ -345,6 +365,7 @@ When making a decision, ask:
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
+
 > **Do not bolt these principles onto the end.**
 
 They apply while the thing is being made.
@@ -362,6 +383,7 @@ Each version should already be becoming the thing it intends to be.
 # CANONICAL REFERENCE
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 
 If another Meta Apollo document, repository, template, or implementation needs the governing principles, it should point here rather than create another principles list.
 
