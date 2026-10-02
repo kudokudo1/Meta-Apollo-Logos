@@ -441,20 +441,20 @@ Meaning should remain stable.
 
 # 16. Current-State Notation
 
-Meta Apollo uses **C** to mark the current working state of a project.
+Meta Apollo uses **c** to mark the current working state of a project.
 
 Examples:
 
 ```text
-C0.1
-C0.7
-C1
-C2.3
+c0.1
+c0.7
+c1
+c2.3
 ```
 
 The number is project-specific.
 
-**C** does not mean "final release."
+**c** does not mean "final release."
 
 It means:
 
@@ -465,9 +465,9 @@ Use it when a project benefits from a compact visible state marker without imply
 A header may combine it with a plain-language state:
 
 ```text
-ACTIVE · C0.7
-EXPERIMENTAL · C1
-STABLE · C2.3
+ACTIVE · c0.7
+EXPERIMENTAL · c1
+STABLE · c2.3
 ```
 
 Do not invent a state number merely to fill the field.
