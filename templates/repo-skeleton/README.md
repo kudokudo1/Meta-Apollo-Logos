@@ -1,23 +1,20 @@
-# <REPOSITORY NAME>
+✦︎✦︎✦︎ Meta Apollo Logos //
 
-### <ONE-LINE PURPOSE>
+# <PROJECT SYMBOL> <FAMILY> // <REPOSITORY NAME>
 
-**<STATUS>**
+<ONE-LINE PURPOSE>
 
-> <ONE SENTENCE THAT DEFINES THE PROJECT>
+STATE // <STATE> · <c-state>
+HEALTH // <VERIFIED / PROVISIONAL / DEPRECATED / ...>
 
-## Start here
+> **<ONE SENTENCE THAT DEFINES THE PROJECT>**
+
+## ★⋆˙ CORE // START HERE
 
 <Explain what this is, why it exists, and where a new reader should begin.>
 
-## Rooms
+## 🧭 MAP // ROOMS
 
-- **[ATLAS](./ATLAS/)** — orient
-- **[MODEL](./MODEL/)** — explain
-- **[BUILD](./BUILD/)** — product
-- **[DEV](./DEV/)** — workshop
-- **[OPERATE](./OPERATE/)** — use
-- **[EVIDENCE](./EVIDENCE/)** — demonstrate
-- **[ARCHIVE](./ARCHIVE/)** — preserve
+// [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
 
 > **Every room gets a map.**
