@@ -192,25 +192,41 @@ Do not freeze the wording early.
 
 ## 9. Repository structure
 
-Inspect the existing material before moving anything.
+**DONE — first structural pass**
 
-Candidate buckets include:
+The existing material was inspected before moving anything.
+
+Current structure:
 
 **Meta Apollo Logos**
+The repository itself is the umbrella.
 
 **Poioumenon**
+The main making-of document remains at the root as:
+Meta-Apollo-Logos-Poioumenon.md
 
 **How-I-Think**
+The current active How-I-Think material remains together:
+- 27 — live decoder synchronization / relational recoding evidence
+- 28 — relational reality atlas / synthesis
+- 29 — cross-domain evidence / proof stories
+- 30 — spirit / soul / meaning / carrier model
+- 31 — spirit recognition / institutions / ancient cameras
 
-**Post-Apollo History**
+**Post-Apollo-History**
+The existing Post-Apollo Discord / Social Menu history record now has its own history bucket.
 
-**Evidence / Archives**
+**Archives / How-I-Think**
+The older working documents formerly stored under How-I-Think/dump are preserved here as an archive rather than mixed into the active material.
 
-**Spirit / Metaphysics**
+This is a first structural pass, not a claim that the repository can never change again.
 
-These are candidates, not final decisions.
+The structure now separates:
 
-The existing material should determine the structure.
+**current work → history → archive**
+
+without splitting the larger Meta Apollo Logos body into unrelated projects.
+
 
 ---
 
