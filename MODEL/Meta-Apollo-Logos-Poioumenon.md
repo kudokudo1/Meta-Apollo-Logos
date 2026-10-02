@@ -1,16 +1,16 @@
-# Meta Apollo Logos // Poioumenon
+✦︎✦︎✦︎ Meta Apollo Logos //
 
-**What do we do after the sun dies? The search for an answer.**
+# ⌯✦ PROCESS // POIOUMENON
 
-**Meta Apollo data**
+STATE // living / recursive / continuous?
+HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
+RECORDED // 2026-10-01
 
-**Status:** living / recursive / continuous?
-
-**Recorded:** 2026-10-01
+> **What do we do after the sun dies? The search for an answer.**
 
 ---
 
-## Why this document exists
+## ★⋆˙ CORE // WHY THIS DOCUMENT EXISTS
 
 This document records the recursive loop that produced its own name.
 
@@ -214,7 +214,7 @@ That is why the human filter matters.
 
 ---
 
-## Why Poioumenon
+## ✮˙๋࣭⭑ MODEL // WHY POIOUMENON
 
 Three forms survived the search for the name:
 
