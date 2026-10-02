@@ -1,4 +1,10 @@
-# Modern Myth, Spirit, Identity, and Inheritance
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# ˖ ࣪♻๋࣭⭑ RELATIONSHIP // MODERN MYTH, SPIRIT, IDENTITY, AND INHERITANCE
+
+STATE // active
+HEALTH // ⊹⚡ ๋࣭⭑ PROVISIONAL
+
 
 > **A story can change its carrier without losing its spirit.**
 >
