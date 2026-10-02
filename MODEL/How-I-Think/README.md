@@ -1,4 +1,9 @@
-# Nous tou Anthrōpou // Poiētou
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# ✮˙๋࣭⭑ MODEL // NOUS TOU ANTHRŌPOU // POIĒTOU
+
+STATE // active
+
 
 > **Mind of the Human // Maker**
 
@@ -6,7 +11,7 @@
 
 This section of Meta Apollo Logos uses a three-layer structure.
 
-## 1. Map
+## 🧭 MAP // CURRENT MODEL
 
 Start here:
 
@@ -14,7 +19,7 @@ Start here:
 
 This is the forward-facing version: the current model, organized by function instead of discovery order.
 
-## 2. Evidence
+## ⊹ ࣪ℼ˖ EVIDENCE // SUPPORT
 
 The evidence layer contains selected conversation evidence, artifacts, predictions, corrections, project examples, and proof stories.
 
@@ -28,7 +33,7 @@ The evidence layer should answer:
 
 without requiring the reader to consume the entire development history.
 
-## 3. Archive
+## ࣪⋅˚🕮‧₊˚ ARCHIVE // ARCHAEOLOGY
 
 The long-form development record is preserved in:
 
@@ -40,7 +45,7 @@ If the public map is the claim, and the evidence layer is the supporting materia
 
 > **You wanted the 50-page book. Here is the fucking Bible.**
 
-## Reading rule
+## ★⋆˙ CORE // READING RULE
 
 > **Map → Evidence → Archaeology**
 
