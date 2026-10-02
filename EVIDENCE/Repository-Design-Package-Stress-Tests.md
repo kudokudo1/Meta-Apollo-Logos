@@ -2,6 +2,8 @@
 
 # ⊹ ࣪ℼ˖ EVIDENCE // REPOSITORY DESIGN PACKAGE STRESS TESTS
 
+![](../BUILD/assets/design/chassis/neutral-rail.svg)
+
 STATE // active
 HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
 
