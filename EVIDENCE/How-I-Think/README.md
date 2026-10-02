@@ -1,5 +1,7 @@
 # Nous tou Anthrōpou // Poiētou — Evidence
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 This is the selected evidence layer beneath the public-facing map.
 
 The documents here preserve concrete observations, proof stories, cross-domain examples, corrections, and stress tests that support or challenge parts of the current model.
