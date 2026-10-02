@@ -1,5 +1,7 @@
 # META APOLLO // GITHUB HEADER TEST
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 This page tests the **header grammar as it will actually appear in GitHub Markdown** before we commit to banner artwork.
 
 The family mark changes with the project family.
