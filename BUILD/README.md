@@ -3,8 +3,7 @@
 ![](../BUILD/assets/design/chassis/focus-rail.svg)
 
 
-STATE // active
-HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+> **STATE //** active \~\~ **HEALTH //** ࣪˖ദ്ദി๋࣭⭑ VERIFIED \~\~ **VIEW //** reusable artifacts
 
 // [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // **[🖨 BUILD](../BUILD/)** \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
