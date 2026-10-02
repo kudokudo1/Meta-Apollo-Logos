@@ -137,49 +137,83 @@ Then we look again.
 
 ## Why common sense entered the name
 
-The phrase **Common Sense** became the human anchor for the method.
+> **“In the following pages, I offer nothing more than simple facts, plain arguments, and common sense.”**
 
-Not "common sense" as an appeal to whatever the majority happens to believe.
+The offerings are older than the document itself.
 
-Not "common sense" as proof that something must be true because it feels obvious.
+Those words became associated with a particular kind of argument:
 
-It means the human sanity check:
+strip away the accumulated assumptions, look directly at the thing in front of you, and allow reason and feeling to determine what follows.
+
+That is the meaning carried forward here.
+
+Not an appeal to whatever the majority happens to believe.
+
+Not proof that something must be true because it seems obvious.
+
+Not an instruction to stop thinking.
 
 **Look at the whole thing.**
 
-**Does this actually make sense?**
+**Does it actually make sense?**
+
+Go back.
+
+Look at the whole thing again.
+
+Ask someone else to do it too.
+
+**Does it actually make sense?**
 
 **Does the explanation still fit the evidence?**
 
-**Did we accidentally confuse the camera with the world?**
+**Did the camera become confused with the world?**
 
-**Did the thing we built actually do what we thought it did?**
+**Did the thing that was built actually do what it was supposed to do?**
 
-That matters because the process cannot be handed entirely to a tool.
+The complicated thing can still be brought back down to the question:
 
-AI can remove implementation friction.
+> **Does it make sense?**
 
-A person could learn the GitHub command, type it into the terminal, click through the website, read the documentation, write the code, organize the files, and do all the mechanical work themselves.
+That matters because the process cannot simply be handed entirely to a tool.
 
-They may simply not want to.
+Tools have always existed to carry work that would otherwise require human effort.
 
-That is not the same as being unable to do it.
+A book can transmit words to millions.
+
+A machine can respond to changing conditions.
+
+A system can reorganize patterns and make decisions.
+
+The capabilities change.
+
+The principle does not.
+
+A tool can remove mechanical effort without removing human judgment.
 
 The useful abstraction is:
 
-**Do not spend human attention on work that does not require human authorship.**
+> **Do not spend human attention on work that does not require human authorship.**
 
 Let the tool handle the mechanical part.
 
 Keep the human judgment.
 
+Use the tool that is useful.
+
+Do the work by hand when that is better.
+
+The choice of tool is not the point.
+
+The relationship between the person, the tool, the work, and the world is.
+
 That is why the human filter matters.
 
 ---
 
-## Why Poioumenon won
+## Why Poioumenon
 
-We considered three surviving forms:
+Three forms survived the search for the name:
 
 **Poiēthen Koinō Nō**
 
@@ -187,43 +221,67 @@ We considered three surviving forms:
 
 **Koinō Nō Poioumenon**
 
-The first felt like a completed maker's mark:
+They do not need to be treated as competing answers.
 
-**Made with common sense.**
+Each carries a different emphasis.
 
-The second felt like the artifact as evidence:
+**Poiēthen Koinō Nō**
 
-**Fashioned with common sense.**
+*Made with common sense.*
 
-The third preserved the thing that mattered most:
+The emphasis falls on the completed act.
 
-**Being made with common sense.**
+**Koinō Nō Pepoiēmenon**
 
-That was the one.
+*Fashioned with common sense.*
 
-Because we do not know when the work is finished.
-
-An artist can stop working on a piece without believing that every possible improvement has disappeared.
-
-A scientist can publish a model without believing that reality has stopped.
-
-A person can reach a stage of life without reaching a final version of themselves.
-
-We can stop a version.
-
-We cannot know that we have reached the end of the making.
-
-So:
+The emphasis falls on the thing that has been made.
 
 **Koinō Nō Poioumenon**
 
-is not a declaration that we got everything right.
+*Being made with common sense.*
 
-It is a declaration about the way we are making the thing.
+The emphasis remains on the making itself.
 
-**We are making it with common sense.**
+That distinction matters.
 
-And if the evidence changes, we make it differently.
+A work can reach a stopping point without becoming a final thing.
+
+An artist can stop working on a piece without knowing that every possible improvement has disappeared.
+
+A scientist can publish a model without reality having stopped.
+
+A person can reach a stage of life without reaching a final version of themselves.
+
+A version can be finished.
+
+The making can remain open.
+
+So the form carried forward is:
+
+**Koinō Nō Poioumenon**
+
+Not as a declaration that everything has been made correctly.
+
+Not as a claim that the answer is finished.
+
+As a description of the method:
+
+> **Being made with common sense.**
+
+Common sense is the check.
+
+Poioumenon is the continuation.
+
+One asks:
+
+**Does it make sense?**
+
+The other answers:
+
+**Keep making it until the answer changes.**
+
+And if the evidence changes, make it differently.
 
 ---
 
