@@ -137,7 +137,7 @@ Understanding can continue after the document stops.
 
 The repository brings together material that was previously separated.
 
-### **[How-I-Think](./How-I-Think/)**
+### **[Nous tou Anthrōpou // Poiētou](./How-I-Think/)**
 The public-facing cognitive map, selected evidence, and preserved development record behind the work.
 
 ### **Post-Apollo history**
