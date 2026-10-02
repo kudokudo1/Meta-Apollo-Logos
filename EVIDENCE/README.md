@@ -13,14 +13,10 @@ STATE // active
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
-![](../BUILD/assets/design/chassis/neutral-rail.svg)
-
 
 EVIDENCE contains material used to support, test, or demonstrate claims made elsewhere in the repository.
 
 ## ⊹ ࣪ℼ˖ CONTENTS // CURRENT
-
-![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
 
 | EVIDENCE SET | SUPPORTS |
