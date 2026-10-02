@@ -4,8 +4,7 @@
 
 ![](../BUILD/assets/design/chassis/neutral-rail.svg)
 
-STATE // active
-HEALTH // ࣪˖ദ്ദി๋࣭⭑ VERIFIED
+> **STATE //** active \~\~ **HEALTH //** ࣪˖ദ്ദി๋࣭⭑ VERIFIED \~\~ **VIEW //** repository package stress tests
 
 > **The repository grammar has been applied to two materially different repositories without requiring the same physical layout.**
 
