@@ -1,5 +1,7 @@
 # 23 — Evidence for AI Complementarity, External Cognition, and Behavioral Fossils
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Companion to:** 20_ai_complementarity_external_cognition_and_behavioral_fossils.md  
 **Status:** Evidence / explanation ledger.  
 **Purpose:** Record the evidence that the user’s natural work style is unusually compatible with current AI systems, and that the Forest, Post-Apollo, and Surgery Room repeatedly express the same solution pressures found elsewhere in the cognitive model.  
