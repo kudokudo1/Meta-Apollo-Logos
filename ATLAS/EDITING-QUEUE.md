@@ -169,22 +169,13 @@ The changed making becomes new evidence.
 
 ## 7. README.md
 
-Eventually rewrite the README so the repository immediately communicates:
+**DONE — repository front door pass**
 
-**Meta Apollo Logos**
+The root README now presents **Meta Apollo Logos** as the umbrella rather than treating the repository as primarily a How-I-Think collection.
 
-rather than presenting itself primarily as a collection of How-I-Think documents.
+It now carries the shared lineage, page chassis, repository map, semantic rails, compact metadata, seven-room navigation, and links into the current MODEL / EVIDENCE / ARCHIVE structure.
 
-The README should explain the relationship between:
-
-- Meta Apollo Logos
-- Poioumenon
-- How-I-Think
-- Post-Apollo history
-- Spirit / metaphysics
-- The actual Post-Apollo work
-
-The large philosophical treatment belongs in the documents, not all in the README.
+The large philosophical treatment remains in the documents rather than being duplicated into the front door.
 
 ---
 
@@ -208,11 +199,17 @@ Current structure:
 The repository itself is the umbrella.
 
 **Poioumenon**
-The main making-of document remains at the root as:
-Meta-Apollo-Logos-Poioumenon.md
+The current making-of document lives at:
+`MODEL/Meta-Apollo-Logos-Poioumenon.md`
 
 **Nous tou Anthrōpou // Poiētou**
-The current active How-I-Think material remains together:
+The current public cognitive map lives under:
+`MODEL/How-I-Think/`
+
+Its selected evidence layer lives under:
+`EVIDENCE/How-I-Think/`
+
+Current evidence includes:
 - 27 — live decoder synchronization / relational recoding evidence
 - 28 — relational reality atlas / synthesis
 - 29 — cross-domain evidence / proof stories
@@ -220,10 +217,14 @@ The current active How-I-Think material remains together:
 - 31 — spirit recognition / institutions / ancient cameras
 
 **Post-Apollo-History**
-The existing Post-Apollo Discord / Social Menu history record now has its own history bucket.
+The existing Post-Apollo history record lives under:
+`ARCHIVE/Post-Apollo-History/`
 
-**Archives / How-I-Think**
-The older working documents formerly stored under the former How-I-Think/dump are preserved here as an archive rather than mixed into the active material.
+**Archive / How-I-Think**
+Older working documents are preserved under:
+`ARCHIVE/How-I-Think/`
+
+They remain browseable for provenance without being presented as the current model.
 
 This is a first structural pass, not a claim that the repository can never change again.
 
@@ -233,6 +234,35 @@ The structure now separates:
 
 without splitting the larger Meta Apollo Logos body into unrelated projects.
 
+
+
+---
+
+## 10. Repository grammar / template system
+
+**DONE — REPOSITORY GRAMMAR v1 FROZEN**
+
+The repository-design pass now has a reproducible package rather than relying on remembered conversation state.
+
+Current pieces:
+
+- `MODEL/Repo-Design-Language.md` — source of truth
+- `BUILD/templates/META-APOLLO-README-TEMPLATE.md` — current root template
+- `BUILD/templates/repo-skeleton/` — self-contained seven-room starter
+- `.meta-apollo.yml` — grammar-version marker
+- `DEV/scripts/validate_meta_apollo.py` — local grammar validator
+- `.github/workflows/meta-apollo-grammar.yml` — CI watchdog
+- `BUILD/assets/design/chassis/` — canonical semantic rails
+
+The reusable skeleton carries its own version marker, validator, CI workflow, and chassis assets.
+
+The validator enforces grammar rather than taste.
+
+It checks objective invariants such as room presence, lineage, page identity, compact metadata, navigation, assets, and off-white page-chassis placement.
+
+Historical material remains exempt from presentation rewrites solely for conformity.
+
+Runtime-sensitive projects may preserve physical paths required by the software.
 
 ---
 
@@ -325,13 +355,19 @@ This is the structural idea to preserve while the rest of the repository is bein
 
 # Next move
 
-Do not keep polishing Poioumenon indefinitely.
+The repository grammar and template system are now frozen at **v1**.
 
-First inspect the existing repositories and documents and determine **what already belongs inside Meta Apollo Logos**.
+Do not add more repository-design rules merely because another decoration is possible.
 
-Then return to Poioumenon with the surrounding material known.
+The remaining work is primarily **content/editorial work**:
 
-The structure should emerge from what already exists before more prose is forced into it.
+- continue the Poioumenon structural rewrite when ready
+- review the current How-I-Think / Evidence material by function
+- decide what should move, merge, reference, remain separate, or eventually be rewritten
+- revisit the repository description when the wording is ready
+- return later to the reserved screenshot / visual-evidence grammar
+
+The repository structure should now support that work rather than becoming the work itself.
 
 
 ---
