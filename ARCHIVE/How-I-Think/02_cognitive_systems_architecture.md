@@ -1,5 +1,7 @@
 # Cognitive / Systems Architecture — Technical Reference
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Purpose:** A structured, technical reference for the reasoning patterns, design preferences, communication behavior, epistemology, and AI-collaboration style identified in the conversation.
 
 **Important framing:** This is a working model of recurring behavior, not a neurological diagnosis. Terms below are used as engineering/cognitive metaphors unless explicitly noted otherwise.
