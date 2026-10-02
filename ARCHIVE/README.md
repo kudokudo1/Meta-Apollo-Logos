@@ -13,12 +13,12 @@
 
 > **Preserve the thread.**
 
-## ★⋆˙ CORE // WHAT THIS ROOM IS
+### ★⋆˙ CORE // WHAT THIS ROOM IS
 
 
 ARCHIVE preserves superseded, historical, and provenance material without pretending it is the current model.
 
-## ࣪⋅˚🕮‧₊˚ CONTENTS // CURRENT
+### ࣪⋅˚🕮‧₊˚ CONTENTS // CURRENT
 
 
 - [How-I-Think development archive](./How-I-Think/)
