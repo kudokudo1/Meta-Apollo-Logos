@@ -92,7 +92,7 @@ YELLOW            #F2BE4E   menu / navigation / available choice
 ORANGE            #ED981A   activity / agency / control / ownership
 MAGENTA           #C74EC7   highest importance / primary focus
 RED               #D16041   warning / failure / destructive state
-OFF-WHITE         #DCF3FA   neutral / default information
+OFF-WHITE         #DCF3FA   page chassis / system membership
 PURPLE            #1B0623   background / chassis
 ```
 
