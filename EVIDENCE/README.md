@@ -23,6 +23,7 @@ EVIDENCE contains material used to support, test, or demonstrate claims made els
 |---|---|
 | [How-I-Think Evidence](./How-I-Think/) | claims in the public cognitive model |
 | [Repository Design Package Stress Tests](./Repository-Design-Package-Stress-Tests.md) | whether the seven-room/design grammar survives real repositories |
+| [Visual Evidence — Reserved](./screenshots/) | reserved home for screenshots and visual demonstrations; framing grammar pending |
 
 ## ˖ ࣪♻๋࣭⭑ RELATIONSHIP // DEV ↔ EVIDENCE
 
