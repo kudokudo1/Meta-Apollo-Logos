@@ -395,7 +395,51 @@ Long-form text remains readable first.
 
 ---
 
-# 15. Design Invariant
+# 15. Symbol Language
+
+The symbol system is semantic first and decorative second.
+
+The **meaning** of a symbol is canonical. Its surrounding ornament may be tightened later as long as the symbol remains recognizable and keeps the same role.
+
+## Rooms
+
+| Symbol | Room |
+| --- | --- |
+| 🧭 | **ATLAS** |
+| ✮˙๋࣭⭑ | **MODEL** |
+| 🖨 | **BUILD** |
+| ⚒ | **DEV** |
+| 🖳 | **OPERATE** |
+| ⊹ ࣪ℼ˖ | **EVIDENCE** |
+| ࣪⋅˚🕮‧₊˚ | **ARCHIVE** |
+
+## Content / State
+
+| Symbol | Meaning |
+| --- | --- |
+| ★⋆˙ | **CORE / IMPORTANT** |
+| ✮˙๋࣭⭑ | **MODEL / STRUCTURE** |
+| ⌯✦ | **PROCESS / FLOW** |
+| ˖ ࣪♻๋࣭⭑ | **RELATIONSHIP / TRANSFORMATION** |
+| ˖⚠ ๋࣭⭑ | **WARNING** |
+| ࣪˖ദ്ദി๋࣭⭑ | **VERIFIED** |
+| ⊹⚡ ๋࣭⭑ | **PROVISIONAL** |
+| ⁴⁰⁴ | **DEPRECATED** |
+| ↺ | **REVERSION / REVISION** |
+
+## Rule
+
+> **Same symbol = same meaning everywhere.**
+
+Do not reuse a canonical symbol for an unrelated state merely because it looks good.
+
+Ornament may evolve.
+
+Meaning should remain stable.
+
+---
+
+# 16. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
