@@ -1,5 +1,7 @@
 # 30 — Spirit, Soul, Meaning, Naming, and the Human World
 
+![](../../BUILD/assets/design/chassis/neutral-rail.svg)
+
 **Status:** Working-model expansion / metaphysical synthesis.  
 **Date:** 2026-10-01.  
 **Purpose:** Capture the new structure connecting spirit, soul, possession, naming, meaning, human convention, culture, institutions, art, religion, and the existing Same/Different model.  
