@@ -1,5 +1,7 @@
 # 🖳 MAP // OPERATE
 
+![](../BUILD/assets/design/chassis/nav-rail.svg)
+
 STATE // active
 
 // [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // **[🖳 OPERATE](../OPERATE/)** \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
@@ -10,9 +12,13 @@ STATE // active
 
 ## ★⋆˙ CORE // WHAT THIS ROOM IS
 
+![](../BUILD/assets/design/chassis/focus-rail.svg)
+
 OPERATE explains how to apply and maintain the Meta Apollo repository system without treating the template as a rigid filesystem law.
 
 ## ⌯✦ PROCESS // APPLY THE PACKAGE
+
+![](../BUILD/assets/design/chassis/agency-rail.svg)
 
 | STEP | ACTION |
 |---|---|
@@ -28,6 +34,8 @@ OPERATE explains how to apply and maintain the Meta Apollo repository system wit
 > **Do not reorganize working machinery merely to make the tree look pure.**
 
 ## ✮˙๋࣭⭑ MODEL // APPLICATION RULE
+
+![](../BUILD/assets/design/chassis/model-rail.svg)
 
 ```mermaid
 flowchart LR
@@ -75,6 +83,8 @@ flowchart LR
 </details>
 
 ## 🧭 MAP // WHERE TO GO NEXT
+
+![](../BUILD/assets/design/chassis/nav-rail.svg)
 
 - Need the rules? Go to **MODEL**.
 - Need the reusable files? Go to **BUILD**.
