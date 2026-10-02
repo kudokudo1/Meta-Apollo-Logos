@@ -1,16 +1,16 @@
-# MAP // BUILD
+# 🖨 MAP // BUILD
 
-// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // **[🖨 BUILD](../BUILD/)** \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
 ---
 
 > **What becomes the thing.**
 
-## What this room is
+## ★⋆˙ CORE // WHAT THIS ROOM IS
 
 BUILD contains the product itself and material that directly defines or ships with it.
 
-## What belongs here
+## 🖨 CONTENTS // WHAT BELONGS HERE
 
 - `src/`
 - modules
@@ -23,11 +23,11 @@ BUILD contains the product itself and material that directly defines or ships wi
 - packaging
 - build/distribution definitions
 
-## Current contents
+## 🖨 CONTENTS // CURRENT
 
 <What is currently stored in BUILD?>
 
-## Where to go next
+## 🧭 MAP // WHERE TO GO NEXT
 
 - Need to test, script, inspect, or debug it? Go to **DEV**.
 - Need to use it? Go to **OPERATE**.
