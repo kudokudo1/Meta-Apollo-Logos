@@ -851,7 +851,45 @@ When a full diagram is needed:
 
 ---
 
-# 21. Design Invariant
+# 21. Callouts and Annotations
+
+Callouts explain a node or relationship without redefining it.
+
+Use ordinary vertical or positional geometry to show where the annotation originates, then transition into a Ghost String for the explanatory relationship.
+
+Examples:
+
+```text
+[Audio Service] ~~» [PipeWire]
+      │
+      ╰~~ NOTE // owns stream matching
+```
+
+```text
+[Apply Config]
+      ↑
+      ╰~~ ˖⚠ ๋࣭⭑ WARNING // destructive if state is stale
+```
+
+```text
+[Identity Resolver]
+      │
+      ╰~~ ★⋆˙ CORE // shared authority
+```
+
+The rigid segment provides location.
+
+The Ghost String provides relationship.
+
+## Rule
+
+> **The pointer shows where. The Ghost String explains why it matters.**
+
+Callouts may use the normal content-block symbols and labels such as NOTE, CORE, WARNING, VERIFIED, or PROVISIONAL.
+
+---
+
+# 22. Design Invariant
 
 > **Unfinished does not mean unusable, illegible, or ugly.**
 
