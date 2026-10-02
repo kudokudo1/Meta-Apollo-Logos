@@ -1,16 +1,16 @@
-# MAP // EVIDENCE
+# ⊹ ࣪ℼ˖ MAP // EVIDENCE
 
-// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
+// [🧭 ATLAS](../ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](../MODEL/) \~\~ // [🖨 BUILD](../BUILD/) \~\~ // [⚒ DEV](../DEV/) \~\~ // [🖳 OPERATE](../OPERATE/) \~\~ // **[⊹ ࣪ℼ˖ EVIDENCE](../EVIDENCE/)** \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](../ARCHIVE/)
 
 ---
 
 > **Show what happened.**
 
-## What this room is
+## ★⋆˙ CORE // WHAT THIS ROOM IS
 
 EVIDENCE contains results, demonstrations, measurements, experiments, and supporting material.
 
-## What belongs here
+## ⊹ ࣪ℼ˖ CONTENTS // WHAT BELONGS HERE
 
 - test results
 - benchmark results
@@ -21,11 +21,11 @@ EVIDENCE contains results, demonstrations, measurements, experiments, and suppor
 - comparison reports
 - supporting references
 
-## Current contents
+## ⊹ ࣪ℼ˖ CONTENTS // CURRENT
 
 <What is currently stored in EVIDENCE?>
 
-## Where to go next
+## 🧭 MAP // WHERE TO GO NEXT
 
 - Need the test machinery? Go to **DEV**.
 - Need the claims or architecture being supported? Go to **MODEL**.
