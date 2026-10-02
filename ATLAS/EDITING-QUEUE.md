@@ -376,7 +376,7 @@ The repository structure should now support that work rather than becoming the w
 
 Added:
 
-- `Modern-Myth-Spirit-Identity-and-Inheritance.md`
+- `MODEL/Modern-Myth-Spirit-Identity-and-Inheritance.md`
 
 This working note preserves the current thread connecting:
 
