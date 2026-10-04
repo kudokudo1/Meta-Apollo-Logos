@@ -2,9 +2,9 @@
 
 # ✮˙๋࣭⭑ META APOLLO LOGOS // POIOUMENON
 
-![Meta Apollo Logos // Post Apollo Family](./BUILD/assets/design/meta-apollo-banner.svg)
-
 ![](BUILD/assets/design/chassis/focus-rail.svg)
+
+![Meta Apollo Logos // Post Apollo Family](./BUILD/assets/design/meta-apollo-banner.svg)
 
 > **STATE //** active \~\~ **HEALTH //** ⊹⚡ ๋࣭⭑ PROVISIONAL \~\~ **VIEW //** repository front door
 
