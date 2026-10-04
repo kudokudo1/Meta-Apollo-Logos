@@ -8,7 +8,7 @@
   </g>
   <text x="600" y="128"
         text-anchor="middle"
-        font-family="OCR A Std, OCR A Extended, monospace"
+        font-family="JetBrains Mono, Fira Code, SFMono-Regular, Consolas, monospace"
         font-size="27"
         font-weight="500"
         letter-spacing="6"
