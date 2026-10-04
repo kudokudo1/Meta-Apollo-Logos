@@ -2,12 +2,17 @@
 
 # ✮˙๋࣭⭑ META APOLLO LOGOS // POIOUMENON
 
-![](BUILD/assets/design/chassis/focus-rail.svg)
+![Meta Apollo Logos // Post Apollo Family](./BUILD/assets/design/meta-apollo-banner.svg)
 
+![](BUILD/assets/design/chassis/focus-rail.svg)
 
 > **STATE //** active \~\~ **HEALTH //** ⊹⚡ ๋࣭⭑ PROVISIONAL \~\~ **VIEW //** repository front door
 
+Meta Apollo Logos is the living record and philosophy of the Post-Apollo Family — tracing how people, tools, ideas, and environments shape one another, and how what we inherit is tested, transformed, and carried forward.
+
 **[META APOLLO LOGOS // PRINCIPLES](./MODEL/Meta-Apollo-Logos-Principles.md)** — canonical principles reference.
+
+**PUBLIC FAMILY //** [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [SWAYPX](https://github.com/kudokudo1/Post-Apollo-SwayPx) · [LAN MOUSE // 2-PLAYER MODE](https://github.com/kudokudo1/Lan-Mouse-2-Player-Mode)
 
 ### 🧭 MAP // REPOSITORY
 
