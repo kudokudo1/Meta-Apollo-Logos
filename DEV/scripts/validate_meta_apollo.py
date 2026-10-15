@@ -6,6 +6,46 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
+
+def navigation_link_errors(root: Path) -> list[str]:
+    """Validate local README/room-map Markdown links, not document semantics."""
+    from urllib.parse import unquote
+
+    root = root.resolve()
+    pages = ("README.md",) + tuple(f"{room}/README.md" for room in ROOMS)
+    pattern = re.compile(r"!?\[[^\]\n]*\]\(([^)\n]+)\)")
+    issues: list[str] = []
+    for page in pages:
+        document = root / page
+        if not document.is_file():
+            continue  # Room/README presence is checked by repository grammar.
+        fenced = False
+        for number, line in enumerate(document.read_text(encoding="utf-8").splitlines(), 1):
+            if line.lstrip().startswith((chr(96) * 3, "~~~")):
+                fenced = not fenced
+                continue
+            if fenced:
+                continue
+            for match in pattern.finditer(line):
+                href = match.group(1).strip()
+                if (not href or href.startswith(("#", "//"))
+                        or re.match(r"(?i)^[a-z][a-z0-9+.-]*:", href)):
+                    continue  # External addresses and in-page anchors.
+                raw_target = unquote(href.split("#", 1)[0].split("?", 1)[0])
+                if not raw_target:
+                    continue
+                target = ((root / raw_target.lstrip("/")) if raw_target.startswith("/")
+                          else (document.parent / raw_target)).resolve()
+                try:
+                    target.relative_to(root)
+                except ValueError:
+                    issues.append(f"{page}:{number} link escapes repository: {href}")
+                    continue
+                if not target.exists():
+                    issues.append(f"{page}:{number} broken local link: {href}")
+    return issues
+
+
 ROOT = Path(__file__).resolve().parents[2]
 ROOMS = ("ATLAS", "MODEL", "BUILD", "DEV", "OPERATE", "EVIDENCE", "ARCHIVE")
 LINEAGE = "✦︎✦︎✦︎ Meta Apollo Logos //"
@@ -127,7 +167,8 @@ def main() -> int:
         if neutral_lines and second_heading and neutral_lines[0] > second_heading:
             errors.append(f"{rel} uses the off-white rail below a local section heading")
 
-    if errors:
+    errors.extend(navigation_link_errors(ROOT))
+if errors:
         print("META APOLLO REPOSITORY GRAMMAR // v1 // FAIL")
         for error in errors:
             print(f" - {error}")
