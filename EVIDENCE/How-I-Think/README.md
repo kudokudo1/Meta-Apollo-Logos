@@ -17,6 +17,7 @@ The documents here preserve concrete observations, proof stories, cross-domain e
 - **29 — Evidence / Proof Stories / Cross-Domain Coherence**
 - **30 — Spirit, Soul, Meaning, Naming, and Carrier Independence**
 - **31 — Evidence for Spirit Recognition, Possession, Institutions, and Ancient Cameras**
+- **October 11–12, 2026 — Reading, AAVE, context and associative traversal:** [first-person evidence case record](./2026-10-11-12-reading-context-associative-traversal.md) (operator-authorized publication; interpretations remain provisional)
 
 The evidence layer is not the archive.
 
