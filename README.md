@@ -14,7 +14,7 @@ Meta Apollo Logos is the living record and philosophy of the Post-Apollo Family 
 
 **PUBLIC FAMILY //** [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [SWAYPX](https://github.com/kudokudo1/Post-Apollo-SwayPx) · [LAN MOUSE // 2-PLAYER MODE](https://github.com/kudokudo1/Lan-Mouse-2-Player-Mode)
 
-**RULES //** [Family design grammar](./MODEL/Repo-Design-Language.md) · [Syntagma // shared operator and AI working rules](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/AGENTS.md) · [Local model](./MODEL/README.md)
+**RULES //** [Family design grammar](./MODEL/Repo-Design-Language.md) · [Syntagma // shared operator and AI working rules](https://github.com/kudokudo1/Meta-Apollo-Logos-Syntagma/blob/main/AGENTS.md) · [Local model](./MODEL/README.md)
 
 ### 🧭 MAP // REPOSITORY
 
