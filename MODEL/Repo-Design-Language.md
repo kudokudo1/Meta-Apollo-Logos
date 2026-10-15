@@ -399,6 +399,21 @@ ARCHIVE    → historical and superseded documentation
 
 The filesystem itself should help explain what a document is doing.
 
+### Cross-repository documentation authority and discovery
+
+The seven rooms distinguish **purpose**, not independent copies of the same rule. A rule, implementation contract, operator procedure, experimental result and historical testimony may all concern the same feature without having the same authority. Decide ownership before choosing a physical file path.
+
+- **Family-wide principles and repository/diagram grammar:** this Meta Apollo Logos `MODEL/`.
+- **Shared operator collaboration and semantic UI rules:** the current [Syntagma rules workstream](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think), entered through [AGENTS](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/AGENTS.md) and its [source map](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/ATLAS/SOURCE-MAP.md). The existing repository name is retained during migration.
+- **Author's thinking, story, process, historical development and substantial evidence:** **Poioumenon (Ποιούμενον) / How I Think**, a distinct author-facing work undergoing separation from the Syntagma material. Do not treat the present overlap as a file duplication to delete.
+- **Project-specific architecture and contracts:** the owning project's `MODEL/` or explicitly indexed code-adjacent technical contract; **operation/how-to** in `OPERATE/`; **observations, experiments and results** in `EVIDENCE/`; **validators/test machinery** in `DEV/` or required source/test paths; **history** in `ARCHIVE/` or marked imports.
+
+**Discover before duplicating:** current repository root entry points should link to the family grammar, Syntagma agent/rules entry and local rules/contract navigation. Keep these as links, not forks of the complete text. Current project implementations and their verification state are owned by their project; documentation of an intended rule is not proof of production behavior.
+
+**Operator notes can be informal.** An AI worker doing documentation work is responsible for classifying raw notes, preserving original intent and provenance, choosing the existing authoritative section, and surfacing genuine conflicts. Do not require the operator to first learn documentation formatting. Before moving a document, check active branches and workers, and distinguish approved rule, proposed contract, evidence, implementation and archive. Do not silently reclassify a draft as canonical.
+
+For a durable new rule or report, record enough to identify `STATE / OWNER / SCOPE / SOURCE / RELATION TO EXISTING / VERIFICATION`. A small note does not need ceremony. Prefer a short amendment and cross-link over a new file or reorganization unless the existing home truly cannot hold it.
+
 ---
 
 ## 14. Visual Identity
