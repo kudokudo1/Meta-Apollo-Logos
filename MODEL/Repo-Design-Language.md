@@ -51,6 +51,8 @@ All seven rooms exist in every Meta Apollo repository, even when one is mostly e
 
 Consistency is intentional.
 
+**Adoption boundary:** The seven rooms are mandatory for repositories operating under the **full Meta Apollo Repository Grammar**. A public family link or README reference to Syntagma does not, by itself, adopt that filesystem standard for a separate third-party-derived fork or the GitHub profile directory. Those are explicitly treated as discoverability-only exceptions unless the operator separately approves full adoption; do not auto-restructure them, overwrite fork-specific guidance, or treat their absence of room maps as a failed migration. An adopted repository still requires all seven rooms.
+
 ---
 
 ## 2. Every Room Gets a Map
