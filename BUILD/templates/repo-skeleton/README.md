@@ -20,6 +20,6 @@
 
 > **Every room gets a map.**
 
-### ⌯✦ RULES // AGENT ENTRY
+### ⌯✦ RULES // SHARED REFERENCES
 
 Before proposing a new project rule or modifying an established system, consult the [Meta Apollo repository/diagram grammar](https://github.com/kudokudo1/Meta-Apollo-Logos/blob/main/MODEL/Repo-Design-Language.md) and the [Syntagma AI/operator rules entry](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/AGENTS.md). Use this project's own `MODEL/`, `OPERATE/`, and `ATLAS/` for its technical contracts and local capabilities. Link to authoritative rules rather than copying them. The author-focused Poioumenon / How I Think work is distinct and currently migrating.
