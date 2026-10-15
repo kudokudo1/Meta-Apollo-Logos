@@ -168,7 +168,8 @@ def main() -> int:
             errors.append(f"{rel} uses the off-white rail below a local section heading")
 
     errors.extend(navigation_link_errors(ROOT))
-if errors:
+
+    if errors:
         print("META APOLLO REPOSITORY GRAMMAR // v1 // FAIL")
         for error in errors:
             print(f" - {error}")
