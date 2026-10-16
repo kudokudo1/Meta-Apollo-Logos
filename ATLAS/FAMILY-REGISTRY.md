@@ -9,6 +9,7 @@
 > **AUTHORITY //** operator-approved registry *location and initial publication scope*; entries remain evidence-labeled proposals
 >
 > **SOURCE SNAPSHOT //** GitHub inventory and default-branch READMEs inspected October 10, 2026; registry base: `Meta-Apollo-Logos/main` at `cb8370471d07d8d80a93d2ba94ef1e03510c2472`
+> **RECONCILIATION BASIS //** October 16, 2026: 19-repository inventory and Syntagma authority verified against `Meta-Apollo-Logos/main` at `668a9041031ff78b909c3679c817b89465bb04aa`; this does not supersede the historical October 10 snapshot.
 >
 > **OWNER OF TECHNICAL TRUTH //** each originating repository; this index does not transfer Patient ownership
 
@@ -35,7 +36,7 @@ Relationship labels must distinguish **runtime/configuration dependency**, **sha
 
 ## COVERAGE // ALL DISCOVERED REPOSITORIES
 
-Source: the 18 repositories visible to the linked GitHub account on October 10, 2026. The README link in each row is its starting provenance pointer (SwayPX uses `master`). The **primary/related columns are candidate knowledge neighborhoods, not operative changes to repository ownership**.
+Source: **October 10, 2026** initial inventory of 18 repositories; **October 16, 2026** reconciliation identifies 19, adding Syntagma. README links are provenance pointers (SwayPX uses `master`). The **primary/related columns are candidate knowledge neighborhoods, not operative changes to repository ownership**.
 
 | Repository / source | Kind | Proposed primary Family | Related Family / neighborhood candidates | State | Retrieval reason |
 | --- | --- | --- | --- | --- | --- |
@@ -49,7 +50,8 @@ Source: the 18 repositories visible to the linked GitHub account on October 10, 
 | [Post-Apollo-Sway-Config](https://github.com/kudokudo1/Post-Apollo-Sway-Config/blob/main/README.md) | PROJECT | Desktop / Space | Terminal / CLI; Audio / Media | PROVISIONAL | Compositor session configuration and Quickshell launch |
 | [Post-Apollo-Zellij](https://github.com/kudokudo1/Post-Apollo-Zellij/blob/main/README.md) | PROJECT | Terminal / CLI | Developer / Coordination | PROVISIONAL | Terminal sessions, layouts, and custom plugin |
 | [Post-Apollo-Neon-Retro](https://github.com/kudokudo1/Post-Apollo-Neon-Retro/blob/main/README.md) | PROJECT | Visual / Theming | Desktop / Taskbar | PROVISIONAL | Third-party toolkit compatibility theme |
-| [Meta-Apollo-Logos-How-I-Think](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/README.md) | PROJECT | Logos / Meaning | Continuity / Knowledge; Developer / Coordination | PROVISIONAL | Agent and human collaboration guidance |
+| [Meta-Apollo-Logos-How-I-Think](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/README.md) | PROJECT | Logos / Meaning | Continuity / Knowledge; Developer / Coordination | PROVISIONAL | Personal cognition, language, first-person evidence and archaeology; not the live shared-rules authority |
+| [Meta-Apollo-Logos-Syntagma](https://github.com/kudokudo1/Meta-Apollo-Logos-Syntagma/blob/main/README.md) | PROJECT | Developer / Coordination | Logos / Meaning; Continuity / Knowledge | PROVISIONAL | Canonical shared AI/operator rules, authority, Hospital organization, reporting and interaction protocols |
 | [Post-Apollo-Astro-Snacks](https://github.com/kudokudo1/Post-Apollo-Astro-Snacks/blob/main/README.md) | PROJECT | Developer / Coordination | Terminal / CLI | PROVISIONAL | Neovim development environment |
 | [Post-Apollo-Oh-My-Apollo](https://github.com/kudokudo1/Post-Apollo-Oh-My-Apollo/blob/main/README.md) | PROJECT | Terminal / CLI | Developer / Coordination | PROVISIONAL | Zsh command and shell environment |
 | [Post-Apollo-Fastfetch](https://github.com/kudokudo1/Post-Apollo-Fastfetch/blob/main/README.md) | PROJECT | Terminal / CLI | Visual / Theming | PROVISIONAL | Terminal system-identity display |
@@ -58,7 +60,7 @@ Source: the 18 repositories visible to the linked GitHub account on October 10, 
 | [Meta-Apollo-Logos](https://github.com/kudokudo1/Meta-Apollo-Logos/blob/main/README.md) | PROJECT | Logos / Meaning | History / Provenance; Family navigation | PROVISIONAL | Governing principles and repository design language |
 | [kudokudo1](https://github.com/kudokudo1/kudokudo1/blob/main/README.md) | DIRECTORY | Public Directory | Logos / Meaning | PROVISIONAL | GitHub profile/readme; not automatically a software Patient |
 
-**Coverage:** 18 discovered / 18 recorded. **Classification depth:** candidate-level, not 18 completed architectural audits. The `kudokudo1` profile is a discovery directory rather than automatically a software Patient. Chronicle Library is a historical source rather than current implementation. There may be local-only projects or internal subsystems absent from this GitHub repository inventory.
+**Coverage:** 19 discovered / 19 recorded (18 in the October 10 initial publication; Syntagma added to the October 16 reconciliation). **Classification depth:** candidate-level, not 19 completed architectural audits. The `kudokudo1` profile is a discovery directory rather than automatically a software Patient. Chronicle Library is a historical source rather than current implementation. There may be local-only projects or internal subsystems absent from this GitHub repository inventory.
 
 ## EVIDENCE-BACKED RELATIONSHIPS // SAMPLES
 
@@ -69,17 +71,18 @@ The following are bounded relationships actually supported by specific sources. 
 | Pretty Kitty specifies `shell ~/.local/bin/kitty-zellij`. | Configuration points to a terminal/Zellij wrapper; the wrapper's implementation is not established by this statement. | [kitty.conf](https://github.com/kudokudo1/Post-Apollo-Pretty-Kitty/blob/main/kitty.conf) |
 | CRT-TV describes a control/presentation layer designed around Zellij, with Zellij a separate runtime dependency. | Documented runtime relationship; does not vendor the upstream Zellij source. | [CRT-TV README](https://github.com/kudokudo1/Post-Apollo-CRT-TV/blob/main/README.md) |
 | Sway Config launches Quickshell and calls its `appControl`, Git, and Hospital IPC menu routes. | Configuration/runtime integration; whether those routes currently work on the operator's machine requires live verification. | [Sway config](https://github.com/kudokudo1/Post-Apollo-Sway-Config/blob/main/config) |
-| Taskbars' Hospital Chart service uses PX commands for Patient/Room Charts. | Cross-repository execution integration; this does not imply a Family Chart scope exists. | [HospitalChartService.qml](https://github.com/kudokudo1/The-Post-Apollo-Project/blob/main/services/hospital/HospitalChartService.qml) |
+| Taskbars' GitHub, Hospital Audit and Hospital Chart services invoke PX (`px inspect`/`px logs`, `px audit`, and Hospital Chart operations). | Source-verified command/service integration, not proof that the installed desktop and PX runtimes are synchronized; this does not imply a Family Chart scope exists. | [GitHubService.qml](https://github.com/kudokudo1/The-Post-Apollo-Project/blob/main/services/github/GitHubService.qml); [HospitalAuditService.qml](https://github.com/kudokudo1/The-Post-Apollo-Project/blob/main/services/hospital/HospitalAuditService.qml); [HospitalChartService.qml](https://github.com/kudokudo1/The-Post-Apollo-Project/blob/main/services/hospital/HospitalChartService.qml) |
+| PX tools and AppControl RUN have parallel executable-discovery capabilities. | PX `px-tools` discovers host/Toolbox executables and `px-resolve` applies host-first resolution; AppControl RUN → ALL independently lists unique `$PATH` names and has its own launch paths. SYSTEM telemetry and HUNTER process controls are separate desktop capabilities. **No shared registry, resolver or delegated launch authority is established.** | [px-tools](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp/blob/main/bin/px-tools); [px-resolve](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp/blob/main/bin/px-resolve); [AppControlW.qml](https://github.com/kudokudo1/The-Post-Apollo-Project/blob/main/widgets/AppControlW.qml); [HunterExecutor.qml](https://github.com/kudokudo1/The-Post-Apollo-Project/blob/main/services/system/HunterExecutor.qml) |
 | Taskbars documents a bounded media ↔ tab ↔ desktop identity ↔ PipeWire audio seam. | Documented architectural investigation; **not** proof that automatic tab/audio matching is implemented. | [Media/audio identity contract](https://github.com/kudokudo1/The-Post-Apollo-Project/blob/main/MODEL/contracts/media-tab-audio-identity-v0.md) |
 | Meta Apollo's repository grammar assigns orientation to ATLAS, architecture/contracts to MODEL, and results to EVIDENCE. | Documentation authority; this registry is in ATLAS rather than a runtime location. | [Repository Design Language](https://github.com/kudokudo1/Meta-Apollo-Logos/blob/main/MODEL/Repo-Design-Language.md) |
-| How I Think is an entry point; technical or project-specific facts live in their owning repositories. | Source-of-truth boundary; centralized navigation must not duplicate technical truth. | [How I Think Source Map](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/ATLAS/SOURCE-MAP.md) |
+| Syntagma owns shared working rules while How I Think / Poioumenon retains personal cognition, first-person evidence and history; project-specific technical truth remains in its owning repository. | Source-of-truth and authority boundary; the historical pre-split How I Think pointers are not a second maintained rule authority. | [Syntagma Source Map](https://github.com/kudokudo1/Meta-Apollo-Logos-Syntagma/blob/main/ATLAS/SOURCE-MAP.md); [How I Think Public Model](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/HOW-I-THINK-PUBLIC.md) |
 | Chronicle preserves pre-Git development material. | Historical provenance; never substitute for current source or Git evidence. | [Chronicle README](https://github.com/kudokudo1/The-Post-Apollo-Chronicle-Library/blob/main/README.md) |
 
 **Subsystem-level Families:** Audio / Media is justified as a retrieval neighborhood even without an independent Audio repo. Example canonical entry points include Taskbars' [services/audio](https://github.com/kudokudo1/The-Post-Apollo-Project/tree/main/services/audio) and [services/media](https://github.com/kudokudo1/The-Post-Apollo-Project/tree/main/services/media). This is not automatic ownership or Floor membership. A repository may overlap multiple Families without copying its contents into each.
 
 ## MAINTENANCE // PROVENANCE, OWNERSHIP, PROMOTION
 
-**Registry purpose:** discover where to look. **Patient authority:** owns actual contracts, implementation, source files, and local runtime facts. **Hospital:** owns accepted Room/Assignment/Chart/report coordination and interpretation. **How I Think:** owns collaboration guidance. **PX/Git:** provide relevant operational facts/evidence within their existing scopes.
+**Registry purpose:** discover where to look. **Syntagma:** owns shared AI/operator rules, permissions, Hospital organizational/reporting protocols and semantic interaction rules. **Meta Apollo Logos:** owns family principles and repository design language. **How I Think / Poioumenon:** owns personal cognitive models, first-person evidence and history. **Patient authority:** owns actual contracts, implementation, source files and local runtime facts. **Hospital:** owns accepted Room/Assignment/Chart/report coordination and interpretation. **PX/Git:** provide relevant operational facts/evidence within their existing scopes.
 
 A proposed change should record:
 
@@ -103,10 +106,12 @@ For an accepted change, update the entry and record what prior classification it
 - Should a future family-level index expose accepted report **pointers** from Hospital rather than copying report bodies? Nurse 1's browser transport work and Nurse 2's continuity work own their separate seams.
 - Which actual cross-repository edges matter enough to show by default? Avoid a fully connected graph based solely on READMEs.
 - Dev Exp [`config/repos.tsv`](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp/blob/main/config/repos.tsv) contains older aliases; several legacy GitHub names redirect. Live PX effect and any registry reconciliation belong to Dev Exp verification, not this document.
-- What local-only and internal subsystem inventory should supplement the 18-repository GitHub list?
+- What local-only and internal subsystem inventory should supplement the 19-repository GitHub list (18 in the initial October 10 snapshot)?
 
 ## RECOVERY / NEXT
 
 An incoming worker needs only the matching proposed Family pointer, its actual Patient/Room/Assignment, and the smallest relevant source links. Before writes or trust-sensitive actions, reacquire current Git HEAD, live ownership, and relevant operative decisions. **This provisional ATLAS registry is navigation, not approval to edit.**
 
 **Initial publication (October 10, 2026):** Operator approved the location, all-18 inventory, and review/promotion process. The documentation registry was published to `main` through [PR #2](https://github.com/kudokudo1/Meta-Apollo-Logos/pull/2) (merge `70c155a6549a4c89064f37cb56fb608114612cdb`) after Intern F independently reviewed the initial artifact and reported PASS with no required corrections. **Individual primary/related Family memberships remain PROVISIONAL** until separately accepted; the historical Chronicle record remains HISTORICAL. Registry publication did not add Hospital `FAMILY` Chart scope, Floor membership, new permissions, or automatic canonical promotion.
+
+**Inventory and authority reconciliation (October 16, 2026):** The source-backed 19-repository inventory adds Syntagma as a `PROJECT` with `PROVISIONAL` Developer / Coordination placement, corrects the shared-rule versus personal-evidence authority split, and distinguishes existing PX-backed GitHub/Hospital services from parallel PX Tools / AppControl RUN discovery. These changes supersede only outdated current-coverage and ownership descriptions, **not** the October 10 publication history or original candidate classifications. No individual membership is promoted, no Hospital `FAMILY` scope is created, and no GitHub or live-runtime action is authorized by this Registry entry.
