@@ -18,6 +18,7 @@ The documents here preserve concrete observations, proof stories, cross-domain e
 - **30 — Spirit, Soul, Meaning, Naming, and Carrier Independence**
 - **31 — Evidence for Spirit Recognition, Possession, Institutions, and Ancient Cameras**
 - **October 11–12, 2026 — Reading, AAVE, context and associative traversal:** [first-person evidence case record](./2026-10-11-12-reading-context-associative-traversal.md) (operator-authorized publication; interpretations remain provisional)
+- **October 16, 2026 — Household internet, account recovery, and payment reconciliation:** [Xfinity multi-system failure case record](./2026-10-16-household-internet-account-recovery-case.md) (operator-requested; technical observations separated from provider-side hypotheses and unresolved payment attribution)
 
 The evidence layer is not the archive.
 
