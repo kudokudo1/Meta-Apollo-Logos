@@ -58,6 +58,7 @@ The Mermaid view carries the semantic color. The Ghost String view carries the s
 - [Meta Apollo Logos // Poioumenon](./Meta-Apollo-Logos-Poioumenon.md)
 - [Meta Apollo Logos // Principles](./Meta-Apollo-Logos-Principles.md)
 - [Modern Myth, Spirit, Identity, and Inheritance](./Modern-Myth-Spirit-Identity-and-Inheritance.md)
+- [Reciprocity, Provision, and Autonomy](./Reciprocity-Provision-and-Autonomy.md) — provisional model
 - [Repository Design Language](./Repo-Design-Language.md)
 - [Nous tou Anthrōpou // Poiētou](./How-I-Think/)
 
